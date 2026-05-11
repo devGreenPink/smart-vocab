@@ -1,137 +1,3767 @@
-[
-  {
-    "word": "Arbitrage",
-    "phonetic": "/ˈɑːr.bɪ.trɑːʒ/",
+[{
+    "word": "Routine",
+    "phonetic": "/ruːˈtiːn/",
     "type": "Noun",
-    "category": "Finance",
-    "meaning": "The practice of buying and selling assets simultaneously to profit from price differences.",
-    "meaning_th": "การซื้อขายสินทรัพย์พร้อมกันเพื่อทำกำไรจากส่วนต่างราคา",
-    "example": "The hedge fund used arbitrage strategies to exploit price discrepancies between markets."
+    "category": "Daily Life",
+    "meaning": "A usual or fixed way of doing things.",
+    "meaning_th": "วิธีการทำสิ่งต่างๆ ตามปกติหรือที่กำหนดไว้ตายตัว",
+    "example": "My morning routine includes drinking coffee and reading the news."
   },
   {
-    "word": "Intrinsic Value",
-    "phonetic": "/ɪnˈtrɪn.sɪk ˈvæl.juː/",
-    "type": "Noun Phrase",
-    "category": "Finance",
-    "meaning": "The perceived or calculated real value of an asset, independent of its market price.",
-    "meaning_th": "มูลค่าที่แท้จริงของสินทรัพย์ ไม่ขึ้นกับราคาตลาด",
-    "example": "Warren Buffett focuses on buying stocks below their intrinsic value."
-  },
-  {
-    "word": "Volatility",
-    "phonetic": "/ˌvɒl.əˈtɪl.ɪ.ti/",
-    "type": "Noun",
-    "category": "Finance",
-    "meaning": "The degree of variation in the price of a financial instrument over time.",
-    "meaning_th": "ระดับความผันผวนของราคาสินทรัพย์ทางการเงินตามเวลา",
-    "example": "High volatility in the crypto market makes it risky for conservative investors."
-  },
-  {
-    "word": "Liquidity",
-    "phonetic": "/lɪˈkwɪd.ɪ.ti/",
-    "type": "Noun",
-    "category": "Finance",
-    "meaning": "The ease with which an asset can be converted into cash without affecting its price.",
-    "meaning_th": "ความสะดวกในการแปลงสินทรัพย์เป็นเงินสดโดยไม่กระทบราคา",
-    "example": "Real estate has lower liquidity compared to stocks or bonds."
-  },
-  {
-    "word": "Due Diligence",
-    "phonetic": "/djuː ˈdɪl.ɪ.dʒəns/",
-    "type": "Noun",
-    "category": "Finance",
-    "meaning": "The thorough investigation of a business or investment before entering an agreement.",
-    "meaning_th": "การตรวจสอบธุรกิจหรือการลงทุนอย่างละเอียดก่อนทำข้อตกลง",
-    "example": "Investors must conduct due diligence before committing capital to any startup."
-  },
-  {
-    "word": "ROI",
-    "phonetic": "/ɑːr.əʊˈaɪ/",
-    "type": "Abbreviation",
-    "category": "Finance",
-    "meaning": "Return on Investment — a measure of the profitability of an investment.",
-    "meaning_th": "ผลตอบแทนจากการลงทุน — ตัวชี้วัดความคุ้มค่าของการลงทุน",
-    "example": "The marketing campaign delivered a 300% ROI within the first quarter."
-  },
-  {
-    "word": "Neural Network",
-    "phonetic": "/ˈnjʊər.əl ˈnet.wɜːk/",
-    "type": "Noun",
-    "category": "AI & Tech",
-    "meaning": "A computing system modeled after the human brain, used in machine learning.",
-    "meaning_th": "ระบบคอมพิวเตอร์ที่จำลองการทำงานของสมองมนุษย์ ใช้ใน Machine Learning",
-    "example": "The neural network was trained on millions of images to recognize faces accurately."
-  },
-  {
-    "word": "Prompt Engineering",
-    "phonetic": "/prɒmpt ˌen.dʒɪˈnɪər.ɪŋ/",
-    "type": "Noun",
-    "category": "AI & Tech",
-    "meaning": "The art of designing effective inputs to guide AI models toward desired outputs.",
-    "meaning_th": "ศิลปะการออกแบบ input เพื่อนำทาง AI ให้ได้ผลลัพธ์ที่ต้องการ",
-    "example": "Prompt engineering skills are now highly valued in the AI industry."
-  },
-  {
-    "word": "Hallucination",
-    "phonetic": "/həˌluː.sɪˈneɪ.ʃən/",
-    "type": "Noun",
-    "category": "AI & Tech",
-    "meaning": "When an AI model generates factually incorrect or nonsensical information confidently.",
-    "meaning_th": "เมื่อ AI สร้างข้อมูลที่ผิดพลาดหรือไม่สมเหตุสมผลอย่างมั่นใจ",
-    "example": "The chatbot experienced hallucination and cited non-existent research papers."
-  },
-  {
-    "word": "Scalability",
-    "phonetic": "/ˌskeɪ.ləˈbɪl.ɪ.ti/",
-    "type": "Noun",
-    "category": "AI & Tech",
-    "meaning": "The ability of a system to handle increasing workloads by adding resources.",
-    "meaning_th": "ความสามารถของระบบในการรองรับปริมาณงานที่เพิ่มขึ้นโดยเพิ่มทรัพยากร",
-    "example": "The cloud-based architecture ensured scalability during peak traffic periods."
-  },
-  {
-    "word": "Leverage",
-    "phonetic": "/ˈlev.ər.ɪdʒ/",
-    "type": "Noun/Verb",
-    "category": "Business",
-    "meaning": "Using borrowed resources or influence to maximize potential returns or impact.",
-    "meaning_th": "การใช้ทรัพยากรที่ยืมมาหรืออิทธิพลเพื่อเพิ่มผลตอบแทนหรือผลกระทบ",
-    "example": "The startup leveraged its existing customer base to expand into new markets."
-  },
-  {
-    "word": "Synergy",
-    "phonetic": "/ˈsɪn.ər.dʒi/",
-    "type": "Noun",
-    "category": "Business",
-    "meaning": "The combined effect of elements working together, greater than the sum of their parts.",
-    "meaning_th": "ผลรวมที่ได้จากการทำงานร่วมกัน มากกว่าผลรวมของแต่ละส่วน",
-    "example": "The merger created synergy, reducing costs while increasing market reach."
-  },
-  {
-    "word": "Stakeholder",
-    "phonetic": "/ˈsteɪk.həʊl.dər/",
-    "type": "Noun",
-    "category": "Business",
-    "meaning": "Any person or group with an interest or concern in a business or organization.",
-    "meaning_th": "บุคคลหรือกลุ่มที่มีส่วนได้ส่วนเสียในธุรกิจหรือองค์กร",
-    "example": "The CEO presented the quarterly results to all key stakeholders."
-  },
-  {
-    "word": "Benchmark",
-    "phonetic": "/ˈbentʃ.mɑːrk/",
-    "type": "Noun/Verb",
-    "category": "Business",
-    "meaning": "A standard or reference point used for comparison or performance evaluation.",
-    "meaning_th": "มาตรฐานหรือจุดอ้างอิงที่ใช้ในการเปรียบเทียบหรือประเมินผลการปฏิบัติงาน",
-    "example": "Our sales team benchmarked performance against the industry's top competitors."
-  },
-  {
-    "word": "Pivot",
-    "phonetic": "/ˈpɪv.ət/",
+    "word": "Commute",
+    "phonetic": "/kəˈmjuːt/",
     "type": "Verb/Noun",
-    "category": "Business",
-    "meaning": "A fundamental change in a company's strategy or business model.",
-    "meaning_th": "การเปลี่ยนแปลงกลยุทธ์หรือรูปแบบธุรกิจอย่างพื้นฐาน",
-    "example": "After initial failures, the team decided to pivot to a B2B software model."
-  }
-]
+    "category": "Daily Life",
+    "meaning": "To travel regularly between work and home.",
+    "meaning_th": "การเดินทางไปมาระหว่างที่ทำงานและบ้านเป็นประจำ",
+    "example": "My daily commute takes about an hour by train."
+  },
+  {
+    "word": "Grocery",
+    "phonetic": "/ˈɡrəʊ.sər.i/",
+    "type": "Noun",
+    "category": "Daily Life",
+    "meaning": "Food and other goods sold by a grocer or at a supermarket.",
+    "meaning_th": "อาหารและสินค้าอื่นๆ ที่ขายโดยร้านขายของชำหรือที่ซูเปอร์มาร์เก็ต",
+    "example": "I need to buy some groceries for dinner tonight."
+  },
+  {
+    "word": "Laundry",
+    "phonetic": "/ˈlɔːn.dri/",
+    "type": "Noun",
+    "category": "Daily Life",
+    "meaning": "Clothes and linen that need to be washed or that have been newly washed.",
+    "meaning_th": "เสื้อผ้าและผ้าที่ต้องซักหรือที่เพิ่งซักเสร็จใหม่ๆ",
+    "example": "I usually do my laundry on Sunday mornings."
+  },
+  {
+    "word": "Exhausted",
+    "phonetic": "/ɪɡˈzɔː.stɪd/",
+    "type": "Adjective",
+    "category": "Daily Life",
+    "meaning": "Extremely tired.",
+    "meaning_th": "เหนื่อยล้าอย่างมาก",
+    "example": "After a long day at the office, I was completely exhausted."
+  },
+  {
+    "word": "Nap",
+    "phonetic": "/næp/",
+    "type": "Noun/Verb",
+    "category": "Daily Life",
+    "meaning": "A short sleep, especially during the day.",
+    "meaning_th": "การนอนหลับสั้นๆ โดยเฉพาะในช่วงกลางวัน",
+    "example": "Taking a 20-minute nap can boost your energy for the afternoon."
+  },
+  {
+    "word": "Appliance",
+    "phonetic": "/əˈplaɪ.əns/",
+    "type": "Noun",
+    "category": "Daily Life",
+    "meaning": "A device, machine, or piece of equipment, especially an electrical one that is used in the house.",
+    "meaning_th": "อุปกรณ์ เครื่องจักร หรือชิ้นส่วนของเครื่องมือ โดยเฉพาะเครื่องใช้ไฟฟ้าที่ใช้ในบ้าน",
+    "example": "Unplug household appliances when they are not in use to save electricity."
+  },
+  {
+    "word": "Budget",
+    "phonetic": "/ˈbʌdʒ.ɪt/",
+    "type": "Noun/Verb",
+    "category": "Daily Life",
+    "meaning": "A plan to show how much money a person or organization will earn and how much they will need or be able to spend.",
+    "meaning_th": "แผนที่แสดงว่าบุคคลหรือองค์กรจะหาเงินได้เท่าไร และจะต้องใช้หรือสามารถใช้จ่ายได้เท่าไร",
+    "example": "We need to stick to our monthly budget to save for the trip."
+  },
+  {
+    "word": "Schedule",
+    "phonetic": "/ˈʃedʒ.uːl/",
+    "type": "Noun/Verb",
+    "category": "Daily Life",
+    "meaning": "A list of planned activities or things to be done showing the times or dates when they are intended to happen.",
+    "meaning_th": "รายการกิจกรรมที่วางแผนไว้หรือสิ่งที่จะต้องทำ ซึ่งแสดงเวลาหรือวันที่ตั้งใจจะให้เกิดขึ้น",
+    "example": "My schedule is completely full for this week."
+  },
+  {
+    "word": "Appointment",
+    "phonetic": "/əˈpɔɪnt.mənt/",
+    "type": "Noun",
+    "category": "Daily Life",
+    "meaning": "A formal arrangement to meet or visit someone at a particular time and place.",
+    "meaning_th": "การจัดการอย่างเป็นทางการเพื่อพบหรือเยี่ยมเยียนบางคนในเวลาและสถานที่ที่กำหนด",
+    "example": "I have a dentist appointment tomorrow afternoon."
+  },
+  {
+    "word": "Traffic",
+    "phonetic": "/ˈtræf.ɪk/",
+    "type": "Noun",
+    "category": "Daily Life",
+    "meaning": "The number of vehicles moving along roads.",
+    "meaning_th": "จำนวนยานพาหนะที่เคลื่อนที่ไปตามถนน",
+    "example": "The traffic is usually very bad during rush hour."
+  },
+  {
+    "word": "Colleague",
+    "phonetic": "/ˈkɒl.iːɡ/",
+    "type": "Noun",
+    "category": "Daily Life",
+    "meaning": "One of a group of people who work together.",
+    "meaning_th": "หนึ่งในกลุ่มคนทำงานร่วมกัน",
+    "example": "I am having lunch with a colleague today."
+  },
+  {
+    "word": "Deadline",
+    "phonetic": "/ˈded.laɪn/",
+    "type": "Noun",
+    "category": "Daily Life",
+    "meaning": "A time or day by which something must be done.",
+    "meaning_th": "เวลาหรือวันที่ที่ต้องทำบางสิ่งให้เสร็จ",
+    "example": "We have to finish this project before the Friday deadline."
+  },
+  {
+    "word": "Chore",
+    "phonetic": "/tʃɔːr/",
+    "type": "Noun",
+    "category": "Daily Life",
+    "meaning": "A job or piece of work that is often boring or unpleasant but needs to be done regularly.",
+    "meaning_th": "งานหรืองานชิ้นหนึ่งที่มักจะน่าเบื่อหรือไม่น่าอภิรมย์แต่ต้องทำเป็นประจำ",
+    "example": "Washing dishes and sweeping the floor are my daily chores."
+  },
+  {
+    "word": "Neighborhood",
+    "phonetic": "/ˈneɪ.bə.hʊd/",
+    "type": "Noun",
+    "category": "Daily Life",
+    "meaning": "The area of a town that surrounds someone's home, or the people who live in this area.",
+    "meaning_th": "พื้นที่ของเมืองที่ล้อมรอบบ้านของบางคน หรือคนที่อาศัยอยู่ในพื้นที่นี้",
+    "example": "There is a very good coffee shop in my neighborhood."
+  },
+  {
+    "word": "Hobby",
+    "phonetic": "/ˈhɒb.i/",
+    "type": "Noun",
+    "category": "Daily Life",
+    "meaning": "An activity that someone does for pleasure when they are not working.",
+    "meaning_th": "กิจกรรมที่บางคนทำเพื่อความเพลิดเพลินเมื่อพวกเขาไม่ได้ทำงาน",
+    "example": "Photography has been my favorite hobby for years."
+  },
+  {
+    "word": "Exercise",
+    "phonetic": "/ˈek.sə.saɪz/",
+    "type": "Noun/Verb",
+    "category": "Daily Life",
+    "meaning": "Physical activity that you do to make your body strong and healthy.",
+    "meaning_th": "กิจกรรมทางกายที่คุณทำเพื่อให้ร่างกายของคุณแข็งแรงและมีสุขภาพดี",
+    "example": "You should try to get at least 30 minutes of exercise every day."
+  },
+  {
+    "word": "Beverage",
+    "phonetic": "/ˈbev.ər.ɪdʒ/",
+    "type": "Noun",
+    "category": "Daily Life",
+    "meaning": "A drink of any type.",
+    "meaning_th": "เครื่องดื่มทุกประเภท",
+    "example": "We offer a wide selection of hot and cold beverages."
+  },
+  {
+    "word": "Utensil",
+    "phonetic": "/juːˈten.sɪl/",
+    "type": "Noun",
+    "category": "Daily Life",
+    "meaning": "A tool with a particular use, especially in a kitchen.",
+    "meaning_th": "เครื่องมือที่มีการใช้งานเฉพาะ โดยเฉพาะในห้องครัว",
+    "example": "Wash all cooking utensils carefully after use."
+  },
+  {
+    "word": "Wardrobe",
+    "phonetic": "/ˈwɔː.drəʊb/",
+    "type": "Noun",
+    "category": "Daily Life",
+    "meaning": "A tall cupboard in which you hang your clothes, or all of the clothes that you own.",
+    "meaning_th": "ตู้ทรงสูงที่คุณใช้แขวนเสื้อผ้า หรือเสื้อผ้าทั้งหมดที่คุณเป็นเจ้าของ",
+    "example": "I need to clean out my wardrobe and donate some old clothes."
+  },
+  {
+    "word": "Mirror",
+    "phonetic": "/ˈmɪr.ər/",
+    "type": "Noun",
+    "category": "Daily Life",
+    "meaning": "A piece of glass with a shiny, metal-covered back that reflects light.",
+    "meaning_th": "ชิ้นแก้วที่มีด้านหลังเป็นโลหะมันวาวซึ่งสะท้อนแสง",
+    "example": "She checked her makeup in the mirror before leaving the house."
+  },
+  {
+    "word": "Pillow",
+    "phonetic": "/ˈpɪl.əʊ/",
+    "type": "Noun",
+    "category": "Daily Life",
+    "meaning": "A rectangular cloth bag filled with soft material, used for resting your head on in bed.",
+    "meaning_th": "ถุงผ้าสี่เหลี่ยมผืนผ้าที่บรรจุวัสดุนุ่ม ใช้สำหรับพักศีรษะของคุณบนเตียง",
+    "example": "I prefer sleeping with a very soft pillow."
+  },
+  {
+    "word": "Blanket",
+    "phonetic": "/ˈblæŋ.kɪt/",
+    "type": "Noun",
+    "category": "Daily Life",
+    "meaning": "A flat cover made of wool or similar warm material, usually used on a bed.",
+    "meaning_th": "ผ้าคลุมแบนๆ ที่ทำจากขนสัตว์หรือวัสดุให้ความอบอุ่นที่คล้ายกัน มักใช้บนเตียง",
+    "example": "It is getting cold, so I need an extra blanket tonight."
+  },
+  {
+    "word": "Towel",
+    "phonetic": "/taʊəl/",
+    "type": "Noun",
+    "category": "Daily Life",
+    "meaning": "A piece of cloth or paper used for drying someone or something that is wet.",
+    "meaning_th": "ชิ้นผ้าหรือกระดาษที่ใช้สำหรับเช็ดคนหรือบางสิ่งที่เปียกให้แห้ง",
+    "example": "Don't forget to bring a towel to the gym."
+  },
+  {
+    "word": "Wallet",
+    "phonetic": "/ˈwɒl.ɪt/",
+    "type": "Noun",
+    "category": "Daily Life",
+    "meaning": "A small folding case for carrying paper money, credit cards and other flat objects.",
+    "meaning_th": "กล่องพับขนาดเล็กสำหรับพกพาธนบัตร บัตรเครดิต และวัตถุแบนๆ อื่นๆ",
+    "example": "I panicked when I couldn't find my wallet in my bag."
+  },
+  {
+    "word": "Backpack",
+    "phonetic": "/ˈbæk.pæk/",
+    "type": "Noun",
+    "category": "Daily Life",
+    "meaning": "A large bag used to carry things on your back.",
+    "meaning_th": "กระเป๋าใบใหญ่ที่ใช้สำหรับสะพายสิ่งของไว้บนหลังของคุณ",
+    "example": "He put his laptop and notebooks into his backpack."
+  },
+  {
+    "word": "Umbrella",
+    "phonetic": "/ʌmˈbrel.ə/",
+    "type": "Noun",
+    "category": "Daily Life",
+    "meaning": "A device for protection against the rain.",
+    "meaning_th": "อุปกรณ์สำหรับป้องกันฝน",
+    "example": "Look at those dark clouds; you should take an umbrella with you."
+  },
+  {
+    "word": "Elevator",
+    "phonetic": "/ˈel.ɪ.veɪ.tər/",
+    "type": "Noun",
+    "category": "Daily Life",
+    "meaning": "A machine that carries people or goods up and down to different levels in a building.",
+    "meaning_th": "เครื่องจักรที่ขนส่งคนหรือสินค้าขึ้นและลงไปยังชั้นต่างๆ ในอาคาร",
+    "example": "Take the elevator to the 5th floor."
+  },
+  {
+    "word": "Receipt",
+    "phonetic": "/rɪˈsiːt/",
+    "type": "Noun",
+    "category": "Daily Life",
+    "meaning": "A piece of paper that proves that money, goods, or information have been received.",
+    "meaning_th": "ชิ้นกระดาษที่พิสูจน์ว่าได้รับเงิน สินค้า หรือข้อมูลแล้ว",
+    "example": "Keep the receipt in case you need to return the item."
+  },
+  {
+    "word": "Queue",
+    "phonetic": "/kjuː/",
+    "type": "Noun/Verb",
+    "category": "Daily Life",
+    "meaning": "A line of people, usually standing or in cars, waiting for something.",
+    "meaning_th": "แถวของคน ซึ่งมักจะยืนหรืออยู่ในรถ ที่กำลังรอคอยบางสิ่งบางอย่าง",
+    "example": "There was a long queue of people waiting outside the restaurant."
+  },{
+"word": "Recipe",
+"phonetic": "/ˈres.ɪ.pi/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A set of instructions telling you how to prepare and cook food.",
+"meaning_th": "ชุดคำสั่งที่บอกคุณถึงวิธีเตรียมและปรุงอาหาร",
+"example": "I found a great recipe for chocolate cake online."
+},
+{
+"word": "Ingredient",
+"phonetic": "/ɪnˈɡriː.di.ənt/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A food that is used with other foods in the preparation of a particular dish.",
+"meaning_th": "อาหารที่ใช้ร่วมกับอาหารอื่นๆ ในการเตรียมอาหารจานใดจานหนึ่ง",
+"example": "Fresh ingredients are the key to a delicious meal."
+},
+{
+"word": "Stove",
+"phonetic": "/stəʊv/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A piece of equipment that burns fuel or uses electricity in order to heat a place or cook food.",
+"meaning_th": "ชิ้นส่วนอุปกรณ์ที่เผาไหม้เชื้อเพลิงหรือใช้ไฟฟ้าเพื่อให้ความร้อนแก่สถานที่หรือปรุงอาหาร",
+"example": "Don't forget to turn off the stove after you finish cooking."
+},
+{
+"word": "Microwave",
+"phonetic": "/ˈmaɪ.krə.weɪv/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "An electric oven that uses waves of energy to cook or heat food quickly.",
+"meaning_th": "เตาอบไฟฟ้าที่ใช้คลื่นพลังงานในการปรุงหรืออุ่นอาหารอย่างรวดเร็ว",
+"example": "You can heat up the leftovers in the microwave."
+},
+{
+"word": "Refrigerator",
+"phonetic": "/rɪˈfrɪdʒ.ər.eɪ.tər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A piece of electrical equipment in which food is kept cold so that it stays fresh.",
+"meaning_th": "ชิ้นส่วนอุปกรณ์ไฟฟ้าที่เก็บรักษาอาหารให้เย็นเพื่อให้คงความสดใหม่",
+"example": "Please put the milk back in the refrigerator."
+},
+{
+"word": "Faucet",
+"phonetic": "/ˈfɔː.sɪt/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A device that controls the flow of liquid, especially water, from a pipe.",
+"meaning_th": "อุปกรณ์ที่ควบคุมการไหลของของเหลว โดยเฉพาะน้ำ จากท่อ",
+"example": "The faucet in the bathroom is leaking and needs to be fixed."
+},
+{
+"word": "Sink",
+"phonetic": "/sɪŋk/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A bowl that is attached to the wall in a kitchen or bathroom in which you wash dishes or your hands.",
+"meaning_th": "อ่างที่ติดกับผนังในห้องครัวหรือห้องน้ำซึ่งคุณใช้ล้างจานหรือล้างมือ",
+"example": "Leave the dirty plates in the sink."
+},
+{
+"word": "Broom",
+"phonetic": "/bruːm/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A brush with a long handle, used for cleaning the floor.",
+"meaning_th": "แปรงที่มีด้ามยาว ใช้สำหรับทำความสะอาดพื้น",
+"example": "I need a broom to sweep the kitchen floor."
+},
+{
+"word": "Dustpan",
+"phonetic": "/ˈdʌst.pæn/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A flat container with a handle into which you brush dust and dirt.",
+"meaning_th": "ภาชนะแบนๆ ที่มีด้ามจับซึ่งคุณใช้ปัดฝุ่นและสิ่งสกปรกใส่ลงไป",
+"example": "Sweep the dirt into the dustpan."
+},
+{
+"word": "Vacuum",
+"phonetic": "/ˈvæk.juːm/",
+"type": "Verb/Noun",
+"category": "Daily Life",
+"meaning": "A machine that cleans floors and other surfaces by sucking up dust and dirt.",
+"meaning_th": "เครื่องจักรที่ทำความสะอาดพื้นและพื้นผิวอื่นๆ โดยการดูดฝุ่นและสิ่งสกปรก",
+"example": "I have to vacuum the living room carpet today."
+},
+{
+"word": "Garbage",
+"phonetic": "/ˈɡɑː.bɪdʒ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "Waste material or unwanted things that you throw away.",
+"meaning_th": "วัสดุเหลือทิ้งหรือสิ่งของที่ไม่ต้องการซึ่งคุณโยนทิ้งไป",
+"example": "Please take out the garbage before you leave."
+},
+{
+"word": "Bin",
+"phonetic": "/bɪn/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A container for waste.",
+"meaning_th": "ภาชนะสำหรับใส่ขยะ",
+"example": "Throw that empty bottle in the recycling bin."
+},
+{
+"word": "Detergent",
+"phonetic": "/dɪˈtɜː.dʒənt/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A chemical substance in the form of a powder or a liquid for removing dirt from clothes, dishes, etc.",
+"meaning_th": "สารเคมีในรูปของผงหรือของเหลวสำหรับขจัดสิ่งสกปรกออกจากเสื้อผ้า จาน ฯลฯ",
+"example": "We are running out of laundry detergent."
+},
+{
+"word": "Shampoo",
+"phonetic": "/ʃæmˈpuː/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A liquid used for washing hair.",
+"meaning_th": "ของเหลวที่ใช้สำหรับสระผม",
+"example": "This shampoo makes my hair feel very soft."
+},
+{
+"word": "Soap",
+"phonetic": "/səʊp/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A substance used for washing the body or other things.",
+"meaning_th": "สารที่ใช้สำหรับล้างร่างกายหรือสิ่งอื่นๆ",
+"example": "Wash your hands thoroughly with soap and water."
+},
+{
+"word": "Toothpaste",
+"phonetic": "/ˈtuːθ.peɪst/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A substance that you put onto a toothbrush to clean your teeth.",
+"meaning_th": "สารที่คุณใส่บนแปรงสีฟันเพื่อทำความสะอาดฟันของคุณ",
+"example": "Squeeze the toothpaste gently from the bottom of the tube."
+},
+{
+"word": "Toothbrush",
+"phonetic": "/ˈtuːθ.brʌʃ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A small brush with a long handle that you use to clean your teeth.",
+"meaning_th": "แปรงขนาดเล็กที่มีด้ามยาวที่คุณใช้ทำความสะอาดฟันของคุณ",
+"example": "You should change your toothbrush every three months."
+},
+{
+"word": "Razor",
+"phonetic": "/ˈreɪ.zər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A piece of equipment with a sharp blade used for removing hair from the face, legs, etc.",
+"meaning_th": "ชิ้นส่วนอุปกรณ์ที่มีใบมีดแหลมคมใช้สำหรับกำจัดขนออกจากใบหน้า ขา ฯลฯ",
+"example": "He cut his chin with his razor while shaving."
+},
+{
+"word": "Comb",
+"phonetic": "/kəʊm/",
+"type": "Noun/Verb",
+"category": "Daily Life",
+"meaning": "A flat piece of plastic, wood, or metal with a thin row of long, narrow parts along one side, used to tidy and arrange your hair.",
+"meaning_th": "ชิ้นพลาสติก ไม้ หรือโลหะแบนๆ ที่มีชิ้นส่วนยาวและแคบเรียงเป็นแถวบางๆ ตลอดขอบด้านหนึ่ง ใช้เพื่อจัดระเบียบและจัดทรงผมของคุณ",
+"example": "She ran a comb quickly through her hair."
+},
+{
+"word": "Hairdryer",
+"phonetic": "/ˈheəˌdraɪ.ər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "An electrical device, usually held in the hand, which blows out hot air and is used for drying a person's hair.",
+"meaning_th": "อุปกรณ์ไฟฟ้า ซึ่งมักจะถือไว้ในมือ ที่เป่าลมอุ่นออกมาและใช้สำหรับเป่าผมของคนให้แห้ง",
+"example": "It is much faster to use a hairdryer than letting your hair air-dry."
+},
+{
+"word": "Plug",
+"phonetic": "/plʌɡ/",
+"type": "Noun/Verb",
+"category": "Daily Life",
+"meaning": "A small plastic or rubber object with metal pins, attached to the end of a wire on a piece of electrical equipment.",
+"meaning_th": "วัตถุพลาสติกหรือยางขนาดเล็กที่มีขาโลหะ ติดอยู่กับปลายสายไฟบนชิ้นส่วนอุปกรณ์ไฟฟ้า",
+"example": "Pull the plug out of the socket carefully."
+},
+{
+"word": "Socket",
+"phonetic": "/ˈsɒk.ɪt/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The part of a piece of equipment, especially electrical equipment, into which another part fits.",
+"meaning_th": "ส่วนหนึ่งของชิ้นส่วนอุปกรณ์ โดยเฉพาะอุปกรณ์ไฟฟ้า ซึ่งมีอีกส่วนหนึ่งเสียบเข้าไปได้พอดี",
+"example": "We need another socket in the wall for the television."
+},
+{
+"word": "Switch",
+"phonetic": "/swɪtʃ/",
+"type": "Noun/Verb",
+"category": "Daily Life",
+"meaning": "A small device, usually pushed up or down with your finger, that controls and turns on or off an electric current.",
+"meaning_th": "อุปกรณ์ขนาดเล็ก ซึ่งมักจะดันขึ้นหรือลงด้วยนิ้วของคุณ ที่ควบคุมและเปิดหรือปิดกระแสไฟฟ้า",
+"example": "Can you flip the light switch on your way out?"
+},
+{
+"word": "Charger",
+"phonetic": "/ˈtʃɑː.dʒər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A device that is used to recharge a battery.",
+"meaning_th": "อุปกรณ์ที่ใช้สำหรับชาร์จแบตเตอรี่ใหม่",
+"example": "I left my phone charger at the office."
+},
+{
+"word": "Battery",
+"phonetic": "/ˈbæt.ər.i/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A device that produces electricity to provide power for radios, cars, etc.",
+"meaning_th": "อุปกรณ์ที่ผลิตไฟฟ้าเพื่อให้พลังงานแก่วิทยุ รถยนต์ ฯลฯ",
+"example": "The remote control needs two AA batteries."
+},
+{
+"word": "Screen",
+"phonetic": "/skriːn/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A flat surface in a cinema, on a television, or as part of a computer, on which pictures or words are shown.",
+"meaning_th": "พื้นผิวแบนๆ ในโรงภาพยนตร์ บนโทรทัศน์ หรือเป็นส่วนหนึ่งของคอมพิวเตอร์ ซึ่งมีรูปภาพหรือคำศัพท์แสดงอยู่",
+"example": "Staring at the computer screen all day is bad for your eyes."
+},
+{
+"word": "Keyboard",
+"phonetic": "/ˈkiː.bɔːd/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The set of keys on a computer or typewriter that you press in order to make it work.",
+"meaning_th": "ชุดปุ่มบนคอมพิวเตอร์หรือเครื่องพิมพ์ดีดที่คุณกดเพื่อให้มันทำงาน",
+"example": "I accidentally spilled coffee on my keyboard."
+},
+{
+"word": "Password",
+"phonetic": "/ˈpɑːs.wɜːd/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A secret word or combination of letters or numbers, used for communicating with another person or with a computer.",
+"meaning_th": "คำลับหรือตัวอักษรหรือตัวเลขผสมกัน ใช้สำหรับการสื่อสารกับบุคคลอื่นหรือกับคอมพิวเตอร์",
+"example": "Make sure you choose a strong password for your email account."
+},
+{
+"word": "Account",
+"phonetic": "/əˈkaʊnt/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "An arrangement with a bank to keep your money there and to allow you to take it out when you need to.",
+"meaning_th": "การจัดการกับธนาคารเพื่อเก็บเงินของคุณไว้ที่นั่นและอนุญาตให้คุณนำออกมาเมื่อคุณต้องการ",
+"example": "I opened a new savings account at the bank today."
+},
+{
+"word": "Notification",
+"phonetic": "/ˌnəʊ.tɪ.fɪˈkeɪ.ʃən/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A message or alert on a mobile device or computer that tells you about something.",
+"meaning_th": "ข้อความหรือการแจ้งเตือนบนอุปกรณ์มือถือหรือคอมพิวเตอร์ที่บอกคุณเกี่ยวกับบางสิ่งบางอย่าง",
+"example": "I turned off notifications on my phone so I could concentrate."
+},{
+"word": "Mattress",
+"phonetic": "/ˈmæt.rəs/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A fabric case filled with soft, firm, or springy material, used for sleeping on.",
+"meaning_th": "ถุงผ้าที่บรรจุวัสดุที่นุ่ม แน่น หรือยืดหยุ่น ใช้สำหรับนอนทับ",
+"example": "I need to buy a new mattress because my back hurts every morning."
+},
+{
+"word": "Bed sheet",
+"phonetic": "/bed ʃiːt/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A large piece of thin cloth used on a bed for sleeping on or under.",
+"meaning_th": "ชิ้นผ้าบางขนาดใหญ่ที่ใช้บนเตียงสำหรับนอนทับหรือนอนอยู่ข้างใต้",
+"example": "Please change the bed sheets before the guests arrive."
+},
+{
+"word": "Curtain",
+"phonetic": "/ˈkɜː.tən/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A piece of material, especially cloth, that hangs across a window or opening to make a room or part of a room dark or private.",
+"meaning_th": "ชิ้นวัสดุ โดยเฉพาะผ้า ที่แขวนข้ามหน้าต่างหรือช่องเปิดเพื่อทำให้ห้องหรือส่วนหนึ่งของห้องมืดหรือเป็นส่วนตัว",
+"example": "She drew the curtains to block out the morning sunlight."
+},
+{
+"word": "Carpet",
+"phonetic": "/ˈkɑː.pɪt/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A heavy, woven material for covering floors or stairs.",
+"meaning_th": "วัสดุทอเนื้อหนักสำหรับปูพื้นหรือบันได",
+"example": "He spilled a glass of red wine on the new carpet."
+},
+{
+"word": "Furniture",
+"phonetic": "/ˈfɜː.nɪ.tʃər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "Things such as chairs, tables, beds, cupboards, etc. that are put into a house or other building to make it suitable and comfortable for living or working in.",
+"meaning_th": "สิ่งของต่างๆ เช่น เก้าอี้ โต๊ะ เตียง ตู้ ฯลฯ ที่นำเข้าไปในบ้านหรืออาคารอื่นเพื่อให้เหมาะสมและสะดวกสบายสำหรับการอยู่อาศัยหรือทำงาน",
+"example": "They bought some new furniture for their living room."
+},
+{
+"word": "Couch",
+"phonetic": "/kaʊtʃ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A long piece of furniture with a back and usually arms, on which more than one person can sit at the same time.",
+"meaning_th": "ชิ้นเฟอร์นิเจอร์ยาวที่มีพนักพิงและมักจะมีที่วางแขน ซึ่งคนมากกว่าหนึ่งคนสามารถนั่งได้ในเวลาเดียวกัน",
+"example": "We spent the whole evening watching movies on the couch."
+},
+{
+"word": "Cushion",
+"phonetic": "/ˈkʊʃ.ən/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A bag made of cloth, plastic, or leather that is filled with soft material, often has an attractive cover, and is used especially on chairs for sitting or leaning on.",
+"meaning_th": "ถุงที่ทำจากผ้า พลาสติก หรือหนัง ซึ่งบรรจุวัสดุนุ่ม มักจะมีปลอกหุ้มที่สวยงาม และใช้โดยเฉพาะบนเก้าอี้สำหรับนั่งหรือพิง",
+"example": "She put some colorful cushions on the sofa to make it look brighter."
+},
+{
+"word": "Balcony",
+"phonetic": "/ˈbæl.kə.ni/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "An area with a wall or bars around it that is joined to the outside wall of a building on an upper level.",
+"meaning_th": "พื้นที่ที่มีกำแพงหรือลูกกรงล้อมรอบ ซึ่งเชื่อมต่อกับผนังด้านนอกของอาคารในชั้นบน",
+"example": "We sat on the balcony and watched the sunset."
+},
+{
+"word": "Garage",
+"phonetic": "/ˈɡær.ɑːʒ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A building where a car is kept, built next to or as part of a house.",
+"meaning_th": "อาคารที่เก็บรถยนต์ ซึ่งสร้างติดกับหรือเป็นส่วนหนึ่งของบ้าน",
+"example": "He forgot to close the garage door last night."
+},
+{
+"word": "Driveway",
+"phonetic": "/ˈdraɪv.weɪ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A short private road that leads from a public road to a house or garage.",
+"meaning_th": "ถนนส่วนบุคคลสั้นๆ ที่ทอดจากถนนสาธารณะไปยังบ้านหรือโรงรถ",
+"example": "There is a strange car parked in our driveway."
+},
+{
+"word": "Neighbor",
+"phonetic": "/ˈneɪ.bər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "Someone who lives very close to you.",
+"meaning_th": "บางคนที่อาศัยอยู่ใกล้ชิดกับคุณมาก",
+"example": "Our next-door neighbor is always very friendly."
+},
+{
+"word": "Mailbox",
+"phonetic": "/ˈmeɪl.bɒks/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A box outside a person's house where letters are put.",
+"meaning_th": "กล่องนอกบ้านของบุคคลซึ่งใช้สำหรับใส่จดหมาย",
+"example": "I check the mailbox every morning before going to work."
+},
+{
+"word": "Package",
+"phonetic": "/ˈpæk.ɪdʒ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "An object or set of objects wrapped in paper, usually in order to be sent by post.",
+"meaning_th": "วัตถุหรือชุดวัตถุที่ห่อด้วยกระดาษ มักจะเพื่อวัตถุประสงค์ในการส่งทางไปรษณีย์",
+"example": "The delivery man left a package at the front door."
+},
+{
+"word": "Delivery",
+"phonetic": "/dɪˈlɪv.ər.i/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The act of taking goods, letters, parcels, etc. to people's houses or places of work.",
+"meaning_th": "การกระทำในการนำสินค้า จดหมาย พัสดุ ฯลฯ ไปยังบ้านของคนหรือสถานที่ทำงาน",
+"example": "We offer free delivery for orders over fifty dollars."
+},
+{
+"word": "Envelope",
+"phonetic": "/ˈen.və.ləʊp/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A flat, usually square or rectangular, paper container for a letter.",
+"meaning_th": "ภาชนะกระดาษแบนๆ ซึ่งมักจะเป็นสี่เหลี่ยมจัตุรัสหรือสี่เหลี่ยมผืนผ้า สำหรับใส่จดหมาย",
+"example": "Please put the document in a sealed envelope."
+},
+{
+"word": "Stamp",
+"phonetic": "/stæmp/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A small piece of paper with a picture or pattern on it that is stuck onto a letter or package before it is posted.",
+"meaning_th": "ชิ้นกระดาษขนาดเล็กที่มีรูปภาพหรือลวดลายบนนั้น ซึ่งติดไว้บนจดหมายหรือพัสดุก่อนที่จะส่งไปรษณีย์",
+"example": "Don't forget to put a stamp on the envelope before you mail it."
+},
+{
+"word": "Signature",
+"phonetic": "/ˈsɪɡ.nə.tʃər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "Your name written by yourself, always in the same way, usually to show that something has been written or agreed by you.",
+"meaning_th": "ชื่อของคุณที่เขียนโดยคุณเอง มักจะเขียนในรูปแบบเดียวกันเสมอ โดยปกติเพื่อแสดงว่าบางสิ่งบางอย่างถูกเขียนหรือตกลงโดยคุณ",
+"example": "I need your signature at the bottom of this form."
+},
+{
+"word": "Invoice",
+"phonetic": "/ˈɪn.vɔɪs/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A document that lists things provided or work done, gives their cost, and asks for payment.",
+"meaning_th": "เอกสารที่แสดงรายการสิ่งที่จัดหาให้หรืองานที่ทำ ระบุราคา และขอให้ชำระเงิน",
+"example": "We will send you an invoice at the end of the month."
+},
+{
+"word": "Discount",
+"phonetic": "/ˈdɪs.kaʊnt/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A reduction in the usual price.",
+"meaning_th": "การลดราคาจากราคาปกติ",
+"example": "Students get a 10% discount on all books."
+},
+{
+"word": "Cashier",
+"phonetic": "/kæʃˈɪər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A person whose job is to receive and pay out money in a shop, bank, restaurant, etc.",
+"meaning_th": "บุคคลที่มีหน้าที่รับและจ่ายเงินในร้านค้า ธนาคาร ร้านอาหาร ฯลฯ",
+"example": "Please hand your coupons to the cashier before paying."
+},
+{
+"word": "Customer",
+"phonetic": "/ˈkʌs.tə.mər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A person who buys goods or a service.",
+"meaning_th": "บุคคลที่ซื้อสินค้าหรือบริการ",
+"example": "The store offers excellent service to every customer."
+},
+{
+"word": "Passenger",
+"phonetic": "/ˈpæs.ən.dʒər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A person who is travelling in a vehicle but is not driving it, flying it, or working on it.",
+"meaning_th": "บุคคลที่กำลังเดินทางในยานพาหนะแต่ไม่ได้เป็นคนขับ บิน หรือทำงานบนนั้น",
+"example": "All passengers must wear their seatbelts during the flight."
+},
+{
+"word": "Vehicle",
+"phonetic": "/ˈvɪə.kəl/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A machine, usually with wheels and an engine, used for transporting people or goods, especially on land.",
+"meaning_th": "เครื่องจักร ซึ่งมักจะมีล้อและเครื่องยนต์ ใช้สำหรับขนส่งคนหรือสินค้า โดยเฉพาะบนบก",
+"example": "The road was blocked by an abandoned vehicle."
+},
+{
+"word": "Fuel",
+"phonetic": "/ˈfjuː.əl/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A substance that is used to provide heat or power, usually by being burned.",
+"meaning_th": "สารที่ใช้เพื่อให้ความร้อนหรือพลังงาน มักจะโดยการเผาไหม้",
+"example": "We need to stop for fuel before driving up the mountain."
+},
+{
+"word": "Station",
+"phonetic": "/ˈsteɪ.ʃən/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A building and the surrounding area where buses or trains stop for people to get on or off.",
+"meaning_th": "อาคารและพื้นที่โดยรอบที่รถบัสหรือรถไฟหยุดเพื่อให้คนขึ้นหรือลง",
+"example": "I will meet you at the train station at six o'clock."
+},
+{
+"word": "Ticket",
+"phonetic": "/ˈtɪk.ɪt/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A small piece of paper or card given to someone, usually to show that they have paid for an event, journey, or activity.",
+"meaning_th": "ชิ้นกระดาษหรือบัตรขนาดเล็กที่มอบให้บางคน มักจะเพื่อแสดงว่าพวกเขาได้จ่ายเงินสำหรับงานรื่นเริง การเดินทาง หรือกิจกรรมแล้ว",
+"example": "You cannot enter the cinema without a valid ticket."
+},
+{
+"word": "Luggage",
+"phonetic": "/ˈlʌɡ.ɪdʒ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The bags, suitcases, etc. that contain your things and that you take with you when you are travelling.",
+"meaning_th": "กระเป๋า กระเป๋าเดินทาง ฯลฯ ที่บรรจุสิ่งของของคุณและที่คุณนำติดตัวไปด้วยเมื่อคุณกำลังเดินทาง",
+"example": "Please do not leave your luggage unattended at the airport."
+},
+{
+"word": "Flight",
+"phonetic": "/flaɪt/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A journey in an aircraft.",
+"meaning_th": "การเดินทางในเครื่องบิน",
+"example": "My flight to Tokyo was delayed by two hours due to bad weather."
+},
+{
+"word": "Hotel",
+"phonetic": "/həʊˈtel/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A building where you pay to have a room to sleep in, and where you can sometimes eat meals.",
+"meaning_th": "อาคารที่คุณจ่ายเงินเพื่อให้มีห้องสำหรับนอน และซึ่งบางครั้งคุณสามารถรับประทานอาหารได้",
+"example": "We booked a room in a nice hotel near the beach."
+},
+{
+"word": "Reservation",
+"phonetic": "/ˌrez.əˈveɪ.ʃən/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "An arrangement in which something such as a seat on an aircraft or a table at a restaurant is kept for you.",
+"meaning_th": "การจัดการซึ่งบางสิ่งบางอย่าง เช่น ที่นั่งบนเครื่องบินหรือโต๊ะที่ร้านอาหาร ถูกเก็บไว้สำหรับคุณ",
+"example": "I would like to make a dinner reservation for two people at 7 PM."
+},{
+"word": "Restaurant",
+"phonetic": "/ˈres.tər.ɒnt/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A place where meals are prepared and served to customers.",
+"meaning_th": "สถานที่ซึ่งเตรียมและเสิร์ฟอาหารให้แก่ลูกค้า",
+"example": "We decided to celebrate her birthday at an Italian restaurant."
+},
+{
+"word": "Menu",
+"phonetic": "/ˈmen.juː/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A list of the food that is available at a restaurant.",
+"meaning_th": "รายการอาหารที่มีให้ในร้านอาหาร",
+"example": "Could you please bring us the dessert menu?"
+},
+{
+"word": "Waiter",
+"phonetic": "/ˈweɪ.tər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A man whose job is to bring the food to customers at their tables in a restaurant.",
+"meaning_th": "ผู้ชายที่มีหน้าที่นำอาหารมาเสิร์ฟให้ลูกค้าที่โต๊ะในร้านอาหาร",
+"example": "The waiter recommended the special dish of the day."
+},
+{
+"word": "Chef",
+"phonetic": "/ʃef/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A skilled and trained cook who works in a hotel or restaurant.",
+"meaning_th": "พ่อครัวที่มีทักษะและได้รับการฝึกฝนซึ่งทำงานในโรงแรมหรือร้านอาหาร",
+"example": "The head chef is famous for creating unique flavor combinations."
+},
+{
+"word": "Dessert",
+"phonetic": "/dɪˈzɜːt/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "Sweet food eaten at the end of a meal.",
+"meaning_th": "อาหารหวานที่รับประทานเมื่อจบมื้ออาหาร",
+"example": "I am full, but I always have room for dessert."
+},
+{
+"word": "Breakfast",
+"phonetic": "/ˈbrek.fəst/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A meal eaten in the morning as the first meal of the day.",
+"meaning_th": "มื้ออาหารที่รับประทานในตอนเช้าเป็นมื้อแรกของวัน",
+"example": "They serve a delicious buffet breakfast at this hotel."
+},
+{
+"word": "Lunch",
+"phonetic": "/lʌntʃ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A meal that is eaten in the middle of the day.",
+"meaning_th": "มื้ออาหารที่รับประทานในตอนกลางวัน",
+"example": "I usually just have a sandwich and a salad for lunch."
+},
+{
+"word": "Dinner",
+"phonetic": "/ˈdɪn.ər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The main meal of the day, usually the meal you eat in the evening.",
+"meaning_th": "มื้ออาหารหลักของวัน มักจะเป็นมื้อที่คุณรับประทานในตอนเย็น",
+"example": "We invited our friends over for dinner on Saturday."
+},
+{
+"word": "Snack",
+"phonetic": "/snæk/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A small amount of food that is eaten between meals.",
+"meaning_th": "อาหารปริมาณเล็กน้อยที่รับประทานระหว่างมื้อ",
+"example": "I brought some apples and nuts as a healthy snack."
+},
+{
+"word": "Medicine",
+"phonetic": "/ˈmed.ɪ.sən/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A substance, especially in the form of a liquid or a pill, that is a treatment for illness or injury.",
+"meaning_th": "สาร โดยเฉพาะในรูปของของเหลวหรือยาเม็ด ที่เป็นการรักษาโรคหรืออาการบาดเจ็บ",
+"example": "Make sure to take your medicine after every meal."
+},
+{
+"word": "Pharmacy",
+"phonetic": "/ˈfɑː.mə.si/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A shop or part of a shop in which medicines are prepared and sold.",
+"meaning_th": "ร้านค้าหรือส่วนหนึ่งของร้านค้าที่เตรียมและขายยา",
+"example": "I need to go to the pharmacy to pick up my prescription."
+},
+{
+"word": "Doctor",
+"phonetic": "/ˈdɒk.tər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A person with a medical degree whose job is to treat people who are ill or hurt.",
+"meaning_th": "บุคคลที่มีปริญญาทางการแพทย์ซึ่งมีหน้าที่รักษาผู้ที่ป่วยหรือบาดเจ็บ",
+"example": "You should see a doctor if your cough does not get better."
+},
+{
+"word": "Hospital",
+"phonetic": "/ˈhɒs.pɪ.təl/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A place where people who are ill or injured are treated and taken care of by doctors and nurses.",
+"meaning_th": "สถานที่ซึ่งผู้ที่ป่วยหรือบาดเจ็บได้รับการรักษาและดูแลโดยแพทย์และพยาบาล",
+"example": "She was taken to the hospital immediately after the accident."
+},
+{
+"word": "Nurse",
+"phonetic": "/nɜːs/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A person whose job is to care for people who are ill or injured, especially in a hospital.",
+"meaning_th": "บุคคลที่มีหน้าที่ดูแลผู้ที่ป่วยหรือบาดเจ็บ โดยเฉพาะในโรงพยาบาล",
+"example": "The nurse will come and check your blood pressure soon."
+},
+{
+"word": "Patient",
+"phonetic": "/ˈpeɪ.ʃənt/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A person who is receiving medical care, or who is cared for by a particular doctor or dentist.",
+"meaning_th": "บุคคลที่กำลังรับการดูแลทางการแพทย์ หรือผู้ที่ได้รับการดูแลโดยแพทย์หรือทันตแพทย์เฉพาะ",
+"example": "The doctor is currently busy with another patient."
+},
+{
+"word": "Disease",
+"phonetic": "/dɪˈziːz/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "An illness of people, animals, plants, etc., caused by infection or a failure of health.",
+"meaning_th": "ความเจ็บป่วยของคน สัตว์ พืช ฯลฯ ที่เกิดจากการติดเชื้อหรือความล้มเหลวของสุขภาพ",
+"example": "Washing hands regularly can prevent the spread of disease."
+},
+{
+"word": "Symptom",
+"phonetic": "/ˈsɪmp.təm/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "Any feeling of illness or physical or mental change that is caused by a particular disease.",
+"meaning_th": "ความรู้สึกเจ็บป่วยหรือการเปลี่ยนแปลงทางร่างกายหรือจิตใจที่เกิดจากโรคใดโรคหนึ่ง",
+"example": "Fever and tiredness are common symptoms of this virus."
+},
+{
+"word": "Clinic",
+"phonetic": "/ˈklɪn.ɪk/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A building, often part of a hospital, to which people can go for medical care or advice relating to a particular condition.",
+"meaning_th": "อาคาร ซึ่งมักจะเป็นส่วนหนึ่งของโรงพยาบาล ที่ผู้คนสามารถไปรับการดูแลทางการแพทย์หรือคำแนะนำเกี่ยวกับสภาวะใดสภาวะหนึ่ง",
+"example": "She goes to a private clinic for her skin treatments."
+},
+{
+"word": "Gym",
+"phonetic": "/dʒɪm/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A room or building with equipment for doing physical exercise.",
+"meaning_th": "ห้องหรืออาคารที่มีอุปกรณ์สำหรับการออกกำลังกาย",
+"example": "I try to work out at the gym at least three times a week."
+},
+{
+"word": "Muscle",
+"phonetic": "/ˈmʌs.əl/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "One of many tissues in the body that can tighten and relax to produce movement.",
+"meaning_th": "หนึ่งในเนื้อเยื่อหลายชนิดในร่างกายที่สามารถหดตัวและคลายตัวเพื่อสร้างการเคลื่อนไหว",
+"example": "Lifting weights helps build and tone your muscles."
+},
+{
+"word": "Sweat",
+"phonetic": "/swet/",
+"type": "Noun/Verb",
+"category": "Daily Life",
+"meaning": "The clear, salty liquid that you pass through your skin.",
+"meaning_th": "ของเหลวใสรสเค็มที่คุณขับผ่านผิวหนัง",
+"example": "Wipe the sweat off your forehead with a clean towel."
+},
+{
+"word": "Weather",
+"phonetic": "/ˈweð.ər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The conditions in the air above the earth such as wind, rain, or temperature.",
+"meaning_th": "สภาวะในอากาศเหนือโลก เช่น ลม ฝน หรืออุณหภูมิ",
+"example": "The weather forecast says it will rain tomorrow."
+},
+{
+"word": "Temperature",
+"phonetic": "/ˈtem.prə.tʃər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The measured amount of heat in a place or in the body.",
+"meaning_th": "ปริมาณความร้อนที่วัดได้ในสถานที่หรือในร่างกาย",
+"example": "The temperature dropped below freezing point last night."
+},
+{
+"word": "Sunny",
+"phonetic": "/ˈsʌn.i/",
+"type": "Adjective",
+"category": "Daily Life",
+"meaning": "Bright because of light from the sun.",
+"meaning_th": "สว่างเนื่องจากแสงจากดวงอาทิตย์",
+"example": "It is a beautiful sunny day, perfect for a picnic."
+},
+{
+"word": "Cloudy",
+"phonetic": "/ˈklaʊ.di/",
+"type": "Adjective",
+"category": "Daily Life",
+"meaning": "With clouds.",
+"meaning_th": "มีเมฆ",
+"example": "The sky is cloudy, so it might rain later."
+},
+{
+"word": "Rainy",
+"phonetic": "/ˈreɪ.ni/",
+"type": "Adjective",
+"category": "Daily Life",
+"meaning": "Raining a lot.",
+"meaning_th": "ฝนตกหนัก",
+"example": "I like to stay home and read a book on a rainy day."
+},
+{
+"word": "Storm",
+"phonetic": "/stɔːm/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "An extreme weather condition with very strong wind, heavy rain, and often thunder and lightning.",
+"meaning_th": "สภาพอากาศที่รุนแรงซึ่งมีลมแรงจัด ฝนตกหนัก และมักจะมีฟ้าร้องและฟ้าแลบ",
+"example": "The storm caused widespread power outages across the city."
+},
+{
+"word": "Wind",
+"phonetic": "/wɪnd/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A current of unconfined air moving naturally in the atmosphere.",
+"meaning_th": "กระแสอากาศที่เคลื่อนที่ตามธรรมชาติในชั้นบรรยากาศ",
+"example": "The strong wind blew away my hat."
+},
+{
+"word": "Snow",
+"phonetic": "/snəʊ/",
+"type": "Noun/Verb",
+"category": "Daily Life",
+"meaning": "The small, soft, white pieces of ice that sometimes fall from the sky when it is cold.",
+"meaning_th": "ชิ้นน้ำแข็งสีขาวนุ่มขนาดเล็กที่บางครั้งตกลงมาจากท้องฟ้าเมื่ออากาศเย็น",
+"example": "The children went outside to play in the deep snow."
+},
+{
+"word": "Season",
+"phonetic": "/ˈsiː.zən/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "One of the four periods of the year; spring, summer, autumn, or winter.",
+"meaning_th": "หนึ่งในสี่ช่วงเวลาของปี; ฤดูใบไม้ผลิ ฤดูร้อน ฤดูใบไม้ร่วง หรือฤดูหนาว",
+"example": "Autumn is my favorite season because of the colorful leaves."
+},{
+"word": "Tree",
+"phonetic": "/triː/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A tall plant that has a wooden trunk and branches that grow from its upper part.",
+"meaning_th": "พืชทรงสูงที่มีลำต้นเป็นไม้และกิ่งก้านที่งอกออกมาจากส่วนบน",
+"example": "They planted a large oak tree in the middle of the garden."
+},
+{
+"word": "Flower",
+"phonetic": "/ˈflaʊ.ər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The part of a plant that is often brightly colored and has a pleasant smell.",
+"meaning_th": "ส่วนของพืชที่มักมีสีสันสดใสและมีกลิ่นหอม",
+"example": "He bought a beautiful bouquet of flowers for his mother."
+},
+{
+"word": "Grass",
+"phonetic": "/ɡrɑːs/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A low, green plant that grows naturally over a lot of the earth's surface.",
+"meaning_th": "พืชสีเขียวเตี้ยๆ ที่เติบโตตามธรรมชาติปกคลุมพื้นผิวโลกส่วนใหญ่",
+"example": "The children sat on the green grass to eat their picnic."
+},
+{
+"word": "River",
+"phonetic": "/ˈrɪv.ər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A natural wide flow of fresh water across the land into the sea, a lake, or another river.",
+"meaning_th": "กระแสน้ำจืดตามธรรมชาติที่ไหลกว้างข้ามแผ่นดินลงสู่ทะเล ทะเลสาบ หรือแม่น้ำอีกสายหนึ่ง",
+"example": "We rented a small boat to sail down the river."
+},
+{
+"word": "Mountain",
+"phonetic": "/ˈmaʊn.tɪn/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A raised part of the earth's surface, much larger than a hill.",
+"meaning_th": "ส่วนของพื้นผิวโลกที่ยกตัวสูงขึ้น มีขนาดใหญ่กว่าเนินเขามาก",
+"example": "They plan to climb the highest mountain in the country next year."
+},
+{
+"word": "Beach",
+"phonetic": "/biːtʃ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "An area of sand or small stones near the sea or another area of water.",
+"meaning_th": "พื้นที่ทรายหรือหินก้อนเล็กๆ ใกล้ทะเลหรือพื้นที่น้ำอื่นๆ",
+"example": "We spent the whole afternoon relaxing on the beach."
+},
+{
+"word": "Sand",
+"phonetic": "/sænd/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A substance that consists of very small grains of rock, found on beaches and in deserts.",
+"meaning_th": "สารที่ประกอบด้วยเม็ดหินขนาดเล็กมาก พบได้ตามชายหาดและในทะเลทราย",
+"example": "The children enjoyed building castles out of sand."
+},
+{
+"word": "Ocean",
+"phonetic": "/ˈəʊ.ʃən/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A very large expanse of sea, in particular, each of the main areas into which the sea is divided geographically.",
+"meaning_th": "ผืนทะเลที่กว้างใหญ่มาก โดยเฉพาะพื้นที่หลักแต่ละส่วนที่ทะเลถูกแบ่งออกตามภูมิศาสตร์",
+"example": "Dolphins are highly intelligent animals that live in the ocean."
+},
+{
+"word": "Coin",
+"phonetic": "/kɔɪn/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A small, round piece of metal, usually silver or copper colored, that is used as money.",
+"meaning_th": "ชิ้นโลหะกลมขนาดเล็ก มักมีสีเงินหรือทองแดง ซึ่งใช้เป็นเงิน",
+"example": "I need a coin to unlock the shopping cart at the supermarket."
+},
+{
+"word": "Cash",
+"phonetic": "/kæʃ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "Money in the form of notes and coins, rather than cheques or credit cards.",
+"meaning_th": "เงินในรูปแบบของธนบัตรและเหรียญ แทนที่จะเป็นเช็คหรือบัตรเครดิต",
+"example": "Do you have enough cash to pay for the taxi?"
+},
+{
+"word": "Price",
+"phonetic": "/praɪs/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The amount of money for which something is sold.",
+"meaning_th": "จำนวนเงินที่มีการขายสิ่งใดสิ่งหนึ่ง",
+"example": "The price of gasoline has gone up again this week."
+},
+{
+"word": "Sale",
+"phonetic": "/seɪl/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A period when shops sell goods at reduced prices.",
+"meaning_th": "ช่วงเวลาที่ร้านค้าขายสินค้าในราคาลดลง",
+"example": "I bought this winter coat for half price during the January sale."
+},
+{
+"word": "Store",
+"phonetic": "/stɔːr/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A large shop where you can buy many different types of goods.",
+"meaning_th": "ร้านค้าขนาดใหญ่ที่คุณสามารถซื้อสินค้าได้หลากหลายประเภท",
+"example": "The department store is closed on national holidays."
+},
+{
+"word": "Market",
+"phonetic": "/ˈmɑː.kɪt/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A public place, often outdoors, where people gather to buy and sell goods.",
+"meaning_th": "สถานที่สาธารณะ ซึ่งมักจะอยู่กลางแจ้ง ที่ผู้คนมารวมตัวกันเพื่อซื้อและขายสินค้า",
+"example": "She buys fresh vegetables and fruits from the local market."
+},
+{
+"word": "Mall",
+"phonetic": "/mɔːl/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A large, usually covered, shopping area where cars are not allowed.",
+"meaning_th": "พื้นที่ช้อปปิ้งขนาดใหญ่ ซึ่งมักจะอยู่ในร่ม ที่ไม่อนุญาตให้รถยนต์เข้า",
+"example": "Teenagers love hanging out at the shopping mall on weekends."
+},
+{
+"word": "Phone",
+"phonetic": "/fəʊn/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A device that uses either a system of wires or a system of radio signals to make it possible for you to speak to someone in another place.",
+"meaning_th": "อุปกรณ์ที่ใช้ระบบสายไฟหรือระบบสัญญาณวิทยุเพื่อให้คุณสามารถพูดคุยกับบุคคลในสถานที่อื่นได้",
+"example": "Please turn off your mobile phone during the movie."
+},
+{
+"word": "Message",
+"phonetic": "/ˈmes.ɪd/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A short piece of information that you give to a person when you cannot speak to them directly.",
+"meaning_th": "ข้อมูลสั้นๆ ที่คุณมอบให้กับบุคคลเมื่อคุณไม่สามารถพูดคุยกับพวกเขาได้โดยตรง",
+"example": "He left a voice message on my phone this morning."
+},
+{
+"word": "Email",
+"phonetic": "/ˈiː.meɪl/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The system for using computers to send messages over the internet.",
+"meaning_th": "ระบบสำหรับใช้คอมพิวเตอร์เพื่อส่งข้อความผ่านอินเทอร์เน็ต",
+"example": "I will send you an email with the attached document later."
+},
+{
+"word": "Conversation",
+"phonetic": "/ˌkɒn.vəˈseɪ.ʃən/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "Talk between two or more people in which thoughts, feelings, and ideas are expressed.",
+"meaning_th": "การพูดคุยระหว่างคนสองคนหรือมากกว่าซึ่งมีการแสดงความคิด ความรู้สึก และแนวคิด",
+"example": "We had a long and interesting conversation about the future of technology."
+},
+{
+"word": "Language",
+"phonetic": "/ˈlæŋ.ɡwɪdʒ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A system of communication consisting of sounds, words, and grammar.",
+"meaning_th": "ระบบการสื่อสารที่ประกอบด้วยเสียง คำศัพท์ และไวยากรณ์",
+"example": "Learning a new language can open up many career opportunities."
+},
+{
+"word": "School",
+"phonetic": "/skuːl/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A place where children go to be educated.",
+"meaning_th": "สถานที่ที่เด็กๆ ไปเพื่อรับการศึกษา",
+"example": "My younger brother walks to school every day."
+},
+{
+"word": "Teacher",
+"phonetic": "/ˈtiː.tʃər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "Someone whose job is to teach in a school or college.",
+"meaning_th": "บางคนที่มีหน้าที่สอนในโรงเรียนหรือวิทยาลัย",
+"example": "The science teacher explained the experiment very clearly."
+},
+{
+"word": "Student",
+"phonetic": "/ˈstjuː.dənt/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A person who is learning at a school, college, or university.",
+"meaning_th": "บุคคลที่กำลังเรียนอยู่ที่โรงเรียน วิทยาลัย หรือมหาวิทยาลัย",
+"example": "Every student must submit their assignment by Friday."
+},
+{
+"word": "Book",
+"phonetic": "/bʊk/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A set of pages that have been fastened together inside a cover to be read or written in.",
+"meaning_th": "ชุดหน้ากระดาษที่ถูกยึดเข้าด้วยกันภายในปกเพื่อใช้อ่านหรือเขียน",
+"example": "She is reading a fascinating book about ancient history."
+},
+{
+"word": "Pen",
+"phonetic": "/pen/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A long, thin object used for writing or drawing with ink.",
+"meaning_th": "วัตถุที่มีลักษณะยาวและบางใช้สำหรับเขียนหรือวาดด้วยหมึก",
+"example": "Could I borrow your pen to sign this contract?"
+},
+{
+"word": "Paper",
+"phonetic": "/ˈpeɪ.pər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "Thin, flat material made from crushed wood or cloth, used for writing, printing, or drawing on.",
+"meaning_th": "วัสดุบางและแบนที่ทำจากไม้หรือผ้าบด ใช้สำหรับเขียน พิมพ์ หรือวาดบนนั้น",
+"example": "The printer ran out of paper right before the meeting."
+},
+{
+"word": "Desk",
+"phonetic": "/desk/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A type of table that you can work at, often one with drawers.",
+"meaning_th": "โต๊ะประเภทหนึ่งที่คุณสามารถทำงานได้ มักจะมีลิ้นชัก",
+"example": "He kept all his important documents in his desk drawer."
+},
+{
+"word": "Chair",
+"phonetic": "/tʃeər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A piece of furniture for one person to sit on, with a back and four legs.",
+"meaning_th": "ชิ้นเฟอร์นิเจอร์สำหรับคนหนึ่งคนนั่ง มีพนักพิงและขาสี่ขา",
+"example": "She pulled up a chair and joined the conversation."
+},
+{
+"word": "Window",
+"phonetic": "/ˈwɪn.dəʊ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A space usually filled with glass in the wall of a building or in a vehicle, to allow light and air in.",
+"meaning_th": "ช่องว่างที่มักจะเติมด้วยกระจกในผนังอาคารหรือในยานพาหนะ เพื่อให้แสงและอากาศเข้ามา",
+"example": "Please open the window to let some fresh air into the room."
+},
+{
+"word": "Door",
+"phonetic": "/dɔːr/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A flat object that is used to close the entrance of something such as a room or building.",
+"meaning_th": "วัตถุแบนที่ใช้เพื่อปิดทางเข้าของสิ่งใดสิ่งหนึ่ง เช่น ห้องหรืออาคาร",
+"example": "Someone is knocking at the front door."
+},{
+"word": "Key",
+"phonetic": "/kiː/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A piece of metal that has been cut into a special shape and is used for opening or closing a lock.",
+"meaning_th": "ชิ้นโลหะที่ถูกตัดเป็นรูปร่างพิเศษและใช้สำหรับเปิดหรือปิดแม่กุญแจ",
+"example": "I can't find my car keys anywhere."
+},
+{
+"word": "Lock",
+"phonetic": "/lɒk/",
+"type": "Noun/Verb",
+"category": "Daily Life",
+"meaning": "A device that prevents something such as a door from being opened and can only be opened with a key.",
+"meaning_th": "อุปกรณ์ที่ป้องกันไม่ให้สิ่งใดสิ่งหนึ่ง เช่น ประตู ถูกเปิดออก และสามารถเปิดได้ด้วยกุญแจเท่านั้น",
+"example": "Make sure you lock the front door before going to bed."
+},
+{
+"word": "Roof",
+"phonetic": "/ruːf/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The covering that forms the top of a building, vehicle, etc.",
+"meaning_th": "สิ่งปกคลุมที่ก่อตัวเป็นส่วนบนของอาคาร ยานพาหนะ ฯลฯ",
+"example": "The cat climbed up onto the roof of the house."
+},
+{
+"word": "Wall",
+"phonetic": "/wɔːl/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A vertical structure, often made of stone or brick, that divides or surrounds something.",
+"meaning_th": "โครงสร้างแนวตั้ง ซึ่งมักทำจากหินหรืออิฐ ที่แบ่งหรือล้อมรอบบางสิ่งบางอย่าง",
+"example": "They hung a large painting on the living room wall."
+},
+{
+"word": "Floor",
+"phonetic": "/flɔːr/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The flat surface of a room on which you walk.",
+"meaning_th": "พื้นผิวแบนราบของห้องที่คุณใช้เดิน",
+"example": "Be careful, the floor is wet and slippery."
+},
+{
+"word": "Ceiling",
+"phonetic": "/ˈsiː.lɪŋ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The inside surface of a room that you can see when you look above you.",
+"meaning_th": "พื้นผิวด้านในของห้องที่คุณสามารถมองเห็นได้เมื่อคุณมองขึ้นไปเหนือคุณ",
+"example": "The ceiling in this old building is very high."
+},
+{
+"word": "Stairs",
+"phonetic": "/steərz/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A set of steps that lead from one level of a building to another.",
+"meaning_th": "ชุดขั้นบันไดที่นำจากชั้นหนึ่งของอาคารไปยังอีกชั้นหนึ่ง",
+"example": "She ran up the stairs to get her jacket."
+},
+{
+"word": "Room",
+"phonetic": "/ruːm/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A part of the inside of a building that is separated from other parts by walls, floor, and ceiling.",
+"meaning_th": "ส่วนหนึ่งของภายในอาคารที่แยกจากส่วนอื่นๆ ด้วยผนัง พื้น และเพดาน",
+"example": "We booked a double room at the hotel for two nights."
+},
+{
+"word": "Kitchen",
+"phonetic": "/ˈkɪtʃ.ən/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A room or area where food is prepared and cooked.",
+"meaning_th": "ห้องหรือพื้นที่ที่เตรียมและปรุงอาหาร",
+"example": "Something smells delicious in the kitchen."
+},
+{
+"word": "Bathroom",
+"phonetic": "/ˈbɑːθ.ruːm/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A room with a bath and/or shower and often a toilet.",
+"meaning_th": "ห้องที่มีอ่างอาบน้ำและ/หรือฝักบัว และมักจะมีโถส้วม",
+"example": "I need to use the bathroom before we leave."
+},
+{
+"word": "Bedroom",
+"phonetic": "/ˈbed.ruːm/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A room used for sleeping in.",
+"meaning_th": "ห้องที่ใช้สำหรับนอนหลับ",
+"example": "My bedroom is painted in a relaxing blue color."
+},
+{
+"word": "Living room",
+"phonetic": "/ˈlɪv.ɪŋ ˌruːm/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The room in a house or apartment that is used for relaxing in and entertaining guests.",
+"meaning_th": "ห้องในบ้านหรืออพาร์ตเมนต์ที่ใช้สำหรับพักผ่อนและรับรองแขก",
+"example": "The family gathered in the living room to watch a movie."
+},
+{
+"word": "Garden",
+"phonetic": "/ˈɡɑː.dən/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A piece of land next to and belonging to a house, where flowers and other plants are grown.",
+"meaning_th": "ชิ้นส่วนของที่ดินที่อยู่ติดกับและเป็นของบ้าน ซึ่งมีการปลูกดอกไม้และพืชอื่นๆ",
+"example": "She spends her weekends working in the garden."
+},
+{
+"word": "Yard",
+"phonetic": "/jɑːd/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "An area of land next to a building that usually has grass.",
+"meaning_th": "พื้นที่ดินข้างอาคารที่มักจะมีหญ้า",
+"example": "The kids are playing football in the back yard."
+},
+{
+"word": "Fence",
+"phonetic": "/fens/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A structure that divides two areas of land, similar to a wall but made of wood or wire.",
+"meaning_th": "โครงสร้างที่แบ่งพื้นที่ดินสองส่วน คล้ายกับกำแพงแต่ทำจากไม้หรือลวด",
+"example": "The dog jumped over the wooden fence."
+},
+{
+"word": "Gate",
+"phonetic": "/ɡeɪt/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A part of a fence or outside wall that is fixed at one side and opens and closes like a door.",
+"meaning_th": "ส่วนหนึ่งของรั้วหรือกำแพงด้านนอกที่ยึดติดอยู่ด้านหนึ่งและเปิดปิดได้เหมือนประตู",
+"example": "Please close the front gate so the dog doesn't get out."
+},
+{
+"word": "Path",
+"phonetic": "/pɑːθ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A route or track between one place and another.",
+"meaning_th": "เส้นทางหรือร่องรอยระหว่างสถานที่หนึ่งไปยังอีกสถานที่หนึ่ง",
+"example": "We followed a narrow path through the forest."
+},
+{
+"word": "Road",
+"phonetic": "/rəʊd/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A long, hard surface built for vehicles to travel along.",
+"meaning_th": "พื้นผิวที่ยาวและแข็งซึ่งสร้างขึ้นเพื่อให้ยานพาหนะเดินทางไปตามนั้น",
+"example": "The main road to the city is closed for repairs."
+},
+{
+"word": "Street",
+"phonetic": "/striːt/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A public road in a city or town that has houses and buildings on one or both sides.",
+"meaning_th": "ถนนสาธารณะในเมืองหรือเมืองเล็กๆ ที่มีบ้านและอาคารอยู่ด้านใดด้านหนึ่งหรือทั้งสองด้าน",
+"example": "They live on a very quiet street with many trees."
+},
+{
+"word": "Highway",
+"phonetic": "/ˈhaɪ.weɪ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A public road, especially an important road that joins cities or towns together.",
+"meaning_th": "ถนนสาธารณะ โดยเฉพาะถนนสายสำคัญที่เชื่อมเมืองหรือเมืองเล็กๆ เข้าด้วยกัน",
+"example": "Driving on the highway is much faster than taking local roads."
+},
+{
+"word": "Bridge",
+"phonetic": "/brɪdʒ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A structure that is built over a river, road, or railway to allow people and vehicles to cross.",
+"meaning_th": "โครงสร้างที่สร้างขึ้นข้ามแม่น้ำ ถนน หรือทางรถไฟ เพื่อให้ผู้คนและยานพาหนะข้ามไปได้",
+"example": "The bridge was completely destroyed during the flood."
+},
+{
+"word": "Tunnel",
+"phonetic": "/ˈtʌn.əl/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A long passage under or through the ground, especially one made by people.",
+"meaning_th": "ทางเดินยาวใต้หรือผ่านพื้นดิน โดยเฉพาะทางที่คนสร้างขึ้น",
+"example": "The train goes through a dark tunnel in the mountain."
+},
+{
+"word": "Sidewalk",
+"phonetic": "/ˈsaɪd.wɔːk/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A path with a hard surface on one or both sides of a road, that people walk on.",
+"meaning_th": "ทางเดินที่มีพื้นผิวแข็งอยู่ด้านใดด้านหนึ่งหรือทั้งสองด้านของถนน ซึ่งผู้คนใช้เดิน",
+"example": "Children should stay on the sidewalk and not play in the street."
+},
+{
+"word": "Crosswalk",
+"phonetic": "/ˈkrɒs.wɔːk/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A place on a road, especially one where there is a lot of traffic, at which vehicles must stop to allow people to walk across.",
+"meaning_th": "สถานที่บนถนน โดยเฉพาะสถานที่ที่มีการจราจรคับคั่ง ซึ่งยานพาหนะต้องหยุดเพื่อให้คนเดินข้าม",
+"example": "Always look both ways before stepping into the crosswalk."
+},
+{
+"word": "Park",
+"phonetic": "/pɑːk/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A large area of land with grass and trees, usually surrounded by fences or walls, and specially arranged so that people can walk in it for pleasure.",
+"meaning_th": "พื้นที่ดินขนาดใหญ่ที่มีหญ้าและต้นไม้ มักจะล้อมรอบด้วยรั้วหรือกำแพง และจัดเตรียมไว้เป็นพิเศษเพื่อให้ผู้คนสามารถเดินเล่นเพื่อความเพลิดเพลิน",
+"example": "We went for a walk in the park on Sunday morning."
+},
+{
+"word": "Square",
+"phonetic": "/skweər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "An area of approximately square-shaped land in a city or a town, often including the buildings that surround it.",
+"meaning_th": "พื้นที่ดินที่มีรูปร่างใกล้เคียงสี่เหลี่ยมจัตุรัสในเมืองหรือเมืองเล็กๆ มักรวมถึงอาคารที่ล้อมรอบพื้นที่นั้น",
+"example": "There is a beautiful fountain in the middle of the town square."
+},
+{
+"word": "Building",
+"phonetic": "/ˈbɪl.dɪŋ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A structure with walls and a roof, such as a house or factory.",
+"meaning_th": "โครงสร้างที่มีผนังและหลังคา เช่น บ้านหรือโรงงาน",
+"example": "They are constructing a new office building downtown."
+},
+{
+"word": "Office",
+"phonetic": "/ˈɒf.ɪs/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A room or part of a building in which people work, especially sitting at tables with computers, phones, etc.",
+"meaning_th": "ห้องหรือส่วนหนึ่งของอาคารที่ผู้คนทำงาน โดยเฉพาะนั่งที่โต๊ะพร้อมกับคอมพิวเตอร์ โทรศัพท์ ฯลฯ",
+"example": "He usually stays in the office until 6 PM every day."
+},
+{
+"word": "Factory",
+"phonetic": "/ˈfæk.tər.i/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A building or set of buildings where large amounts of goods are made using machines.",
+"meaning_th": "อาคารหรือกลุ่มอาคารที่มีการผลิตสินค้าจำนวนมากโดยใช้เครื่องจักร",
+"example": "Many local residents work at the car factory."
+},
+{
+"word": "Company",
+"phonetic": "/ˈkʌm.pə.ni/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "An organization that sells goods or services in order to make money.",
+"meaning_th": "องค์กรที่ขายสินค้าหรือบริการเพื่อทำเงิน",
+"example": "She works for a software company in the city center."
+},{
+"word": "Family",
+"phonetic": "/ˈfæm.əl.i/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A group of people who are related to each other, such as a mother, a father, and their children.",
+"meaning_th": "กลุ่มคนที่มีความเกี่ยวข้องกัน เช่น แม่ พ่อ และลูกๆ ของพวกเขา",
+"example": "My family usually goes on a trip together once a year."
+},
+{
+"word": "Parent",
+"phonetic": "/ˈpeə.rənt/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A mother or father of a person or an animal.",
+"meaning_th": "แม่หรือพ่อของคนหรือสัตว์",
+"example": "Every parent wants the best for their children."
+},
+{
+"word": "Child",
+"phonetic": "/tʃaɪld/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A young human being below the age of puberty or below the legal age of majority.",
+"meaning_th": "มนุษย์ที่ยังอายุน้อยซึ่งมีอายุต่ำกว่าวัยแรกรุ่นหรือต่ำกว่าอายุที่บรรลุนิติภาวะตามกฎหมาย",
+"example": "The child was playing happily in the sandbox."
+},
+{
+"word": "Sibling",
+"phonetic": "/ˈsɪb.lɪŋ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A brother or sister.",
+"meaning_th": "พี่ชายหรือน้องสาว (พี่น้องร่วมบิดามารดา)",
+"example": "I have three siblings: two brothers and one sister."
+},
+{
+"word": "Friend",
+"phonetic": "/frend/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A person who you know well and who you like a lot, but who is usually not a member of your family.",
+"meaning_th": "บุคคลที่คุณรู้จักดีและคุณชอบมาก แต่มักจะไม่ใช่สมาชิกในครอบครัวของคุณ",
+"example": "She has been my best friend since we were in primary school."
+},
+{
+"word": "Guest",
+"phonetic": "/ɡest/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A person who is invited to visit or stay in someone's home.",
+"meaning_th": "บุคคลที่ได้รับเชิญให้มาเยือนหรือพักในบ้านของบางคน",
+"example": "We are expecting some guests for dinner tonight."
+},
+{
+"word": "Crowd",
+"phonetic": "/kraʊd/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A large number of people gathered together in a public place.",
+"meaning_th": "คนจำนวนมากที่มารวมตัวกันในสถานที่สาธารณะ",
+"example": "A huge crowd gathered to watch the street performance."
+},
+{
+"word": "Adult",
+"phonetic": "/ˈæd.ʌlt/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A person or animal that has grown to full size and strength.",
+"meaning_th": "คนหรือสัตว์ที่เติบโตจนมีขนาดและความแข็งแรงเต็มที่",
+"example": "This movie is intended for adults only."
+},
+{
+"word": "Youth",
+"phonetic": "/juːθ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The period of your life when you are young, or the state of being young.",
+"meaning_th": "ช่วงเวลาในชีวิตของคุณเมื่อคุณยังอายุน้อย หรือสถานะของการเป็นคนอายุน้อย",
+"example": "He spent most of his youth traveling around the world."
+},
+{
+"word": "Shirt",
+"phonetic": "/ʃɜːt/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A piece of clothing worn, especially by men, on the upper part of the body.",
+"meaning_th": "ชิ้นส่วนของเสื้อผ้าที่สวมใส่ โดยเฉพาะผู้ชาย บนส่วนบนของร่างกาย",
+"example": "He wore a clean white shirt to the job interview."
+},
+{
+"word": "Pants",
+"phonetic": "/pænts/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A piece of clothing that covers the lower half of the body from the waist to the feet.",
+"meaning_th": "ชิ้นส่วนของเสื้อผ้าที่ปกปิดครึ่งล่างของร่างกายจากเอวถึงเท้า",
+"example": "These black pants are very comfortable for working."
+},
+{
+"word": "Dress",
+"phonetic": "/dres/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A piece of clothing for women or girls that covers the top half of the body and hangs down over the legs.",
+"meaning_th": "ชิ้นส่วนของเสื้อผ้าสำหรับผู้หญิงหรือเด็กผู้หญิงที่ปกปิดครึ่งบนของร่างกายและห้อยลงมาคลุมขา",
+"example": "She bought a beautiful red dress for the evening party."
+},
+{
+"word": "Skirt",
+"phonetic": "/skɜːt/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A piece of clothing for women and girls that hangs from the waist and does not have legs.",
+"meaning_th": "ชิ้นส่วนของเสื้อผ้าสำหรับผู้หญิงและเด็กผู้หญิงที่ห้อยจากเอวและไม่มีขากางเกง",
+"example": "The school uniform requires female students to wear a dark blue skirt."
+},
+{
+"word": "Shoe",
+"phonetic": "/ʃuː/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "One of a pair of coverings for your feet, usually made of a strong material such as leather.",
+"meaning_th": "หนึ่งในคู่ของสิ่งปกคลุมสำหรับเท้าของคุณ มักทำจากวัสดุที่แข็งแรงเช่นหนัง",
+"example": "I have a stone inside my left shoe."
+},
+{
+"word": "Sock",
+"phonetic": "/sɒk/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A piece of clothing made from soft material that covers your foot and the lower part of your leg.",
+"meaning_th": "ชิ้นส่วนของเสื้อผ้าที่ทำจากวัสดุนุ่มซึ่งปกปิดเท้าและส่วนล่างของขาของคุณ",
+"example": "I can never find a matching pair of socks in the morning."
+},
+{
+"word": "Hat",
+"phonetic": "/hæt/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A covering for the head that is not part of a piece of clothing.",
+"meaning_th": "สิ่งปกคลุมสำหรับศีรษะที่ไม่ได้เป็นส่วนหนึ่งของชิ้นส่วนเสื้อผ้า",
+"example": "You should wear a hat to protect your face from the strong sun."
+},
+{
+"word": "Coat",
+"phonetic": "/kəʊt/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "An outer piece of clothing with sleeves that is worn over other clothes, usually for warmth.",
+"meaning_th": "ชิ้นส่วนของเสื้อผ้าชั้นนอกที่มีแขนเสื้อซึ่งสวมทับเสื้อผ้าอื่นๆ มักจะเพื่อความอบอุ่น",
+"example": "It is freezing outside, so make sure you wear a thick coat."
+},
+{
+"word": "Jacket",
+"phonetic": "/ˈdʒæk.ɪt/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A short coat.",
+"meaning_th": "เสื้อโค้ทแบบสั้น",
+"example": "He quickly put on his leather jacket before leaving the house."
+},
+{
+"word": "Glasses",
+"phonetic": "/ˈɡlɑː.sɪz/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "Two small pieces of special glass or plastic in a frame resting on the nose and ears, which help you to see better.",
+"meaning_th": "ชิ้นแก้วหรือพลาสติกพิเศษขนาดเล็กสองชิ้นในกรอบที่พักอยู่บนจมูกและหู ซึ่งช่วยให้คุณมองเห็นได้ดีขึ้น",
+"example": "I cannot read the small text without my reading glasses."
+},
+{
+"word": "Watch",
+"phonetic": "/wɒtʃ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A small clock that is worn on a strap around the wrist or, sometimes, connected to a piece of clothing by a chain.",
+"meaning_th": "นาฬิกาขนาดเล็กที่สวมบนสายรัดรอบข้อมือ หรือบางครั้งเชื่อมต่อกับชิ้นส่วนเสื้อผ้าด้วยโซ่",
+"example": "He glanced at his watch and realized he was late for the meeting."
+},
+{
+"word": "Ring",
+"phonetic": "/rɪŋ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A circular piece of jewellery worn especially on your finger.",
+"meaning_th": "ชิ้นเครื่องประดับรูปวงกลมที่สวมใส่โดยเฉพาะบนนิ้วของคุณ",
+"example": "She wears a beautiful gold ring on her left hand."
+},
+{
+"word": "Earring",
+"phonetic": "/ˈɪə.rɪŋ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A piece of jewellery, usually one of a pair, worn in a hole in the ear or fastened to the ear by a clip.",
+"meaning_th": "ชิ้นเครื่องประดับ มักจะเป็นหนึ่งในคู่ สวมในรูที่หูหรือติดกับหูด้วยคลิป",
+"example": "She lost one silver earring while dancing at the club."
+},
+{
+"word": "Morning",
+"phonetic": "/ˈmɔː.nɪŋ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The part of the day from the time when the sun rises or you wake up until the middle of the day.",
+"meaning_th": "ส่วนของวันตั้งแต่เวลาที่ดวงอาทิตย์ขึ้นหรือคุณตื่นนอนจนถึงช่วงกลางวัน",
+"example": "I like to go for a run early in the morning."
+},
+{
+"word": "Afternoon",
+"phonetic": "/ˌɑːf.təˈnuːn/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The period of the day from 12 o'clock in the middle of the day until about 6 o'clock in the evening.",
+"meaning_th": "ช่วงเวลาของวันตั้งแต่ 12 นาฬิกาในตอนกลางวันจนถึงประมาณ 6 นาฬิกาในตอนเย็น",
+"example": "We have a team meeting scheduled for tomorrow afternoon."
+},
+{
+"word": "Evening",
+"phonetic": "/ˈiːv.nɪŋ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The part of the day between the end of the afternoon and night.",
+"meaning_th": "ส่วนของวันระหว่างสิ้นสุดตอนบ่ายและตอนกลางคืน",
+"example": "They usually relax and watch television in the evening."
+},
+{
+"word": "Night",
+"phonetic": "/naɪt/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The part of every 24-hour period when it is dark because there is very little light from the sun.",
+"meaning_th": "ส่วนของทุกรอบ 24 ชั่วโมงเมื่อมันมืดเพราะมีแสงจากดวงอาทิตย์น้อยมาก",
+"example": "It is difficult to drive at night when it is raining heavily."
+},
+{
+"word": "Today",
+"phonetic": "/təˈdeɪ/",
+"type": "Noun/Adverb",
+"category": "Daily Life",
+"meaning": "The present day.",
+"meaning_th": "วันปัจจุบัน",
+"example": "Today is a public holiday, so the banks are closed."
+},
+{
+"word": "Tomorrow",
+"phonetic": "/təˈmɒr.əʊ/",
+"type": "Noun/Adverb",
+"category": "Daily Life",
+"meaning": "The day after today.",
+"meaning_th": "วันหลังจากวันนี้",
+"example": "I will call you tomorrow morning to confirm the details."
+},
+{
+"word": "Yesterday",
+"phonetic": "/ˈjes.tə.deɪ/",
+"type": "Noun/Adverb",
+"category": "Daily Life",
+"meaning": "The day before today.",
+"meaning_th": "วันก่อนวันนี้",
+"example": "We went to the cinema yesterday and saw a great comedy."
+},
+{
+"word": "Weekend",
+"phonetic": "/ˌwiːkˈend/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "Saturday and Sunday, or Friday evening until Sunday night.",
+"meaning_th": "วันเสาร์และวันอาทิตย์ หรือเย็นวันศุกร์ถึงคืนวันอาทิตย์",
+"example": "I plan to clean the whole house over the weekend."
+},{
+"word": "Week",
+"phonetic": "/wiːk/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A period of seven days.",
+"meaning_th": "ระยะเวลาเจ็ดวัน",
+"example": "I will be on a business trip to Japan next week."
+},
+{
+"word": "Month",
+"phonetic": "/mʌnθ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A period of about four weeks, especially one of the twelve periods into which a year is divided.",
+"meaning_th": "ระยะเวลาประมาณสี่สัปดาห์ โดยเฉพาะหนึ่งในสิบสองช่วงเวลาที่แบ่งออกเป็นหนึ่งปี",
+"example": "We pay the rent on the first day of every month."
+},
+{
+"word": "Year",
+"phonetic": "/jɪər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A period of twelve months, especially from 1 January to 31 December.",
+"meaning_th": "ระยะเวลาสิบสองเดือน โดยเฉพาะตั้งแต่วันที่ 1 มกราคมถึง 31 ธันวาคม",
+"example": "She is going to study abroad for one year."
+},
+{
+"word": "Second",
+"phonetic": "/ˈsek.ənd/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A short unit of time that is one sixtieth of a minute.",
+"meaning_th": "หน่วยเวลาสั้นๆ ที่เป็นหนึ่งในหกสิบของหนึ่งนาที",
+"example": "The race was won by just a fraction of a second."
+},
+{
+"word": "Minute",
+"phonetic": "/ˈmɪn.ɪt/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "One of the sixty parts that an hour is divided into.",
+"meaning_th": "หนึ่งในหกสิบส่วนที่แบ่งจากหนึ่งชั่วโมง",
+"example": "The train will arrive in approximately five minutes."
+},
+{
+"word": "Hour",
+"phonetic": "/aʊər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A period of 60 minutes.",
+"meaning_th": "ระยะเวลา 60 นาที",
+"example": "The movie lasts for two hours and thirty minutes."
+},
+{
+"word": "Clock",
+"phonetic": "/klɒk/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A device for measuring and showing time, usually found in or on a building and not worn by a person.",
+"meaning_th": "อุปกรณ์สำหรับวัดและแสดงเวลา มักพบในหรือบนอาคารและไม่ได้สวมใส่โดยบุคคล",
+"example": "The large clock on the wall showed it was time to leave."
+},
+{
+"word": "Alarm",
+"phonetic": "/əˈlɑːm/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A device that makes a loud noise to wake you up or remind you to do something.",
+"meaning_th": "อุปกรณ์ที่ทำเสียงดังเพื่อปลุกคุณหรือเตือนให้คุณทำบางสิ่ง",
+"example": "I set my alarm for 6 AM so I wouldn't miss the flight."
+},
+{
+"word": "Calendar",
+"phonetic": "/ˈkæl.ən.dər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A printed table showing all the days, weeks, and months of the year.",
+"meaning_th": "ตารางที่พิมพ์แสดงวัน สัปดาห์ และเดือนทั้งหมดของปี",
+"example": "Please mark the date of the meeting on your calendar."
+},
+{
+"word": "Holiday",
+"phonetic": "/ˈhɒl.ə.deɪ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A time when someone does not go to work or school but is free to do what they want.",
+"meaning_th": "เวลาที่บางคนไม่ได้ไปทำงานหรือไปโรงเรียนแต่มีอิสระที่จะทำในสิ่งที่พวกเขาต้องการ",
+"example": "December 25th is a public holiday in many countries."
+},
+{
+"word": "Vacation",
+"phonetic": "/vəˈkeɪ.ʃən/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A time when someone does not go to work or school but is free to do what they want, such as travel or relax.",
+"meaning_th": "เวลาที่บางคนไม่ได้ไปทำงานหรือไปโรงเรียนแต่มีอิสระที่จะทำในสิ่งที่พวกเขาต้องการ เช่น ท่องเที่ยวหรือพักผ่อน",
+"example": "We are planning to take a summer vacation to Hawaii."
+},
+{
+"word": "Trip",
+"phonetic": "/trɪp/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A journey in which you go somewhere, usually for a short time, and come back again.",
+"meaning_th": "การเดินทางที่คุณไปที่ไหนสักแห่ง มักจะเป็นระยะเวลาสั้นๆ และกลับมาอีกครั้ง",
+"example": "They went on a day trip to the national park."
+},
+{
+"word": "Journey",
+"phonetic": "/ˈdʒɜː.ni/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The act of travelling from one place to another, especially in a vehicle.",
+"meaning_th": "การกระทำในการเดินทางจากที่หนึ่งไปยังอีกที่หนึ่ง โดยเฉพาะในยานพาหนะ",
+"example": "The train journey from London to Edinburgh takes about four hours."
+},
+{
+"word": "Map",
+"phonetic": "/mæp/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A drawing of the earth's surface, or part of that surface, showing the shape and position of different countries, political borders, natural features, roads, etc.",
+"meaning_th": "ภาพวาดของพื้นผิวโลก หรือส่วนหนึ่งของพื้นผิวนั้น ที่แสดงรูปร่างและตำแหน่งของประเทศต่างๆ พรมแดนทางการเมือง ลักษณะทางธรรมชาติ ถนน ฯลฯ",
+"example": "We used a map on our smartphone to find the restaurant."
+},
+{
+"word": "Direction",
+"phonetic": "/dɪˈrek.ʃən/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The position towards which someone or something moves or faces.",
+"meaning_th": "ตำแหน่งที่บางคนหรือบางสิ่งเคลื่อนที่ไปหรือหันหน้าไป",
+"example": "Are we walking in the right direction to get to the museum?"
+},
+{
+"word": "North",
+"phonetic": "/nɔːθ/",
+"type": "Noun/Adjective",
+"category": "Daily Life",
+"meaning": "The direction that goes towards the part of the earth above the equator.",
+"meaning_th": "ทิศทางที่ไปทางส่วนของโลกที่อยู่เหนือเส้นศูนย์สูตร",
+"example": "Many birds fly north in the spring."
+},
+{
+"word": "South",
+"phonetic": "/saʊθ/",
+"type": "Noun/Adjective",
+"category": "Daily Life",
+"meaning": "The direction that goes towards the part of the earth below the equator.",
+"meaning_th": "ทิศทางที่ไปทางส่วนของโลกที่อยู่ใต้เส้นศูนย์สูตร",
+"example": "The house has a garden that faces south to catch the sun."
+},
+{
+"word": "East",
+"phonetic": "/iːst/",
+"type": "Noun/Adjective",
+"category": "Daily Life",
+"meaning": "The direction from which the sun rises in the morning.",
+"meaning_th": "ทิศทางที่ดวงอาทิตย์ขึ้นในตอนเช้า",
+"example": "The sun rises in the east and sets in the west."
+},
+{
+"word": "West",
+"phonetic": "/west/",
+"type": "Noun/Adjective",
+"category": "Daily Life",
+"meaning": "The direction in which the sun goes down in the evening.",
+"meaning_th": "ทิศทางที่ดวงอาทิตย์ตกในตอนเย็น",
+"example": "They drove west along the highway for several hours."
+},
+{
+"word": "Right",
+"phonetic": "/raɪt/",
+"type": "Adjective/Noun",
+"category": "Daily Life",
+"meaning": "On or towards the side of your body that is to the east when you are facing north.",
+"meaning_th": "บนหรือหันไปทางด้านข้างของร่างกายคุณที่อยู่ทางทิศตะวันออกเมื่อคุณหันหน้าไปทางทิศเหนือ",
+"example": "Take the first street on the right after the traffic lights."
+},
+{
+"word": "Left",
+"phonetic": "/left/",
+"type": "Adjective/Noun",
+"category": "Daily Life",
+"meaning": "On or towards the side of your body that is to the west when you are facing north.",
+"meaning_th": "บนหรือหันไปทางด้านข้างของร่างกายคุณที่อยู่ทางทิศตะวันตกเมื่อคุณหันหน้าไปทางทิศเหนือ",
+"example": "In the UK, people drive on the left side of the road."
+},
+{
+"word": "Straight",
+"phonetic": "/streɪt/",
+"type": "Adjective/Adverb",
+"category": "Daily Life",
+"meaning": "Continuing in one direction without bending or curving.",
+"meaning_th": "ดำเนินต่อไปในทิศทางเดียวโดยไม่โค้งงอหรือเลี้ยว",
+"example": "Keep walking straight until you reach the end of the street."
+},
+{
+"word": "Front",
+"phonetic": "/frʌnt/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The part of a building, object, or person's body that faces forward or is most often seen or used.",
+"meaning_th": "ส่วนของอาคาร วัตถุ หรือร่างกายของคนที่หันไปข้างหน้าหรือถูกมองเห็นหรือใช้งานบ่อยที่สุด",
+"example": "He spilled coffee all over the front of his new shirt."
+},
+{
+"word": "Back",
+"phonetic": "/bæk/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The part of something that is furthest from the front or in the opposite direction to the front.",
+"meaning_th": "ส่วนของบางสิ่งที่อยู่ไกลจากด้านหน้าที่สุดหรือในทิศทางตรงกันข้ามกับด้านหน้า",
+"example": "There is a large parking lot at the back of the building."
+},
+{
+"word": "Top",
+"phonetic": "/tɒp/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The highest place or part.",
+"meaning_th": "สถานที่หรือส่วนที่สูงที่สุด",
+"example": "She placed the star carefully on the top of the Christmas tree."
+},
+{
+"word": "Bottom",
+"phonetic": "/ˈbɒt.əm/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The lowest part of something.",
+"meaning_th": "ส่วนที่ต่ำที่สุดของบางสิ่ง",
+"example": "You need to sign your name at the bottom of the contract."
+},
+{
+"word": "Side",
+"phonetic": "/saɪd/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A flat outer surface of an object, especially one that is not the top, the bottom, the front, or the back.",
+"meaning_th": "พื้นผิวด้านนอกที่แบนของวัตถุ โดยเฉพาะส่วนที่ไม่ใช่ด้านบน ด้านล่าง ด้านหน้า หรือด้านหลัง",
+"example": "There is a door on the right side of the house."
+},
+{
+"word": "Inside",
+"phonetic": "/ɪnˈsaɪd/",
+"type": "Preposition/Noun",
+"category": "Daily Life",
+"meaning": "In or into a room, building, container, or something similar.",
+"meaning_th": "ในหรือเข้าไปในห้อง อาคาร ภาชนะ หรือสิ่งที่คล้ายกัน",
+"example": "It started raining, so we moved the party inside."
+},
+{
+"word": "Outside",
+"phonetic": "/ˌaʊtˈsaɪd/",
+"type": "Preposition/Noun",
+"category": "Daily Life",
+"meaning": "Not inside a building.",
+"meaning_th": "ไม่ได้อยู่ภายในอาคาร",
+"example": "The children are playing outside in the garden."
+},
+{
+"word": "Corner",
+"phonetic": "/ˈkɔː.nər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The point, area, or line that is formed by the meeting of two lines, surfaces, roads, etc.",
+"meaning_th": "จุด พื้นที่ หรือเส้นที่เกิดจากการบรรจบกันของเส้น พื้นผิว ถนน ฯลฯ สองเส้น",
+"example": "The bakery is located right on the corner of the street."
+},{
+"word": "Center",
+"phonetic": "/ˈsen.tər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The middle point or part of something.",
+"meaning_th": "จุดหรือส่วนตรงกลางของบางสิ่งบางอย่าง",
+"example": "There is a large table in the center of the room."
+},
+{
+"word": "Edge",
+"phonetic": "/edʒ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The outside limit of an object, a surface, or an area.",
+"meaning_th": "ขีดจำกัดด้านนอกของวัตถุ พื้นผิว หรือพื้นที่",
+"example": "Don't put that glass so close to the edge of the table."
+},
+{
+"word": "Middle",
+"phonetic": "/ˈmɪd.əl/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The central point, position, or part.",
+"meaning_th": "จุด ตำแหน่ง หรือส่วนที่เป็นศูนย์กลาง",
+"example": "He stood in the middle of the road looking around."
+},
+{
+"word": "City",
+"phonetic": "/ˈsɪt.i/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A large town.",
+"meaning_th": "เมืองขนาดใหญ่",
+"example": "New York is a very busy and crowded city."
+},
+{
+"word": "Town",
+"phonetic": "/taʊn/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A place where people live and work, containing many houses, shops, places of work, etc., and usually larger than a village but smaller than a city.",
+"meaning_th": "สถานที่ที่ผู้คนอาศัยและทำงาน ซึ่งมีบ้าน ร้านค้า สถานที่ทำงาน ฯลฯ จำนวนมาก และมักจะใหญ่กว่าหมู่บ้านแต่เล็กกว่าเมืองขนาดใหญ่",
+"example": "I grew up in a small town near the mountains."
+},
+{
+"word": "Village",
+"phonetic": "/ˈvɪl.ɪdʒ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A group of houses and other buildings that is smaller than a town, usually in the countryside.",
+"meaning_th": "กลุ่มบ้านและอาคารอื่นๆ ที่มีขนาดเล็กกว่าเมือง มักจะอยู่ในชนบท",
+"example": "The village has only one small grocery store."
+},
+{
+"word": "Country",
+"phonetic": "/ˈkʌn.tri/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "An area of land that has its own government, army, etc.",
+"meaning_th": "พื้นที่ดินที่มีรัฐบาล กองทัพ ฯลฯ เป็นของตนเอง",
+"example": "Thailand is a beautiful country in Southeast Asia."
+},
+{
+"word": "State",
+"phonetic": "/steɪt/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A part of a large country with its own government, such as in Germany, Australia, or the US.",
+"meaning_th": "ส่วนหนึ่งของประเทศขนาดใหญ่ที่มีรัฐบาลเป็นของตนเอง เช่นในประเทศเยอรมนี ออสเตรเลีย หรือสหรัฐอเมริกา",
+"example": "California is the most populous state in the USA."
+},
+{
+"word": "Capital",
+"phonetic": "/ˈkæp.ɪ.təl/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A city that is the centre of government of a country or smaller political area.",
+"meaning_th": "เมืองที่เป็นศูนย์กลางรัฐบาลของประเทศหรือพื้นที่ทางการเมืองที่เล็กกว่า",
+"example": "Paris is the capital of France."
+},
+{
+"word": "World",
+"phonetic": "/wɜːld/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The earth and all the people, places, and things on it.",
+"meaning_th": "โลกและผู้คน สถานที่ และสิ่งต่างๆ ทั้งหมดบนนั้น",
+"example": "English is spoken in many parts of the world."
+},
+{
+"word": "Earth",
+"phonetic": "/ɜːθ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The planet third in order of distance from the sun, on which we live.",
+"meaning_th": "ดาวเคราะห์ลำดับที่สามจากดวงอาทิตย์ ซึ่งเราอาศัยอยู่",
+"example": "The moon goes around the earth."
+},
+{
+"word": "Nature",
+"phonetic": "/ˈneɪ.tʃər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "All the animals, plants, rocks, etc. in the world and all the features, forces, and processes that happen or exist independently of people.",
+"meaning_th": "สัตว์ พืช หิน ฯลฯ ทั้งหมดในโลก และลักษณะ พลังงาน และกระบวนการทั้งหมดที่เกิดขึ้นหรือดำรงอยู่อย่างเป็นอิสระจากมนุษย์",
+"example": "We should all try to protect nature and the environment."
+},
+{
+"word": "Animal",
+"phonetic": "/ˈæn.ɪ.məl/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "Something that lives and moves but is not a human, bird, fish, or insect.",
+"meaning_th": "สิ่งที่มีชีวิตและเคลื่อนไหวได้แต่ไม่ใช่มนุษย์ นก ปลา หรือแมลง",
+"example": "Lions are wild animals that live in Africa."
+},
+{
+"word": "Plant",
+"phonetic": "/plɑːnt/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A living thing that grows in earth, in water, or on other plants, usually has a stem, leaves, roots, and flowers, and produces seeds.",
+"meaning_th": "สิ่งมีชีวิตที่เติบโตในดิน ในน้ำ หรือบนพืชอื่น มักจะมีลำต้น ใบ ราก และดอก และผลิตเมล็ด",
+"example": "Don't forget to water the plants while I am away."
+},
+{
+"word": "Pet",
+"phonetic": "/pet/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "An animal that is kept in the home as a companion and treated kindly.",
+"meaning_th": "สัตว์ที่เลี้ยงไว้ในบ้านเป็นเพื่อนและได้รับการดูแลอย่างดี",
+"example": "Having a pet can help reduce stress and anxiety."
+},
+{
+"word": "Dog",
+"phonetic": "/dɒɡ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A common animal with four legs, especially kept by people as a pet or to hunt or guard things.",
+"meaning_th": "สัตว์ทั่วไปที่มีสี่ขา โดยเฉพาะที่คนเลี้ยงไว้เป็นสัตว์เลี้ยงหรือเพื่อล่าสัตว์หรือเฝ้าสิ่งของ",
+"example": "My dog barks loudly whenever a stranger comes to the door."
+},
+{
+"word": "Cat",
+"phonetic": "/kæt/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A small animal with fur, four legs, a tail, and claws, usually kept as a pet or for catching mice.",
+"meaning_th": "สัตว์ขนาดเล็กที่มีขน สี่ขา หาง และกรงเล็บ มักเลี้ยงเป็นสัตว์เลี้ยงหรือเพื่อจับหนู",
+"example": "The cat is sleeping comfortably on the warm sofa."
+},
+{
+"word": "Bird",
+"phonetic": "/bɜːd/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A creature with feathers and wings, usually able to fly.",
+"meaning_th": "สิ่งมีชีวิตที่มีขนนกและปีก มักจะสามารถบินได้",
+"example": "We woke up early to the sound of birds singing."
+},
+{
+"word": "Fish",
+"phonetic": "/fɪʃ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "An animal that lives in water, is covered with scales, and breathes by taking water in through its mouth, or the flesh of these animals eaten as food.",
+"meaning_th": "สัตว์ที่อาศัยอยู่ในน้ำ มีเกล็ดปกคลุม และหายใจโดยเอาน้ำเข้าทางปาก หรือเนื้อของสัตว์เหล่านี้ที่กินเป็นอาหาร",
+"example": "He caught a huge fish in the lake yesterday."
+},
+{
+"word": "Food",
+"phonetic": "/fuːd/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "Something that people and animals eat, or plants absorb, to keep them alive.",
+"meaning_th": "สิ่งที่คนและสัตว์กิน หรือพืชดูดซึม เพื่อให้มีชีวิตอยู่ได้",
+"example": "We need to buy some food for the party tonight."
+},
+{
+"word": "Water",
+"phonetic": "/ˈwɔː.tər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A clear liquid, without colour or taste, that falls from the sky as rain and is necessary for animal and plant life.",
+"meaning_th": "ของเหลวใส ไม่มีสีหรือรสชาติ ที่ตกลงมาจากท้องฟ้าเป็นฝนและจำเป็นต่อชีวิตสัตว์และพืช",
+"example": "You should drink plenty of water after exercising."
+},
+{
+"word": "Milk",
+"phonetic": "/mɪlk/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The white liquid produced by cows, goats, and sheep and used by humans as a drink or for making butter, cheese, etc.",
+"meaning_th": "ของเหลวสีขาวที่ผลิตโดยวัว แพะ และแกะ และมนุษย์ใช้เป็นเครื่องดื่มหรือสำหรับทำเนย ชีส ฯลฯ",
+"example": "I always have a glass of warm milk before going to bed."
+},
+{
+"word": "Coffee",
+"phonetic": "/ˈkɒf.i/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A dark brown powder made from roasted and ground coffee beans, or a hot or cold drink made from this powder.",
+"meaning_th": "ผงสีน้ำตาลเข้มที่ทำจากเมล็ดกาแฟคั่วบด หรือเครื่องดื่มร้อนหรือเย็นที่ทำจากผงนี้",
+"example": "I need a strong cup of coffee to wake me up this morning."
+},
+{
+"word": "Tea",
+"phonetic": "/tiː/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A hot or cold drink made by pouring boiling water onto the dried leaves of the tea bush.",
+"meaning_th": "เครื่องดื่มร้อนหรือเย็นที่ทำโดยการเทน้ำเดือดลงบนใบแห้งของพุ่มชา",
+"example": "Would you like a cup of green tea?"
+},
+{
+"word": "Juice",
+"phonetic": "/dʒuːs/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The liquid that comes from fruit or vegetables.",
+"meaning_th": "ของเหลวที่มาจากผลไม้หรือผัก",
+"example": "She poured him a tall glass of fresh orange juice."
+},
+{
+"word": "Bread",
+"phonetic": "/bred/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A food made from flour, water, and usually yeast, mixed together and baked.",
+"meaning_th": "อาหารที่ทำจากแป้ง น้ำ และมักจะมีส่วนผสมของยีสต์ ผสมเข้าด้วยกันและนำไปอบ",
+"example": "I bought a fresh loaf of bread from the bakery."
+},
+{
+"word": "Meat",
+"phonetic": "/miːt/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The flesh of an animal when it is used for food.",
+"meaning_th": "เนื้อของสัตว์เมื่อถูกใช้เป็นอาหาร",
+"example": "Vegetarians do not eat any kind of meat."
+},
+{
+"word": "Egg",
+"phonetic": "/eɡ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The oval object with a hard shell that is produced by female birds, especially chickens, eaten as food.",
+"meaning_th": "วัตถุรูปวงรีที่มีเปลือกแข็งซึ่งผลิตโดยนกตัวเมีย โดยเฉพาะไก่ รับประทานเป็นอาหาร",
+"example": "I usually have two boiled eggs for breakfast."
+},
+{
+"word": "Fruit",
+"phonetic": "/fruːt/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The soft part containing seeds that is produced by a plant and eaten as food.",
+"meaning_th": "ส่วนอ่อนที่มีเมล็ดซึ่งผลิตโดยพืชและรับประทานเป็นอาหาร",
+"example": "Apples and bananas are my favorite kinds of fruit."
+},
+{
+"word": "Vegetable",
+"phonetic": "/ˈvedʒ.tə.bəl/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A plant, root, seed, or pod that is used as food, especially in dishes that are not sweet.",
+"meaning_th": "พืช ราก เมล็ด หรือฝักที่ใช้เป็นอาหาร โดยเฉพาะในอาหารที่ไม่มีรสหวาน",
+"example": "You should eat more fresh vegetables to stay healthy."
+},{
+"word": "Rice",
+"phonetic": "/raɪs/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A small, white or brown grain grown on wet land and used as food.",
+"meaning_th": "เมล็ดข้าวสีขาวหรือสีน้ำตาลขนาดเล็กที่ปลูกบนพื้นที่เปียกและใช้เป็นอาหาร",
+"example": "We usually eat rice with curry for dinner."
+},
+{
+"word": "Noodle",
+"phonetic": "/ˈnuː.dəl/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A long, thin strip of pasta made from flour, water, and sometimes eggs.",
+"meaning_th": "เส้นพาสต้ายาวและบางที่ทำจากแป้ง น้ำ และบางครั้งก็มีไข่",
+"example": "She ordered a bowl of spicy chicken noodles."
+},
+{
+"word": "Soup",
+"phonetic": "/suːp/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A usually hot, liquid food made from vegetables, meat, or fish.",
+"meaning_th": "อาหารเหลวซึ่งมักจะร้อน ทำจากผัก เนื้อสัตว์ หรือปลา",
+"example": "I like to eat hot mushroom soup on a cold day."
+},
+{
+"word": "Salad",
+"phonetic": "/ˈsæl.əd/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A mixture of uncooked vegetables, usually eaten cold.",
+"meaning_th": "ส่วนผสมของผักดิบ มักจะรับประทานแบบเย็น",
+"example": "He always has a healthy green salad for lunch."
+},
+{
+"word": "Sugar",
+"phonetic": "/ˈʃʊɡ.ər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A sweet substance, usually in the form of white or brown crystals, used to make food and drinks sweet.",
+"meaning_th": "สารให้ความหวาน มักอยู่ในรูปของผลึกสีขาวหรือสีน้ำตาล ใช้ทำให้อาหารและเครื่องดื่มมีรสหวาน",
+"example": "Do you take milk and sugar in your coffee?"
+},
+{
+"word": "Salt",
+"phonetic": "/sɒlt/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A common white substance found in sea water and in the ground, used to add flavour to food.",
+"meaning_th": "สารสีขาวทั่วไปที่พบในน้ำทะเลและในดิน ใช้เพื่อเพิ่มรสชาติให้กับอาหาร",
+"example": "The soup is a bit tasteless; it needs more salt."
+},
+{
+"word": "Pepper",
+"phonetic": "/ˈpep.ər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A grey or white powder produced by crushing dry peppercorns, used to give a spicy, hot taste to food.",
+"meaning_th": "ผงสีเทาหรือสีขาวที่ผลิตโดยการบดเมล็ดพริกไทยแห้ง ใช้เพื่อให้รสชาติเผ็ดร้อนแก่อาหาร",
+"example": "I like a lot of black pepper on my steak."
+},
+{
+"word": "Oil",
+"phonetic": "/ɔɪl/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A smooth thick liquid produced from plants or animals that is used in cooking.",
+"meaning_th": "ของเหลวข้นเรียบลื่นที่ผลิตจากพืชหรือสัตว์ซึ่งใช้ในการทำอาหาร",
+"example": "Heat some olive oil in the pan before adding the onions."
+},
+{
+"word": "Butter",
+"phonetic": "/ˈbʌt.ər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A pale yellow solid food containing a lot of fat that is made from cream.",
+"meaning_th": "อาหารแข็งสีเหลืองอ่อนที่มีไขมันมากซึ่งทำจากครีม",
+"example": "She spread some butter and jam on her toast."
+},
+{
+"word": "Cheese",
+"phonetic": "/tʃiːz/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A food made from milk, which can either be firm or soft and is usually yellow or white.",
+"meaning_th": "อาหารที่ทำจากนม ซึ่งอาจจะแข็งหรือนุ่ม และมักจะมีสีเหลืองหรือสีขาว",
+"example": "This pizza is covered in melted cheese."
+},
+{
+"word": "Plate",
+"phonetic": "/pleɪt/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A flat, usually round dish with a slightly raised edge that you eat from or serve food from.",
+"meaning_th": "จานแบนๆ มักจะกลมและมีขอบนูนขึ้นเล็กน้อยที่คุณใช้กินหรือเสิร์ฟอาหาร",
+"example": "There is a piece of cake left on the plate."
+},
+{
+"word": "Bowl",
+"phonetic": "/bəʊl/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A round container that is open at the top and is deep enough to hold fruit, sugar, soup, etc.",
+"meaning_th": "ภาชนะทรงกลมที่เปิดด้านบนและลึกพอที่จะใส่ผลไม้ น้ำตาล ซุป ฯลฯ",
+"example": "He ate a large bowl of cereal for breakfast."
+},
+{
+"word": "Cup",
+"phonetic": "/kʌp/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A small, round container, often with a handle, used for drinking tea, coffee, etc.",
+"meaning_th": "ภาชนะทรงกลมขนาดเล็ก มักมีด้ามจับ ใช้สำหรับดื่มชา กาแฟ ฯลฯ",
+"example": "Could you please pass me that cup of hot water?"
+},
+{
+"word": "Glass",
+"phonetic": "/ɡlɑːs/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A small container for drinks made of glass or similar material, with a flat base and usually with no handle.",
+"meaning_th": "ภาชนะขนาดเล็กสำหรับเครื่องดื่มที่ทำจากแก้วหรือวัสดุที่คล้ายกัน มีฐานแบนและมักจะไม่มีด้ามจับ",
+"example": "He drank a whole glass of water after his run."
+},
+{
+"word": "Fork",
+"phonetic": "/fɔːk/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A tool used for eating food which has a row of three or four metal points at the end.",
+"meaning_th": "เครื่องมือที่ใช้สำหรับรับประทานอาหารซึ่งมีปลายแหลมเป็นโลหะสามหรือสี่แฉกเรียงเป็นแถว",
+"example": "You need a knife and a fork to eat this steak."
+},
+{
+"word": "Spoon",
+"phonetic": "/spuːn/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A tool used for eating or serving food, consisting of a small, shallow bowl attached to a handle.",
+"meaning_th": "เครื่องมือที่ใช้สำหรับรับประทานหรือเสิร์ฟอาหาร ประกอบด้วยส่วนที่เป็นแอ่งตื้นขนาดเล็กติดกับด้ามจับ",
+"example": "She used a wooden spoon to stir the soup."
+},
+{
+"word": "Knife",
+"phonetic": "/naɪf/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A tool, usually with a metal blade and a handle, used for cutting and spreading food.",
+"meaning_th": "เครื่องมือที่มักจะมีใบมีดโลหะและด้ามจับ ใช้สำหรับตัดและปาดอาหาร",
+"example": "Be careful, that kitchen knife is very sharp."
+},
+{
+"word": "Bottle",
+"phonetic": "/ˈbɒt.əl/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A container for liquids, usually made of glass or plastic, with a narrow neck.",
+"meaning_th": "ภาชนะสำหรับใส่ของเหลว มักทำจากแก้วหรือพลาสติก มีคอแคบ",
+"example": "Don't forget to take a water bottle to the gym."
+},
+{
+"word": "Box",
+"phonetic": "/bɒks/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A square or rectangular container with stiff sides and sometimes a lid.",
+"meaning_th": "ภาชนะทรงสี่เหลี่ยมจัตุรัสหรือสี่เหลี่ยมผืนผ้าที่มีด้านแข็งและบางครั้งมีฝาปิด",
+"example": "I packed all my old books into a cardboard box."
+},
+{
+"word": "Bag",
+"phonetic": "/bæɡ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A soft container made out of paper or thin cloth, used to hold things.",
+"meaning_th": "ภาชนะอ่อนนุ่มที่ทำจากกระดาษหรือผ้าบาง ใช้สำหรับใส่สิ่งของ",
+"example": "She carried her groceries in a reusable cloth bag."
+},
+{
+"word": "Pencil",
+"phonetic": "/ˈpen.səl/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A long, thin object, usually made of wood, for writing or drawing, with a sharp black or coloured point at one end.",
+"meaning_th": "วัตถุที่ยาวและบาง มักทำจากไม้ สำหรับเขียนหรือวาด มีปลายแหลมสีดำหรือสีที่ปลายด้านหนึ่ง",
+"example": "Use a pencil to sketch the outline first."
+},
+{
+"word": "Eraser",
+"phonetic": "/ɪˈreɪ.zər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A small piece of rubber used to remove the marks made by a pencil.",
+"meaning_th": "ยางชิ้นเล็กๆ ที่ใช้ลบรอยที่ทำด้วยดินสอ",
+"example": "Can I borrow your eraser to fix this mistake?"
+},
+{
+"word": "Ruler",
+"phonetic": "/ˈruː.lər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A long, narrow, flat piece of plastic, metal, or wood with straight edges where centimetres or inches are printed.",
+"meaning_th": "ชิ้นพลาสติก โลหะ หรือไม้ที่ยาว แคบ และแบน มีขอบตรงซึ่งมีการพิมพ์เซนติเมตรหรือนิ้วไว้",
+"example": "You need a ruler to draw a perfectly straight line."
+},
+{
+"word": "Scissors",
+"phonetic": "/ˈsɪz.əz/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A device used for cutting materials such as paper, cloth, and hair, consisting of two sharp blades that are joined in the middle.",
+"meaning_th": "อุปกรณ์ที่ใช้สำหรับตัดวัสดุ เช่น กระดาษ ผ้า และเส้นผม ประกอบด้วยใบมีดคมสองใบที่เชื่อมต่อกันตรงกลาง",
+"example": "She used a pair of scissors to cut the ribbon."
+},
+{
+"word": "Picture",
+"phonetic": "/ˈpɪk.tʃər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A drawing, painting, photograph, etc.",
+"meaning_th": "ภาพวาด ภาพระบายสี ภาพถ่าย ฯลฯ",
+"example": "They took a lot of pictures during their trip to Europe."
+},
+{
+"word": "Paint",
+"phonetic": "/peɪnt/",
+"type": "Noun/Verb",
+"category": "Daily Life",
+"meaning": "A coloured liquid that is put on a surface such as a wall to decorate it.",
+"meaning_th": "ของเหลวมีสีที่ทาลงบนพื้นผิวเช่นกำแพงเพื่อตกแต่ง",
+"example": "The smell of fresh paint in the room was very strong."
+},
+{
+"word": "Color",
+"phonetic": "/ˈkʌl.ər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The appearance that something has as a result of reflecting light.",
+"meaning_th": "ลักษณะที่บางสิ่งปรากฏเป็นผลมาจากการสะท้อนแสง",
+"example": "What is your favorite color?"
+},
+{
+"word": "Music",
+"phonetic": "/ˈmjuː.zɪk/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A pattern of sounds made by musical instruments, voices, or computers.",
+"meaning_th": "รูปแบบของเสียงที่สร้างโดยเครื่องดนตรี เสียงร้อง หรือคอมพิวเตอร์",
+"example": "Listening to classical music helps me focus on my studies."
+},
+{
+"word": "Song",
+"phonetic": "/sɒŋ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A usually short piece of music with words that are sung.",
+"meaning_th": "บทเพลงซึ่งมักจะสั้นและมีเนื้อร้องที่ใช้ร้อง",
+"example": "She sang a beautiful song at the wedding."
+},
+{
+"word": "Movie",
+"phonetic": "/ˈmuː.vi/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A series of moving pictures, usually shown in a cinema or on television and often telling a story.",
+"meaning_th": "ภาพเคลื่อนไหวที่ต่อเนื่องกัน มักจะฉายในโรงภาพยนตร์หรือทางโทรทัศน์ และมักจะบอกเล่าเรื่องราว",
+"example": "We bought popcorn before the movie started."
+},{
+"word": "Television",
+"phonetic": "/ˌtel.ɪˈvɪʒ.ən/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A device with a screen for receiving signals and broadcasting them as pictures and sound.",
+"meaning_th": "อุปกรณ์ที่มีหน้าจอสำหรับรับสัญญาณและแพร่ภาพเป็นภาพและเสียง",
+"example": "They bought a new flat-screen television for the living room."
+},
+{
+"word": "Radio",
+"phonetic": "/ˈreɪ.di.əʊ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A piece of electronic equipment used for listening to radio broadcasts.",
+"meaning_th": "ชิ้นส่วนของอุปกรณ์อิเล็กทรอนิกส์ที่ใช้สำหรับฟังการออกอากาศทางวิทยุ",
+"example": "My grandfather listens to the news on the radio every morning."
+},
+{
+"word": "Internet",
+"phonetic": "/ˈɪn.tə.net/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The large system of connected computers around the world.",
+"meaning_th": "ระบบขนาดใหญ่ของคอมพิวเตอร์ที่เชื่อมต่อกันทั่วโลก",
+"example": "You can find almost any information you need on the internet."
+},
+{
+"word": "Website",
+"phonetic": "/ˈweb.saɪt/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A set of pages of information on the internet about a particular subject.",
+"meaning_th": "ชุดของหน้าข้อมูลบนอินเทอร์เน็ตเกี่ยวกับเรื่องใดเรื่องหนึ่ง",
+"example": "I found a great website that teaches you how to cook Thai food."
+},
+{
+"word": "Computer",
+"phonetic": "/kəmˈpjuː.tər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "An electronic machine that is used for storing, organizing, and finding words, numbers, and pictures.",
+"meaning_th": "เครื่องจักรอิเล็กทรอนิกส์ที่ใช้สำหรับจัดเก็บ จัดระเบียบ และค้นหาคำ ตัวเลข และรูปภาพ",
+"example": "He spends most of his day working on his computer."
+},
+{
+"word": "Camera",
+"phonetic": "/ˈkæm.rə/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A device for taking photographs or making films or television programmes.",
+"meaning_th": "อุปกรณ์สำหรับถ่ายภาพหรือสร้างภาพยนตร์หรือรายการโทรทัศน์",
+"example": "She took a lot of beautiful photos with her new digital camera."
+},
+{
+"word": "Photograph",
+"phonetic": "/ˈfəʊ.tə.ɡrɑːf/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A picture produced using a camera.",
+"meaning_th": "รูปภาพที่สร้างขึ้นโดยใช้กล้องถ่ายรูป",
+"example": "There is an old framed photograph of his grandparents on the desk."
+},
+{
+"word": "Video",
+"phonetic": "/ˈvɪd.i.əʊ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A recording of moving pictures and sound.",
+"meaning_th": "การบันทึกภาพเคลื่อนไหวและเสียง",
+"example": "We watched a funny video of cats on the internet."
+},
+{
+"word": "Game",
+"phonetic": "/ɡeɪm/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "An entertaining activity or sport, especially one played by children.",
+"meaning_th": "กิจกรรมหรือกีฬาที่ให้ความบันเทิง โดยเฉพาะสิ่งที่เด็กๆ เล่น",
+"example": "The children were playing a game of hide and seek in the garden."
+},
+{
+"word": "Toy",
+"phonetic": "/tɔɪ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "An object for children to play with.",
+"meaning_th": "สิ่งของสำหรับให้เด็กๆ เล่น",
+"example": "The baby was chewing on a plastic toy."
+},
+{
+"word": "Sport",
+"phonetic": "/spɔːt/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A game, competition, or activity needing physical effort and skill.",
+"meaning_th": "เกม การแข่งขัน หรือกิจกรรมที่ต้องใช้ความพยายามและทักษะทางร่างกาย",
+"example": "Football is the most popular sport in many countries."
+},
+{
+"word": "Ball",
+"phonetic": "/bɔːl/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A round object used for throwing, hitting, or kicking in games and sports.",
+"meaning_th": "วัตถุทรงกลมที่ใช้สำหรับขว้าง ตี หรือเตะในเกมและกีฬา",
+"example": "He threw the ball to his dog to catch."
+},
+{
+"word": "Team",
+"phonetic": "/tiːm/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A number of people who do something together as a group.",
+"meaning_th": "จำนวนคนกลุ่มหนึ่งที่ทำสิ่งต่างๆ ร่วมกันเป็นกลุ่ม",
+"example": "Our local football team won the championship this year."
+},
+{
+"word": "Match",
+"phonetic": "/mætʃ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A sports competition or event in which two people or teams compete against each other.",
+"meaning_th": "การแข่งขันกีฬาหรืองานที่คนสองคนหรือสองทีมแข่งขันกันเอง",
+"example": "Are you going to watch the tennis match on television tonight?"
+},
+{
+"word": "Player",
+"phonetic": "/ˈpleɪ.ər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "Someone who takes part in a game or sport.",
+"meaning_th": "บางคนที่เข้าร่วมในเกมหรือกีฬา",
+"example": "She is the best player on the basketball team."
+},
+{
+"word": "Pool",
+"phonetic": "/puːl/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "An area of water that has been made for people to swim in.",
+"meaning_th": "พื้นที่ของน้ำที่สร้างขึ้นเพื่อให้คนว่ายน้ำ",
+"example": "The hotel has a large outdoor swimming pool for its guests."
+},
+{
+"word": "Playground",
+"phonetic": "/ˈpleɪ.ɡraʊnd/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "An area designed for children to play in outside.",
+"meaning_th": "พื้นที่ที่ออกแบบมาเพื่อให้เด็กๆ เล่นนอกบ้าน",
+"example": "The kids ran to the playground as soon as school finished."
+},
+{
+"word": "Zoo",
+"phonetic": "/zuː/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "An area in which animals, especially wild animals, are kept so that people can go and look at them.",
+"meaning_th": "พื้นที่ที่มีการเลี้ยงสัตว์ โดยเฉพาะสัตว์ป่า เพื่อให้คนไปดูได้",
+"example": "We took the children to the zoo to see the monkeys and elephants."
+},
+{
+"word": "Museum",
+"phonetic": "/mjuːˈziː.əm/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A building where objects of historical, scientific, or artistic interest are kept.",
+"meaning_th": "อาคารที่เก็บวัตถุที่มีความสนใจทางประวัติศาสตร์ วิทยาศาสตร์ หรือศิลปะ",
+"example": "The national museum has a large collection of ancient artifacts."
+},
+{
+"word": "Library",
+"phonetic": "/ˈlaɪ.brər.i/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A building, room, or organization that has a collection of books for people to read or borrow.",
+"meaning_th": "อาคาร ห้อง หรือองค์กรที่มีคอลเลกชันหนังสือเพื่อให้ผู้คนอ่านหรือยืม",
+"example": "I need to return these three books to the public library today."
+},
+{
+"word": "Theater",
+"phonetic": "/ˈθɪə.tər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A building, room, or outside structure with rows of seats, each row usually higher than the one in front, from which people can watch a performance.",
+"meaning_th": "อาคาร ห้อง หรือโครงสร้างภายนอกที่มีที่นั่งเรียงเป็นแถว ซึ่งมักจะสูงกว่าแถวหน้า เพื่อให้ผู้คนสามารถดูการแสดงได้",
+"example": "They bought tickets to see a famous play at the theater."
+},
+{
+"word": "Cinema",
+"phonetic": "/ˈsɪn.ə.mə/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A theatre where people pay to watch films.",
+"meaning_th": "โรงละครที่ผู้คนจ่ายเงินเพื่อดูภาพยนตร์",
+"example": "We went to the cinema to watch the new action movie."
+},
+{
+"word": "Concert",
+"phonetic": "/ˈkɒn.sət/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A performance of music by one or more musicians or singers.",
+"meaning_th": "การแสดงดนตรีโดยนักดนตรีหรือนักร้องหนึ่งคนหรือมากกว่า",
+"example": "The rock band is giving a live concert at the stadium tomorrow."
+},
+{
+"word": "Party",
+"phonetic": "/ˈpɑː.ti/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A social event at which a group of people meet to talk, eat, drink, dance, etc.",
+"meaning_th": "งานสังคมที่กลุ่มคนมาพบปะเพื่อพูดคุย กิน ดื่ม เต้นรำ ฯลฯ",
+"example": "She invited all her friends to her birthday party on Saturday."
+},
+{
+"word": "Festival",
+"phonetic": "/ˈfes.tɪ.vəl/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A special day or period, usually in memory of a religious event, with its own social activities, food, or ceremonies.",
+"meaning_th": "วันหรือช่วงเวลาพิเศษ ซึ่งมักจะเป็นการรำลึกถึงงานทางศาสนา โดยมีกิจกรรมทางสังคม อาหาร หรือพิธีการเป็นของตนเอง",
+"example": "Songkran is a famous water festival celebrated in Thailand."
+},
+{
+"word": "Gift",
+"phonetic": "/ɡɪft/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A present or something that is given.",
+"meaning_th": "ของขวัญหรือสิ่งที่มอบให้",
+"example": "He gave her a beautiful silver necklace as an anniversary gift."
+},
+{
+"word": "Card",
+"phonetic": "/kɑːd/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A piece of stiff paper folded in half, with a picture on the front and a message inside, given on a special occasion.",
+"meaning_th": "ชิ้นกระดาษแข็งพับครึ่ง มีรูปภาพด้านหน้าและข้อความด้านใน มอบให้ในโอกาสพิเศษ",
+"example": "I bought a lovely card to say thank you for her help."
+},
+{
+"word": "Letter",
+"phonetic": "/ˈlet.ər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A written message from one person to another, usually put in an envelope and sent by post.",
+"meaning_th": "ข้อความที่เขียนจากบุคคลหนึ่งถึงอีกบุคคลหนึ่ง มักจะใส่ในซองจดหมายและส่งทางไปรษณีย์",
+"example": "She received a long letter from her friend who lives overseas."
+},
+{
+"word": "Newspaper",
+"phonetic": "/ˈnjuːzˌpeɪ.pər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A regularly printed document consisting of large sheets of paper that are folded together, containing news reports, articles, photographs, and advertisements.",
+"meaning_th": "เอกสารที่พิมพ์เป็นประจำประกอบด้วยแผ่นกระดาษขนาดใหญ่พับเข้าด้วยกัน มีรายงานข่าว บทความ ภาพถ่าย และโฆษณา",
+"example": "He likes to read the morning newspaper while having breakfast."
+},
+{
+"word": "Magazine",
+"phonetic": "/ˌmæɡ.əˈziːn/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A type of thin book with large pages and a paper cover that contains articles and photographs and is published every week or month.",
+"meaning_th": "หนังสือบางๆ ประเภทหนึ่งที่มีหน้าขนาดใหญ่และปกกระดาษ มีบทความและภาพถ่าย และตีพิมพ์ทุกสัปดาห์หรือทุกเดือน",
+"example": "She bought a fashion magazine to look at the new clothing trends."
+},{
+"word": "Head",
+"phonetic": "/hed/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The part of the body above the neck where the eyes, nose, mouth, ears, and brain are.",
+"meaning_th": "ส่วนของร่างกายเหนือคอซึ่งเป็นที่ตั้งของดวงตา จมูก ปาก หู และสมอง",
+"example": "He fell and hit his head on the floor."
+},
+{
+"word": "Hair",
+"phonetic": "/heər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The mass of thin thread-like structures on the head of a person.",
+"meaning_th": "กลุ่มโครงสร้างคล้ายเส้นด้ายบางๆ บนศีรษะของบุคคล",
+"example": "She has long, dark hair."
+},
+{
+"word": "Face",
+"phonetic": "/feɪs/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The front of the head, where the eyes, nose, and mouth are.",
+"meaning_th": "ด้านหน้าของศีรษะ ซึ่งเป็นที่ตั้งของดวงตา จมูก และปาก",
+"example": "She washed her face with cold water."
+},
+{
+"word": "Eye",
+"phonetic": "/aɪ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "One of the two organs in your face that are used for seeing.",
+"meaning_th": "หนึ่งในสองอวัยวะบนใบหน้าของคุณที่ใช้สำหรับมองเห็น",
+"example": "He has beautiful blue eyes."
+},
+{
+"word": "Nose",
+"phonetic": "/nəʊz/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The part of the face that sticks out above the mouth, through which you breathe and smell.",
+"meaning_th": "ส่วนของใบหน้าที่ยื่นออกมาเหนือปาก ซึ่งคุณใช้หายใจและดมกลิ่น",
+"example": "My dog has a very wet nose."
+},
+{
+"word": "Mouth",
+"phonetic": "/maʊθ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The opening in the face of a person or animal, consisting of the lips and the space between them.",
+"meaning_th": "ช่องเปิดบนใบหน้าของคนหรือสัตว์ ประกอบด้วยริมฝีปากและช่องว่างระหว่างริมฝีปาก",
+"example": "Please cover your mouth when you cough."
+},
+{
+"word": "Tooth",
+"phonetic": "/tuːθ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "One of the hard, white objects in the mouth that are used for biting and chewing.",
+"meaning_th": "หนึ่งในวัตถุสีขาวที่แข็งในปากซึ่งใช้สำหรับกัดและเคี้ยว (เอกพจน์ของ Teeth)",
+"example": "I have to go to the dentist because my tooth hurts."
+},
+{
+"word": "Ear",
+"phonetic": "/ɪər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "One of the two organs, one on each side of the head, by which people or animals hear sounds.",
+"meaning_th": "หนึ่งในสองอวัยวะที่อยู่แต่ละข้างของศีรษะ ซึ่งคนหรือสัตว์ใช้ฟังเสียง",
+"example": "She whispered a secret into my ear."
+},
+{
+"word": "Neck",
+"phonetic": "/nek/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The part of the body that joins the head to the shoulders.",
+"meaning_th": "ส่วนของร่างกายที่เชื่อมต่อศีรษะกับไหล่",
+"example": "She wore a gold necklace around her neck."
+},
+{
+"word": "Shoulder",
+"phonetic": "/ˈʃəʊl.dər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "One of the two parts of the body at each side of the neck that join the arms to the rest of the body.",
+"meaning_th": "หนึ่งในสองส่วนของร่างกายที่แต่ละข้างของคอซึ่งเชื่อมต่อแขนกับส่วนอื่นๆ ของร่างกาย",
+"example": "He carried his little son on his shoulders."
+},
+{
+"word": "Arm",
+"phonetic": "/ɑːm/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "Either of the two long parts of the upper body that are attached to the shoulders.",
+"meaning_th": "ส่วนยาวสองส่วนของร่างกายส่วนบนที่ติดอยู่กับไหล่",
+"example": "She broke her arm while playing football."
+},
+{
+"word": "Hand",
+"phonetic": "/hænd/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The part of the body at the end of the arm that is used for holding, moving, touching, and feeling things.",
+"meaning_th": "ส่วนของร่างกายที่ปลายแขนซึ่งใช้สำหรับจับ เคลื่อนย้าย สัมผัส และรู้สึกถึงสิ่งต่างๆ",
+"example": "Please wash your hands before eating."
+},
+{
+"word": "Finger",
+"phonetic": "/ˈfɪŋ.ɡər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "Any of the long, thin, separate parts of the hand, especially those that are not thumbs.",
+"meaning_th": "ส่วนที่ยาว บาง และแยกออกจากกันของมือ โดยเฉพาะส่วนที่ไม่ใช่นิ้วหัวแม่มือ",
+"example": "He pointed his finger at the map."
+},
+{
+"word": "Leg",
+"phonetic": "/leɡ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "One of the parts of the body of a human or animal that is used for standing or walking.",
+"meaning_th": "หนึ่งในส่วนของร่างกายมนุษย์หรือสัตว์ที่ใช้สำหรับยืนหรือเดิน",
+"example": "My legs are tired after running for five kilometers."
+},
+{
+"word": "Foot",
+"phonetic": "/fʊt/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The part of the body at the bottom of the leg on which a person or animal stands.",
+"meaning_th": "ส่วนของร่างกายที่ด้านล่างของขาซึ่งคนหรือสัตว์ใช้ยืน (เอกพจน์ของ Feet)",
+"example": "He stepped on a piece of glass and cut his foot."
+},
+{
+"word": "Chest",
+"phonetic": "/tʃest/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The upper front part of the body of humans and some animals, between the stomach and the neck.",
+"meaning_th": "ส่วนหน้าอกบนของร่างกายมนุษย์และสัตว์บางชนิด ระหว่างกระเพาะอาหารและคอ",
+"example": "He felt a sudden pain in his chest."
+},
+{
+"word": "Stomach",
+"phonetic": "/ˈstʌm.ək/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "An organ in the body where food is digested, or the soft front part of your body just below the chest.",
+"meaning_th": "อวัยวะในร่างกายที่ใช้ย่อยอาหาร หรือส่วนหน้านุ่มๆ ของร่างกายคุณที่อยู่ใต้หน้าอก",
+"example": "Don't exercise on a full stomach."
+},
+{
+"word": "Heart",
+"phonetic": "/hɑːt/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The organ in your chest that sends the blood around your body.",
+"meaning_th": "อวัยวะในหน้าอกของคุณที่ส่งเลือดไปทั่วร่างกาย",
+"example": "Regular exercise is very good for your heart."
+},
+{
+"word": "Blood",
+"phonetic": "/blʌd/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The red liquid that is sent around the body by the heart.",
+"meaning_th": "ของเหลวสีแดงที่ถูกส่งไปทั่วร่างกายโดยหัวใจ",
+"example": "He lost a lot of blood in the car accident."
+},
+{
+"word": "Brain",
+"phonetic": "/breɪn/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The organ inside the head that controls thought, memory, feelings, and physical activity.",
+"meaning_th": "อวัยวะภายในศีรษะที่ควบคุมความคิด ความจำ ความรู้สึก และกิจกรรมทางกายภาพ",
+"example": "The human brain is a very complex and amazing organ."
+},
+{
+"word": "Skin",
+"phonetic": "/skɪn/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The natural outer layer that covers a person, animal, fruit, etc.",
+"meaning_th": "ชั้นนอกตามธรรมชาติที่ปกคลุมคน สัตว์ ผลไม้ ฯลฯ",
+"example": "You should apply sunscreen to protect your skin from the sun."
+},
+{
+"word": "Bone",
+"phonetic": "/bəʊn/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "Any of the hard parts inside a human or animal that make up its frame.",
+"meaning_th": "ส่วนแข็งใดๆ ภายในมนุษย์หรือสัตว์ที่ประกอบขึ้นเป็นโครงร่าง",
+"example": "Drinking milk helps to build strong bones."
+},
+{
+"word": "Voice",
+"phonetic": "/vɔɪs/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The sounds that are made when people speak or sing.",
+"meaning_th": "เสียงที่เกิดขึ้นเมื่อผู้คนพูดหรือร้องเพลง",
+"example": "She has a very soft and gentle voice."
+},
+{
+"word": "Body",
+"phonetic": "/ˈbɒd.i/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The whole physical structure that forms a person or animal.",
+"meaning_th": "โครงสร้างทางกายภาพทั้งหมดที่ก่อตัวเป็นคนหรือสัตว์",
+"example": "A healthy diet and exercise are good for your body and mind."
+},
+{
+"word": "Health",
+"phonetic": "/helθ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The condition of the body and the degree to which it is free from illness, or the state of being well.",
+"meaning_th": "สภาพของร่างกายและระดับที่ปราศจากการเจ็บป่วย หรือสถานะของการมีสุขภาพดี",
+"example": "Smoking is very bad for your health."
+},
+{
+"word": "Pill",
+"phonetic": "/pɪl/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A small solid piece of medicine that a person swallows without chewing.",
+"meaning_th": "ยาชิ้นแข็งขนาดเล็กที่คนกลืนโดยไม่เคี้ยว",
+"example": "The doctor told him to take one pill every morning."
+},
+{
+"word": "Wood",
+"phonetic": "/wʊd/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The hard material that the trunk and branches of a tree are made of.",
+"meaning_th": "วัสดุแข็งที่ลำต้นและกิ่งก้านของต้นไม้ทำขึ้น",
+"example": "This beautiful dining table is made of solid wood."
+},
+{
+"word": "Metal",
+"phonetic": "/ˈmet.əl/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A chemical element, such as iron or gold, or a mixture of such elements, that is generally hard and strong.",
+"meaning_th": "ธาตุเคมี เช่น เหล็กหรือทองคำ หรือส่วนผสมของธาตุดังกล่าว ซึ่งโดยทั่วไปจะแข็งและแข็งแรง",
+"example": "The gate is made of heavy metal and painted black."
+},
+{
+"word": "Plastic",
+"phonetic": "/ˈplæs.tɪk/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "An artificial substance that can be shaped when soft into many different forms and has many different uses.",
+"meaning_th": "สารสังเคราะห์ที่สามารถขึ้นรูปได้เมื่ออ่อนนุ่มเป็นรูปแบบต่างๆ มากมายและมีการใช้งานที่หลากหลาย",
+"example": "We should reduce the use of plastic bags to save the environment."
+},
+{
+"word": "Stone",
+"phonetic": "/stəʊn/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The hard, solid substance found in the ground that is often used for building, or a piece of this.",
+"meaning_th": "สารแข็งและแข็งทึบที่พบในพื้นดินซึ่งมักใช้สำหรับก่อสร้าง หรือชิ้นส่วนของสิ่งนี้",
+"example": "They built a small wall out of stone around the garden."
+},{
+"word": "Cotton",
+"phonetic": "/ˈkɒt.ən/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A thread or cloth made from the fibers of the cotton plant.",
+"meaning_th": "ด้ายหรือผ้าที่ทำจากเส้นใยของต้นฝ้าย",
+"example": "This T-shirt is made of 100% pure cotton, so it is very comfortable."
+},
+{
+"word": "Leather",
+"phonetic": "/ˈleð.ər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "Animal skin treated in order to preserve it, and used to make shoes, bags, clothes, etc.",
+"meaning_th": "หนังสัตว์ที่ผ่านกรรมวิธีเพื่อรักษาไว้ และใช้ทำรองเท้า กระเป๋า เสื้อผ้า ฯลฯ",
+"example": "He bought a new black leather jacket for the winter."
+},
+{
+"word": "Gold",
+"phonetic": "/ɡəʊld/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A chemical element that is a valuable, shiny, yellow metal used to make coins and jewellery.",
+"meaning_th": "ธาตุเคมีที่เป็นโลหะสีเหลือง เป็นประกาย และมีค่า ใช้ทำเหรียญและเครื่องประดับ",
+"example": "She wears a beautiful gold necklace that her grandmother gave her."
+},
+{
+"word": "Silver",
+"phonetic": "/ˈsɪl.vər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A chemical element that is a valuable, shiny, white metal, used for making cutlery, jewellery, coins, etc.",
+"meaning_th": "ธาตุเคมีที่เป็นโลหะสีขาว เป็นประกาย และมีค่า ใช้สำหรับทำช้อนส้อม เครื่องประดับ เหรียญ ฯลฯ",
+"example": "The family brought out their best silver spoons for the special dinner."
+},
+{
+"word": "Iron",
+"phonetic": "/aɪən/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A chemical element that is a common greyish-white metal, used in making steel.",
+"meaning_th": "ธาตุเคมีที่เป็นโลหะสีขาวอมเทาทั่วไป ใช้ในการทำเหล็กกล้า",
+"example": "The old gate was made of solid iron and was very heavy."
+},
+{
+"word": "Circle",
+"phonetic": "/ˈsɜː.kəl/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A continuous curved line, the points of which are always the same distance away from a fixed central point.",
+"meaning_th": "เส้นโค้งต่อเนื่อง ซึ่งจุดต่างๆ บนเส้นนั้นอยู่ห่างจากจุดศูนย์กลางที่กำหนดไว้เป็นระยะทางเท่ากันเสมอ",
+"example": "The teacher asked the students to sit in a circle on the floor."
+},
+{
+"word": "Triangle",
+"phonetic": "/ˈtraɪ.æŋ.ɡəl/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A flat shape with three straight sides.",
+"meaning_th": "รูปทรงแบนที่มีด้านตรงสามด้าน",
+"example": "He cut the sandwich into the shape of a triangle."
+},
+{
+"word": "Line",
+"phonetic": "/laɪn/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A long, thin mark on the surface of something.",
+"meaning_th": "รอยยาวและบางบนพื้นผิวของบางสิ่ง",
+"example": "Please draw a straight line using your ruler."
+},
+{
+"word": "Hole",
+"phonetic": "/həʊl/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "An empty space in an object, usually with an opening to the object's surface.",
+"meaning_th": "พื้นที่ว่างในวัตถุ มักจะมีช่องเปิดไปสู่พื้นผิวของวัตถุ",
+"example": "I need to sew my shirt because there is a hole in the sleeve."
+},
+{
+"word": "Shadow",
+"phonetic": "/ˈʃæd.əʊ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "An area of darkness, caused by light being blocked by something.",
+"meaning_th": "พื้นที่แห่งความมืด เกิดจากแสงถูกกั้นโดยบางสิ่ง",
+"example": "The tree cast a long shadow across the grass in the late afternoon."
+},
+{
+"word": "Light",
+"phonetic": "/laɪt/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The brightness that comes from the sun, fire, etc. and from electrical devices, and that allows things to be seen.",
+"meaning_th": "ความสว่างที่มาจากดวงอาทิตย์ ไฟ ฯลฯ และจากอุปกรณ์ไฟฟ้า และช่วยให้มองเห็นสิ่งต่างๆ ได้",
+"example": "The room is very bright because of the natural light from the large windows."
+},
+{
+"word": "Dark",
+"phonetic": "/dɑːk/",
+"type": "Adjective/Noun",
+"category": "Daily Life",
+"meaning": "With little or no light.",
+"meaning_th": "มีแสงน้อยหรือไม่มีเลย",
+"example": "It gets dark very early during the winter months."
+},
+{
+"word": "Sound",
+"phonetic": "/saʊnd/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "Something that you can hear or that can be heard.",
+"meaning_th": "สิ่งที่คุณสามารถได้ยินหรือที่สามารถได้ยินได้",
+"example": "I heard the sound of footsteps coming up the stairs."
+},
+{
+"word": "Noise",
+"phonetic": "/nɔɪz/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A sound or sounds, especially when it is unwanted, unpleasant, or loud.",
+"meaning_th": "เสียงหรือหลายเสียง โดยเฉพาะเมื่อเป็นสิ่งที่ไม่ต้องการ ไม่น่าฟัง หรือดัง",
+"example": "The construction work outside is making too much noise."
+},
+{
+"word": "Smell",
+"phonetic": "/smel/",
+"type": "Noun/Verb",
+"category": "Daily Life",
+"meaning": "The characteristic of something that can be recognized or noticed using the nose.",
+"meaning_th": "ลักษณะของบางสิ่งที่สามารถรับรู้หรือสังเกตได้โดยใช้จมูก",
+"example": "I love the sweet smell of fresh flowers in the morning."
+},
+{
+"word": "Taste",
+"phonetic": "/teɪst/",
+"type": "Noun/Verb",
+"category": "Daily Life",
+"meaning": "The flavour of something, or the ability of a person or animal to recognize different flavours.",
+"meaning_th": "รสชาติของบางสิ่ง หรือความสามารถของคนหรือสัตว์ในการรับรู้รสชาติต่างๆ",
+"example": "This soup has a very spicy taste."
+},
+{
+"word": "Touch",
+"phonetic": "/tʌtʃ/",
+"type": "Noun/Verb",
+"category": "Daily Life",
+"meaning": "The ability to know what something is like by feeling it with the fingers.",
+"meaning_th": "ความสามารถในการรู้ว่าบางสิ่งเป็นอย่างไรโดยการสัมผัสมันด้วยนิ้วมือ",
+"example": "The fabric is very soft to the touch."
+},
+{
+"word": "Shape",
+"phonetic": "/ʃeɪp/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The particular physical form or appearance of something.",
+"meaning_th": "รูปแบบทางกายภาพหรือลักษณะที่ปรากฏเฉพาะของบางสิ่ง",
+"example": "These cookies are baked in the shape of stars."
+},
+{
+"word": "Size",
+"phonetic": "/saɪz/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "How large or small something or someone is.",
+"meaning_th": "ขนาดที่ใหญ่หรือเล็กของบางสิ่งหรือบางคน",
+"example": "We need to buy a larger size of shoes for my son because his feet are growing."
+},
+{
+"word": "Weight",
+"phonetic": "/weɪt/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The amount that something or someone weighs.",
+"meaning_th": "ปริมาณน้ำหนักของบางสิ่งหรือบางคน",
+"example": "He checks his weight on the scales every week."
+},
+{
+"word": "Height",
+"phonetic": "/haɪt/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The distance from the top to the bottom of something, or the quality of being tall.",
+"meaning_th": "ระยะทางจากด้านบนถึงด้านล่างของบางสิ่ง หรือคุณสมบัติของความสูง",
+"example": "The height of the building makes it visible from far away."
+},
+{
+"word": "Length",
+"phonetic": "/leŋθ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The measurement of something from end to end or along its longest side.",
+"meaning_th": "การวัดบางสิ่งจากปลายด้านหนึ่งถึงอีกด้านหนึ่งหรือตามด้านที่ยาวที่สุด",
+"example": "The pool has a length of 50 meters."
+},
+{
+"word": "Distance",
+"phonetic": "/ˈdɪs.təns/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The amount of space between two places.",
+"meaning_th": "จำนวนพื้นที่ระหว่างสองสถานที่",
+"example": "The distance from my house to the school is about two kilometers."
+},
+{
+"word": "Speed",
+"phonetic": "/spiːd/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "How fast something moves.",
+"meaning_th": "ความเร็วที่บางสิ่งเคลื่อนที่",
+"example": "He was driving at high speed when the police stopped him."
+},
+{
+"word": "Action",
+"phonetic": "/ˈæk.ʃən/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The process of doing something, especially when dealing with a problem or difficulty.",
+"meaning_th": "กระบวนการทำบางสิ่ง โดยเฉพาะเมื่อจัดการกับปัญหาหรือความยุ่งยาก",
+"example": "We need to take immediate action to fix this issue."
+},
+{
+"word": "Problem",
+"phonetic": "/ˈprɒb.ləm/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A situation, person, or thing that needs attention and needs to be dealt with or solved.",
+"meaning_th": "สถานการณ์ บุคคล หรือสิ่งที่ต้องการความสนใจและจำเป็นต้องจัดการหรือแก้ไข",
+"example": "The mechanic easily found the problem with my car engine."
+},
+{
+"word": "Idea",
+"phonetic": "/aɪˈdɪə/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A suggestion or plan for doing something.",
+"meaning_th": "ข้อเสนอแนะหรือแผนการสำหรับทำบางสิ่ง",
+"example": "Going to the beach this weekend is a really great idea."
+},
+{
+"word": "Thought",
+"phonetic": "/θɔːt/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The act of thinking about or considering something.",
+"meaning_th": "การกระทำในการคิดถึงหรือพิจารณาบางสิ่ง",
+"example": "Give it some thought before you make a final decision."
+},
+{
+"word": "Mind",
+"phonetic": "/maɪnd/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The part of a person that makes it possible for him or her to think, feel emotions, and understand things.",
+"meaning_th": "ส่วนของบุคคลที่ทำให้เขาหรือเธอสามารถคิด รู้สึกถึงอารมณ์ และเข้าใจสิ่งต่างๆ ได้",
+"example": "I have so many things on my mind right now."
+},
+{
+"word": "Memory",
+"phonetic": "/ˈmem.ər.i/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The ability to remember information, experiences, and people.",
+"meaning_th": "ความสามารถในการจดจำข้อมูล ประสบการณ์ และผู้คน",
+"example": "My grandfather has a very good memory for dates and historical events."
+},{
+"word": "Reason",
+"phonetic": "/ˈriː.zən/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The cause of an event or situation or something that provides an excuse or explanation.",
+"meaning_th": "สาเหตุของเหตุการณ์หรือสถานการณ์ หรือบางสิ่งที่ให้ข้อแก้ตัวหรือคำอธิบาย",
+"example": "He didn't give a reason for arriving late to the meeting."
+},
+{
+"word": "Result",
+"phonetic": "/rɪˈzʌlt/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "Something that happens or exists because of something else.",
+"meaning_th": "บางสิ่งที่เกิดขึ้นหรือดำรงอยู่เพราะบางสิ่งบางอย่าง",
+"example": "His broken leg is the direct result of a skiing accident."
+},
+{
+"word": "Chance",
+"phonetic": "/tʃɑːns/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "An occasion that allows something to be done.",
+"meaning_th": "โอกาสที่อนุญาตให้ทำบางสิ่งได้",
+"example": "This is your last chance to complete the assignment."
+},
+{
+"word": "Choice",
+"phonetic": "/tʃɔɪs/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "An act or the possibility of choosing.",
+"meaning_th": "การกระทำหรือความเป็นไปได้ในการเลือก",
+"example": "If I had a choice, I would prefer to stay at home."
+},
+{
+"word": "Decision",
+"phonetic": "/dɪˈsɪʒ.ən/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A choice that you make about something after thinking about several possibilities.",
+"meaning_th": "ทางเลือกที่คุณทำเกี่ยวกับบางสิ่งหลังจากคิดถึงความเป็นไปได้หลายประการ",
+"example": "She had to make a difficult decision about her career."
+},
+{
+"word": "Goal",
+"phonetic": "/ɡəʊl/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "An aim or purpose.",
+"meaning_th": "จุดมุ่งหมายหรือวัตถุประสงค์",
+"example": "His main goal in life is to become a successful writer."
+},
+{
+"word": "Dream",
+"phonetic": "/driːm/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A series of events or images that happen in your mind when you are sleeping.",
+"meaning_th": "ชุดเหตุการณ์หรือภาพที่เกิดขึ้นในใจของคุณเมื่อคุณกำลังนอนหลับ",
+"example": "I had a very strange dream last night."
+},
+{
+"word": "Hope",
+"phonetic": "/həʊp/",
+"type": "Noun/Verb",
+"category": "Daily Life",
+"meaning": "A confident feeling about what will happen in the future.",
+"meaning_th": "ความรู้สึกมั่นใจเกี่ยวกับสิ่งที่จะเกิดขึ้นในอนาคต",
+"example": "There is still some hope that they will find the missing dog."
+},
+{
+"word": "Fear",
+"phonetic": "/fɪər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "An unpleasant emotion or thought that you have when you are frightened or worried by something dangerous, painful, or bad that is happening or might happen.",
+"meaning_th": "อารมณ์หรือความคิดที่ไม่น่าพึงพอใจที่คุณมีเมื่อคุณตกใจหรือกังวลกับสิ่งที่อันตราย เจ็บปวด หรือเลวร้ายที่กำลังเกิดขึ้นหรืออาจเกิดขึ้น",
+"example": "He has a strong fear of heights."
+},
+{
+"word": "Love",
+"phonetic": "/lʌv/",
+"type": "Noun/Verb",
+"category": "Daily Life",
+"meaning": "To have strong romantic feelings for someone, or a strong feeling of affection and concern toward another person.",
+"meaning_th": "การมีความรู้สึกโรแมนติกที่รุนแรงต่อใครบางคน หรือความรู้สึกรักใคร่และห่วงใยอย่างแรงกล้าต่อบุคคลอื่น",
+"example": "A mother's love for her children is unconditional."
+},
+{
+"word": "Hate",
+"phonetic": "/heɪt/",
+"type": "Noun/Verb",
+"category": "Daily Life",
+"meaning": "An extremely strong feeling of dislike.",
+"meaning_th": "ความรู้สึกไม่ชอบอย่างรุนแรงยิ่ง",
+"example": "He looked at his enemy with pure hate."
+},
+{
+"word": "Anger",
+"phonetic": "/ˈæŋ.ɡər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A strong feeling that makes you want to hurt someone or be unpleasant because of something unfair or unkind that has happened.",
+"meaning_th": "ความรู้สึกรุนแรงที่ทำให้คุณอยากทำร้ายบางคนหรือแสดงอาการไม่พอใจเนื่องจากสิ่งที่ไม่ยุติธรรมหรือไม่กรุณาที่เกิดขึ้น",
+"example": "She struggled to control her anger when she heard the bad news."
+},
+{
+"word": "Joy",
+"phonetic": "/dʒɔɪ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A feeling of great happiness.",
+"meaning_th": "ความรู้สึกมีความสุขอย่างยิ่ง",
+"example": "The children jumped up and down with joy when they saw the presents."
+},
+{
+"word": "Sadness",
+"phonetic": "/ˈsæd.nəs/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The feeling of being unhappy, especially because something bad has happened.",
+"meaning_th": "ความรู้สึกไม่มีความสุข โดยเฉพาะเพราะมีสิ่งเลวร้ายเกิดขึ้น",
+"example": "There was a deep sadness in her eyes after she lost her pet."
+},
+{
+"word": "Surprise",
+"phonetic": "/səˈpraɪz/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "An unexpected event, piece of information, etc.",
+"meaning_th": "เหตุการณ์ ข้อมูล ฯลฯ ที่ไม่คาดคิด",
+"example": "They threw a surprise party for his 30th birthday."
+},
+{
+"word": "Peace",
+"phonetic": "/piːs/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "Freedom from noise and activities, or a situation in which there is no war between countries or groups.",
+"meaning_th": "ความเป็นอิสระจากเสียงรบกวนและกิจกรรม หรือสถานการณ์ที่ไม่มีสงครามระหว่างประเทศหรือกลุ่ม",
+"example": "He went to the mountains to find some peace and quiet."
+},
+{
+"word": "War",
+"phonetic": "/wɔːr/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "Armed fighting between two or more countries or groups.",
+"meaning_th": "การต่อสู้ด้วยอาวุธระหว่างสองประเทศหรือกลุ่มขึ้นไป",
+"example": "Many innocent people lost their homes during the war."
+},
+{
+"word": "Power",
+"phonetic": "/paʊər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "Ability to control people and events.",
+"meaning_th": "ความสามารถในการควบคุมผู้คนและเหตุการณ์",
+"example": "The president has a lot of power to make important decisions."
+},
+{
+"word": "Energy",
+"phonetic": "/ˈen.ə.dʒi/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The power and ability to be physically and mentally active.",
+"meaning_th": "พลังงานและความสามารถในการตื่นตัวทางร่างกายและจิตใจ",
+"example": "I don't have enough energy to go to the gym today."
+},
+{
+"word": "Force",
+"phonetic": "/fɔːs/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "Physical, especially violent, strength, or power.",
+"meaning_th": "ความแข็งแกร่งหรือพลังงานทางกายภาพ โดยเฉพาะที่มีความรุนแรง",
+"example": "The force of the wind knocked down several trees."
+},
+{
+"word": "Danger",
+"phonetic": "/ˈdeɪn.dʒər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The possibility of harm or death to someone.",
+"meaning_th": "ความเป็นไปได้ที่จะเกิดอันตรายหรือเสียชีวิตต่อบางคน",
+"example": "The sign warned people about the danger of swimming in the river."
+},
+{
+"word": "Safety",
+"phonetic": "/ˈseɪf.ti/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A state in which or a place where you are safe and not in danger or at risk.",
+"meaning_th": "สถานะหรือสถานที่ที่คุณปลอดภัยและไม่อยู่ในอันตรายหรือมีความเสี่ยง",
+"example": "For your own safety, please fasten your seatbelt."
+},
+{
+"word": "Success",
+"phonetic": "/səkˈses/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The achieving of the results wanted or hoped for.",
+"meaning_th": "การบรรลุผลลัพธ์ที่ต้องการหรือคาดหวังไว้",
+"example": "Hard work and dedication are the keys to success."
+},
+{
+"word": "Failure",
+"phonetic": "/ˈfeɪ.ljər/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The fact of someone or something not succeeding.",
+"meaning_th": "ข้อเท็จจริงที่ว่าบางคนหรือบางสิ่งไม่ประสบความสำเร็จ",
+"example": "We can learn a lot from our past failures."
+},
+{
+"word": "Luck",
+"phonetic": "/lʌk/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The force that causes things, especially good things, to happen to you by chance and not as a result of your own efforts or abilities.",
+"meaning_th": "พลังที่ทำให้สิ่งต่างๆ โดยเฉพาะสิ่งที่ดี เกิดขึ้นกับคุณโดยบังเอิญและไม่ได้เป็นผลมาจากความพยายามหรือความสามารถของคุณเอง",
+"example": "He wished his friend good luck before the exam."
+},
+{
+"word": "Truth",
+"phonetic": "/truːθ/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "The real facts about a situation, event, or person.",
+"meaning_th": "ข้อเท็จจริงที่แท้จริงเกี่ยวกับสถานการณ์ เหตุการณ์ หรือบุคคล",
+"example": "It is always better to tell the truth, even if it is difficult."
+},
+{
+"word": "Lie",
+"phonetic": "/laɪ/",
+"type": "Noun/Verb",
+"category": "Daily Life",
+"meaning": "Something you say that you know is not true.",
+"meaning_th": "สิ่งที่คุณพูดซึ่งคุณรู้ว่าไม่เป็นความจริง",
+"example": "She told a lie to avoid getting into trouble with her parents."
+},
+{
+"word": "Secret",
+"phonetic": "/ˈsiː.krət/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "A piece of information that is only known by one person or a few people and should not be told to others.",
+"meaning_th": "ชิ้นข้อมูลที่รู้โดยคนเดียวหรือคนไม่กี่คนและไม่ควรบอกให้คนอื่นรู้",
+"example": "Please promise me that you will keep this a secret."
+},
+{
+"word": "Promise",
+"phonetic": "/ˈprɒm.ɪs/",
+"type": "Noun/Verb",
+"category": "Daily Life",
+"meaning": "The act of saying that you will certainly do something.",
+"meaning_th": "การกระทำในการพูดว่าคุณจะทำบางสิ่งอย่างแน่นอน",
+"example": "He made a promise to return the money by Friday."
+},
+{
+"word": "Mistake",
+"phonetic": "/mɪˈsteɪk/",
+"type": "Noun",
+"category": "Daily Life",
+"meaning": "An action, decision, or judgment that produces an unwanted or unintentional result.",
+"meaning_th": "การกระทำ การตัดสินใจ หรือการตัดสินที่ก่อให้เกิดผลลัพธ์ที่ไม่ต้องการหรือไม่ได้ตั้งใจ",
+"example": "I made a huge mistake by trusting him with my money."
+}]
