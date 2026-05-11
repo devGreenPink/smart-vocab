@@ -3764,4 +3764,4047 @@
 "meaning": "An action, decision, or judgment that produces an unwanted or unintentional result.",
 "meaning_th": "การกระทำ การตัดสินใจ หรือการตัดสินที่ก่อให้เกิดผลลัพธ์ที่ไม่ต้องการหรือไม่ได้ตั้งใจ",
 "example": "I made a huge mistake by trusting him with my money."
+},{
+"word": "Meeting",
+"phonetic": "/ˈmiː.tɪŋ/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "A planned occasion when people come together to discuss something.",
+"meaning_th": "โอกาสที่วางแผนไว้เมื่อผู้คนมารวมตัวกันเพื่อหารือเกี่ยวกับบางสิ่งบางอย่าง",
+"example": "I have an important meeting with the marketing team at 10 AM."
+},
+{
+"word": "Interview",
+"phonetic": "/ˈɪn.tə.vjuː/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "A formal meeting in which someone asks you questions to find out if you are suitable for a job.",
+"meaning_th": "การประชุมที่เป็นทางการซึ่งมีคนถามคำถามคุณเพื่อดูว่าคุณเหมาะสมกับงานหรือไม่",
+"example": "She has a job interview for the managerial position tomorrow."
+},
+{
+"word": "Resume",
+"phonetic": "/ˈrez.juː.meɪ/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "A short written description of your education, qualifications, and previous jobs.",
+"meaning_th": "คำอธิบายเป็นลายลักษณ์อักษรสั้นๆ เกี่ยวกับการศึกษา คุณสมบัติ และงานที่ผ่านมาของคุณ",
+"example": "Please send your resume and cover letter to our human resources department."
+},
+{
+"word": "Salary",
+"phonetic": "/ˈsæl.ər.i/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "A fixed amount of money agreed every year as pay for an employee, usually paid directly into their bank account every month.",
+"meaning_th": "จำนวนเงินคงที่ที่ตกลงกันทุกปีเพื่อเป็นค่าตอบแทนสำหรับพนักงาน มักจะจ่ายเข้าบัญชีธนาคารโดยตรงทุกเดือน",
+"example": "The company offers a competitive salary and good benefits."
+},
+{
+"word": "Manager",
+"phonetic": "/ˈmæn.ɪ.dʒər/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "The person who is responsible for managing an organization or a group of employees.",
+"meaning_th": "บุคคลที่รับผิดชอบในการจัดการองค์กรหรือกลุ่มพนักงาน",
+"example": "The manager decided to hire three new team members."
+},
+{
+"word": "Employee",
+"phonetic": "/ɪmˈplɔɪ.iː/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "Someone who is paid to work for someone else.",
+"meaning_th": "ผู้ที่ได้รับค่าจ้างให้ทำงานให้กับผู้อื่น",
+"example": "The company has over five hundred employees worldwide."
+},
+{
+"word": "Employer",
+"phonetic": "/ɪmˈplɔɪ.ər/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "A person or organization that employs people.",
+"meaning_th": "บุคคลหรือองค์กรที่จ้างงานผู้คน",
+"example": "We need a reference from your former employer."
+},
+{
+"word": "Client",
+"phonetic": "/ˈklaɪ.ənt/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "A customer or someone who receives services.",
+"meaning_th": "ลูกค้าหรือผู้ที่รับบริการ",
+"example": "We are having a dinner with our biggest client tonight."
+},
+{
+"word": "Contract",
+"phonetic": "/ˈkɒn.trækt/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "A legal document that states and explains a formal agreement between two different people or groups.",
+"meaning_th": "เอกสารทางกฎหมายที่ระบุและอธิบายข้อตกลงอย่างเป็นทางการระหว่างคนหรือกลุ่มคนที่แตกต่างกันสองกลุ่ม",
+"example": "Make sure you read the contract carefully before signing it."
+},
+{
+"word": "Document",
+"phonetic": "/ˈdɒk.jə.mənt/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "A paper or set of papers with written or printed information, especially of an official type.",
+"meaning_th": "กระดาษหรือชุดกระดาษที่มีข้อมูลที่เขียนหรือพิมพ์ โดยเฉพาะประเภทที่เป็นทางการ",
+"example": "Please save this document on your computer desktop."
+},
+{
+"word": "Presentation",
+"phonetic": "/ˌprez.ənˈteɪ.ʃən/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "A talk giving information about something.",
+"meaning_th": "การพูดคุยเพื่อให้ข้อมูลเกี่ยวกับบางสิ่งบางอย่าง",
+"example": "The sales director gave a presentation on the new product line."
+},
+{
+"word": "Strategy",
+"phonetic": "/ˈstræt.ə.dʒi/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "A detailed plan for achieving success in situations such as war, politics, business, industry, or sport.",
+"meaning_th": "แผนการโดยละเอียดเพื่อบรรลุความสำเร็จในสถานการณ์ต่างๆ เช่น สงคราม การเมือง ธุรกิจ อุตสาหกรรม หรือกีฬา",
+"example": "We need to develop a new marketing strategy to increase our sales."
+},
+{
+"word": "Profit",
+"phonetic": "/ˈprɒf.ɪt/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "Money that is earned in trade or business after paying the costs of producing and selling goods and services.",
+"meaning_th": "เงินที่ได้รับจากการค้าหรือธุรกิจหลังจากหักต้นทุนการผลิตและการขายสินค้าและบริการ",
+"example": "The company made a huge profit this year."
+},
+{
+"word": "Revenue",
+"phonetic": "/ˈrev.ən.juː/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "The income that a government or company receives regularly.",
+"meaning_th": "รายได้ที่รัฐบาลหรือบริษัทได้รับเป็นประจำ",
+"example": "The magazine's main source of revenue comes from advertising."
+},
+{
+"word": "Expense",
+"phonetic": "/ɪkˈspens/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "The use of money, time, or effort.",
+"meaning_th": "การใช้เงิน เวลา หรือความพยายาม",
+"example": "We need to reduce our daily living expenses."
+},
+{
+"word": "Tax",
+"phonetic": "/tæks/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "Money paid to the government that is based on your income or the cost of goods or services you have bought.",
+"meaning_th": "เงินที่จ่ายให้กับรัฐบาลซึ่งขึ้นอยู่กับรายได้ของคุณหรือต้นทุนของสินค้าหรือบริการที่คุณซื้อ",
+"example": "Don't forget to pay your income tax before the deadline."
+},
+{
+"word": "Insurance",
+"phonetic": "/ɪnˈʃʊə.rəns/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "An agreement in which you pay a company money and they pay your costs if you have an accident, injury, etc.",
+"meaning_th": "ข้อตกลงที่คุณจ่ายเงินให้บริษัทและพวกเขาจะจ่ายค่าใช้จ่ายของคุณหากคุณประสบอุบัติเหตุ ได้รับบาดเจ็บ ฯลฯ",
+"example": "You should buy travel insurance before you go abroad."
+},
+{
+"word": "Career",
+"phonetic": "/kəˈrɪər/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "The job or series of jobs that you do during your working life.",
+"meaning_th": "งานหรือชุดของงานที่คุณทำในระหว่างชีวิตการทำงานของคุณ",
+"example": "She is hoping to pursue a career in medicine."
+},
+{
+"word": "Promotion",
+"phonetic": "/prəˈməʊ.ʃən/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "The act of raising someone to a higher or more important position or rank.",
+"meaning_th": "การกระทำในการเลื่อนตำแหน่งบางคนให้อยู่ในตำแหน่งหรือระดับที่สูงขึ้นหรือสำคัญขึ้น",
+"example": "He worked hard all year and finally got a promotion."
+},
+{
+"word": "Industry",
+"phonetic": "/ˈɪn.də.stri/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "The companies and activities involved in the process of producing goods for sale, especially in a factory or special area.",
+"meaning_th": "บริษัทและกิจกรรมที่เกี่ยวข้องกับกระบวนการผลิตสินค้าเพื่อขาย โดยเฉพาะในโรงงานหรือพื้นที่พิเศษ",
+"example": "The tourism industry has grown rapidly in recent years."
+},
+{
+"word": "Enterprise",
+"phonetic": "/ˈen.tə.praɪz/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "An organization, especially a business, or a difficult and important plan.",
+"meaning_th": "องค์กร โดยเฉพาะธุรกิจ หรือแผนงานที่ยากและสำคัญ",
+"example": "They are starting a new commercial enterprise in the city center."
+},
+{
+"word": "Startup",
+"phonetic": "/ˈstɑːt.ʌp/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "A small business that has just been started.",
+"meaning_th": "ธุรกิจขนาดเล็กที่เพิ่งเริ่มต้น",
+"example": "He left his corporate job to join a tech startup."
+},
+{
+"word": "Investment",
+"phonetic": "/ɪnˈvest.mənt/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "The act of putting money, effort, time, etc. into something to make a profit or get an advantage.",
+"meaning_th": "การกระทำในการนำเงิน ความพยายาม เวลา ฯลฯ ไปลงทุนในบางสิ่งเพื่อทำกำไรหรือได้รับความได้เปรียบ",
+"example": "Buying a house is usually a good long-term investment."
+},
+{
+"word": "Finance",
+"phonetic": "/ˈfaɪ.næns/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "The management of large amounts of money, especially by governments or large companies.",
+"meaning_th": "การจัดการเงินจำนวนมาก โดยเฉพาะโดยรัฐบาลหรือบริษัทขนาดใหญ่",
+"example": "She is taking a course in corporate finance."
+},
+{
+"word": "Partner",
+"phonetic": "/ˈpɑːt.nər/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "A person or organization you are closely involved with in some way, especially in business.",
+"meaning_th": "บุคคลหรือองค์กรที่คุณมีความเกี่ยวข้องอย่างใกล้ชิดในทางใดทางหนึ่ง โดยเฉพาะในทางธุรกิจ",
+"example": "He became a partner in the law firm last year."
+},
+{
+"word": "Leadership",
+"phonetic": "/ˈliː.də.ʃɪp/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "The set of characteristics that make a good leader.",
+"meaning_th": "ชุดของคุณลักษณะที่ทำให้เป็นผู้นำที่ดี",
+"example": "The company needs strong leadership to get through this crisis."
+},
+{
+"word": "Negotiation",
+"phonetic": "/nəˌɡəʊ.ʃiˈeɪ.ʃən/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "The process of discussing something with someone in order to reach an agreement with them.",
+"meaning_th": "กระบวนการพูดคุยเกี่ยวกับบางสิ่งกับใครบางคนเพื่อบรรลุข้อตกลงร่วมกัน",
+"example": "The contract is currently under negotiation."
+},
+{
+"word": "Feedback",
+"phonetic": "/ˈfiːd.bæk/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "Information or statements of opinion about something, such as a new product, that can tell you if it is successful or liked.",
+"meaning_th": "ข้อมูลหรือข้อความแสดงความคิดเห็นเกี่ยวกับบางสิ่ง เช่น ผลิตภัณฑ์ใหม่ ที่สามารถบอกคุณได้ว่าประสบความสำเร็จหรือเป็นที่ชื่นชอบหรือไม่",
+"example": "We welcome your feedback on how we can improve our service."
+},
+{
+"word": "Milestone",
+"phonetic": "/ˈmaɪl.stəʊn/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "An important event in the development or history of something or in someone's life.",
+"meaning_th": "เหตุการณ์สำคัญในการพัฒนาหรือประวัติศาสตร์ของบางสิ่ง หรือในชีวิตของบางคน",
+"example": "Passing my driving test was an important milestone for me."
+},
+{
+"word": "Productivity",
+"phonetic": "/ˌprɒd.ʌkˈtɪv.ə.ti/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "The rate at which a company or country makes goods, usually judged in connection with the number of people and the amount of materials necessary to produce the goods.",
+"meaning_th": "อัตราที่บริษัทหรือประเทศผลิตสินค้า มักจะตัดสินจากความเชื่อมโยงกับจำนวนคนและปริมาณวัสดุที่จำเป็นในการผลิตสินค้า",
+"example": "Taking regular breaks can actually increase your productivity at work."
+},{
+"word": "Quality",
+"phonetic": "/ˈkwɒl.ə.ti/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "How good or bad something is.",
+"meaning_th": "ความดีหรือแย่ของบางสิ่งบางอย่าง (คุณภาพ)",
+"example": "We aim to provide high quality products to our customers."
+},
+{
+"word": "Quantity",
+"phonetic": "/ˈkwɒn.tə.ti/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "The amount or number of something, especially that can be measured.",
+"meaning_th": "ปริมาณหรือจำนวนของบางสิ่ง โดยเฉพาะสิ่งที่สามารถวัดได้",
+"example": "They produce these parts in large quantities to reduce costs."
+},
+{
+"word": "Value",
+"phonetic": "/ˈvæl.juː/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "The amount of money that can be received for something.",
+"meaning_th": "จำนวนเงินที่สามารถรับได้สำหรับบางสิ่ง (มูลค่า)",
+"example": "The value of the company's shares has dropped recently."
+},
+{
+"word": "Brand",
+"phonetic": "/brænd/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "A type of product made by a particular company and sold under a particular name.",
+"meaning_th": "ประเภทของผลิตภัณฑ์ที่ผลิตโดยบริษัทใดบริษัทหนึ่งและขายภายใต้ชื่อใดชื่อหนึ่ง (แบรนด์)",
+"example": "She only buys clothes from well-known fashion brands."
+},
+{
+"word": "Campaign",
+"phonetic": "/kæmˈpeɪn/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "A planned group of especially political, business, or military activities that are intended to achieve a particular aim.",
+"meaning_th": "กลุ่มกิจกรรมที่วางแผนไว้ โดยเฉพาะทางการเมือง ธุรกิจ หรือการทหาร ที่มีจุดมุ่งหมายเพื่อบรรลุเป้าหมายใดเป้าหมายหนึ่ง",
+"example": "The new advertising campaign was very successful in attracting young customers."
+},
+{
+"word": "Target",
+"phonetic": "/ˈtɑː.ɡɪt/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "A result, level, or situation that an organization or group wants or plans to achieve.",
+"meaning_th": "ผลลัพธ์ ระดับ หรือสถานการณ์ที่องค์กรหรือกลุ่มต้องการหรือวางแผนที่จะบรรลุ (เป้าหมาย)",
+"example": "Our sales team managed to hit their target for the quarter."
+},
+{
+"word": "Network",
+"phonetic": "/ˈnet.wɜːk/",
+"type": "Noun/Verb",
+"category": "Work & Business",
+"meaning": "A large system consisting of many similar parts that are connected together to allow movement or communication.",
+"meaning_th": "ระบบขนาดใหญ่ที่ประกอบด้วยส่วนที่คล้ายคลึงกันหลายส่วนซึ่งเชื่อมต่อกันเพื่อให้เกิดการเคลื่อนไหวหรือการสื่อสาร (เครือข่าย)",
+"example": "He spent years building a strong network of business contacts."
+},
+{
+"word": "Contact",
+"phonetic": "/ˈkɒn.tækt/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "A person, especially someone in a high position, who can give you useful information or introductions that will help you at work.",
+"meaning_th": "บุคคล โดยเฉพาะผู้ที่อยู่ในตำแหน่งสูง ซึ่งสามารถให้ข้อมูลที่เป็นประโยชน์หรือการแนะนำที่จะช่วยคุณในการทำงานได้ (ผู้ติดต่อ)",
+"example": "I have a useful contact in the media industry who might help us."
+},
+{
+"word": "Staff",
+"phonetic": "/stɑːf/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "The group of people who work for an organization.",
+"meaning_th": "กลุ่มคนที่ทำงานให้กับองค์กร (พนักงาน/บุคลากร)",
+"example": "The hotel staff were very friendly and helpful."
+},
+{
+"word": "Department",
+"phonetic": "/dɪˈpɑːt.mənt/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "A part of an organization such as a school, business, or government that deals with a particular area of study or work.",
+"meaning_th": "ส่วนหนึ่งขององค์กร เช่น โรงเรียน ธุรกิจ หรือรัฐบาล ที่จัดการกับสายงานหรือการศึกษาเฉพาะด้าน (แผนก)",
+"example": "Please contact the customer service department if you have any complaints."
+},
+{
+"word": "Headquarters",
+"phonetic": "/ˌhedˈkwɔː.təz/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "The main offices of an organization such as the army, the police, or a business company.",
+"meaning_th": "สำนักงานหลักขององค์กร เช่น กองทัพ ตำรวจ หรือบริษัทธุรกิจ (สำนักงานใหญ่)",
+"example": "The company's headquarters is located in Tokyo."
+},
+{
+"word": "Branch",
+"phonetic": "/brɑːntʃ/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "One of the offices or groups that form part of a large business organization.",
+"meaning_th": "หนึ่งในสำนักงานหรือกลุ่มที่ประกอบเป็นส่วนหนึ่งขององค์กรธุรกิจขนาดใหญ่ (สาขา)",
+"example": "They are opening a new branch of the bank in my neighborhood."
+},
+{
+"word": "Agenda",
+"phonetic": "/əˈdʒen.də/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "A list of matters to be discussed at a meeting.",
+"meaning_th": "รายการเรื่องที่จะหารือในการประชุม (วาระการประชุม)",
+"example": "The first item on the agenda is the budget for next year."
+},
+{
+"word": "Report",
+"phonetic": "/rɪˈpɔːt/",
+"type": "Noun/Verb",
+"category": "Work & Business",
+"meaning": "A description of an event or situation.",
+"meaning_th": "คำอธิบายของเหตุการณ์หรือสถานการณ์ (รายงาน)",
+"example": "I need to submit my monthly sales report by Friday."
+},
+{
+"word": "Agreement",
+"phonetic": "/əˈɡriː.mənt/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "A decision or arrangement, often formal and written, between two or more groups or people.",
+"meaning_th": "การตัดสินใจหรือการจัดการ มักจะเป็นทางการและเป็นลายลักษณ์อักษร ระหว่างกลุ่มหรือบุคคลตั้งแต่สองกลุ่มขึ้นไป (ข้อตกลง)",
+"example": "The two companies finally reached an agreement after weeks of negotiation."
+},
+{
+"word": "Policy",
+"phonetic": "/ˈpɒl.ə.si/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "A set of ideas or a plan of what to do in particular situations that has been agreed to officially by a group of people, a business organization, a government, or a political party.",
+"meaning_th": "ชุดแนวคิดหรือแผนปฏิบัติในสถานการณ์เฉพาะซึ่งได้รับการตกลงอย่างเป็นทางการโดยกลุ่มคน องค์กรธุรกิจ รัฐบาล หรือพรรคการเมือง (นโยบาย)",
+"example": "The company has a strict policy against smoking in the office."
+},
+{
+"word": "Fund",
+"phonetic": "/fʌnd/",
+"type": "Noun/Verb",
+"category": "Work & Business",
+"meaning": "An amount of money saved, collected, or provided for a particular purpose.",
+"meaning_th": "จำนวนเงินที่บันทึก รวบรวม หรือจัดหาเพื่อวัตถุประสงค์เฉพาะ (กองทุน/เงินทุน)",
+"example": "The hospital has set up a special fund to buy new medical equipment."
+},
+{
+"word": "Stock",
+"phonetic": "/stɒk/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "Part of the ownership of a company that can be bought by members of the public.",
+"meaning_th": "ส่วนหนึ่งของการเป็นเจ้าของบริษัทที่ประชาชนทั่วไปสามารถซื้อได้ (หุ้น)",
+"example": "He made a lot of money by investing in technology stocks."
+},
+{
+"word": "Share",
+"phonetic": "/ʃeər/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "One of the equal parts that the ownership of a company is divided into, and that can be bought by members of the public.",
+"meaning_th": "หนึ่งในส่วนที่เท่ากันซึ่งความเป็นเจ้าของบริษัทถูกแบ่งออก และประชาชนทั่วไปสามารถซื้อได้ (ส่วนแบ่ง/หุ้น)",
+"example": "She bought 500 shares in the new tech startup."
+},
+{
+"word": "Dividend",
+"phonetic": "/ˈdɪv.ɪ.dend/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "A payment by a company to its shareholders.",
+"meaning_th": "การจ่ายเงินโดยบริษัทให้แก่ผู้ถือหุ้น (เงินปันผล)",
+"example": "The company announced a special dividend for its investors this year."
+},
+{
+"word": "Capital",
+"phonetic": "/ˈkæp.ɪ.təl/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "Money and possessions, especially a large amount of money used for producing more wealth or for starting a new business.",
+"meaning_th": "เงินและทรัพย์สิน โดยเฉพาะเงินจำนวนมากที่ใช้เพื่อสร้างความมั่งคั่งให้มากขึ้นหรือเพื่อเริ่มต้นธุรกิจใหม่ (เงินทุน)",
+"example": "They need more capital to expand their business into Europe."
+},
+{
+"word": "Interest",
+"phonetic": "/ˈɪn.trəst/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "Money that is charged by a bank or other financial organization for borrowing money.",
+"meaning_th": "เงินที่ธนาคารหรือองค์กรทางการเงินอื่นเรียกเก็บสำหรับการยืมเงิน (ดอกเบี้ย)",
+"example": "The bank offers a very low interest rate on personal loans."
+},
+{
+"word": "Loan",
+"phonetic": "/ləʊn/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "An amount of money that is borrowed, often from a bank, and has to be paid back, usually together with an extra amount of money that you have to pay as a charge for borrowing.",
+"meaning_th": "จำนวนเงินที่ยืมมา มักจะมาจากธนาคาร และต้องจ่ายคืน มักจะพร้อมกับเงินจำนวนพิเศษที่คุณต้องจ่ายเป็นค่าธรรมเนียมในการยืม (เงินกู้)",
+"example": "He applied for a bank loan to buy a new car."
+},
+{
+"word": "Debt",
+"phonetic": "/det/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "Something, especially money, that is owed to someone else, or the state of owing something.",
+"meaning_th": "บางสิ่ง โดยเฉพาะเงิน ที่เป็นหนี้คนอื่น หรือสถานะของการเป็นหนี้บางสิ่ง (หนี้สิน)",
+"example": "He managed to pay off all his credit card debt within a year."
+},
+{
+"word": "Credit",
+"phonetic": "/ˈkred.ɪt/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "A method of paying for goods or services at a later time, usually paying interest as well as the original money.",
+"meaning_th": "วิธีการชำระค่าสินค้าหรือบริการในภายหลัง โดยปกติจะจ่ายดอกเบี้ยพร้อมกับเงินต้น (สินเชื่อ/เครดิต)",
+"example": "You can pay for the furniture by cash or by credit."
+},
+{
+"word": "Accountant",
+"phonetic": "/əˈkaʊn.tənt/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "Someone who keeps or examines the records of money received, paid, and owed by a company or person.",
+"meaning_th": "ผู้ที่เก็บรักษาหรือตรวจสอบบันทึกเงินรับ เงินจ่าย และเงินคงค้างของบริษัทหรือบุคคล (นักบัญชี)",
+"example": "We hired a professional accountant to help with our taxes."
+},
+{
+"word": "Audit",
+"phonetic": "/ˈɔː.dɪt/",
+"type": "Noun/Verb",
+"category": "Work & Business",
+"meaning": "An official examination of the accounts of a business.",
+"meaning_th": "การตรวจสอบบัญชีของธุรกิจอย่างเป็นทางการ (การตรวจสอบบัญชี)",
+"example": "The company is undergoing an annual financial audit."
+},
+{
+"word": "Income",
+"phonetic": "/ˈɪn.kʌm/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "Money that is earned from doing work or received from investments.",
+"meaning_th": "เงินที่ได้รับจากการทำงานหรือได้รับจากการลงทุน (รายได้)",
+"example": "Her primary source of income is from her online store."
+},
+{
+"word": "Bonus",
+"phonetic": "/ˈbəʊ.nəs/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "An extra amount of money that is given to you as a present or reward for good work as well as the money you were expecting.",
+"meaning_th": "จำนวนเงินพิเศษที่มอบให้คุณเป็นของขวัญหรือรางวัลสำหรับการทำงานที่ดี ควบคู่ไปกับเงินที่คุณคาดหวังไว้ (โบนัส)",
+"example": "All employees received a Christmas bonus this year."
+},
+{
+"word": "Timeline",
+"phonetic": "/ˈtaɪm.laɪn/",
+"type": "Noun",
+"category": "Work & Business",
+"meaning": "A plan that shows how long something will take or when things will happen.",
+"meaning_th": "แผนงานที่แสดงว่าสิ่งใดจะใช้เวลานานเท่าใดหรือสิ่งต่างๆ จะเกิดขึ้นเมื่อใด (กรอบเวลา/เส้นเวลา)",
+"example": "We need to establish a clear timeline for the completion of this project."
+},{
+"word": "Destination",
+"phonetic": "/ˌdes.tɪˈneɪ.ʃən/",
+"type": "Noun",
+"category": "Travel & Transportation",
+"meaning": "The place where someone is going or where something is being sent or taken.",
+"meaning_th": "สถานที่ที่คนกำลังไปหรือที่สิ่งของกำลังถูกส่งหรือถูกนำไป (จุดหมายปลายทาง)",
+"example": "We finally reached our destination after a ten-hour drive."
+},
+{
+"word": "Passport",
+"phonetic": "/ˈpɑːs.pɔːt/",
+"type": "Noun",
+"category": "Travel & Transportation",
+"meaning": "An official document containing personal information and usually a photograph that allows a person to travel to foreign countries.",
+"meaning_th": "เอกสารทางการที่มีข้อมูลส่วนบุคคลและมักจะมีรูปถ่ายซึ่งอนุญาตให้บุคคลเดินทางไปต่างประเทศได้ (หนังสือเดินทาง)",
+"example": "Make sure your passport is valid for at least six months before you travel."
+},
+{
+"word": "Visa",
+"phonetic": "/ˈviː.zə/",
+"type": "Noun",
+"category": "Travel & Transportation",
+"meaning": "An official mark, usually made in a passport, that allows you to enter or leave a particular country.",
+"meaning_th": "เครื่องหมายทางการ มักทำในหนังสือเดินทาง ซึ่งอนุญาตให้คุณเข้าหรือออกประเทศนั้นๆ ได้ (วีซ่า)",
+"example": "You need to apply for a tourist visa before visiting that country."
+},
+{
+"word": "Immigration",
+"phonetic": "/ˌɪm.ɪˈɡreɪ.ʃən/",
+"type": "Noun",
+"category": "Travel & Transportation",
+"meaning": "The process of examining your passport and other documents to make certain that you can be allowed to enter the country.",
+"meaning_th": "กระบวนการตรวจสอบหนังสือเดินทางและเอกสารอื่นๆ ของคุณเพื่อให้แน่ใจว่าคุณได้รับอนุญาตให้เข้าประเทศได้ (ด่านตรวจคนเข้าเมือง)",
+"example": "We had to wait in a long line at immigration."
+},
+{
+"word": "Customs",
+"phonetic": "/ˈkʌs.təmz/",
+"type": "Noun",
+"category": "Travel & Transportation",
+"meaning": "The place at a port, airport, or border where travelers' bags are examined for illegal or taxable goods.",
+"meaning_th": "สถานที่ที่ท่าเรือ สนามบิน หรือชายแดน ซึ่งกระเป๋าของนักเดินทางจะถูกตรวจสอบหาสินค้าผิดกฎหมายหรือสินค้าที่ต้องเสียภาษี (ศุลกากร)",
+"example": "He was stopped at customs and asked to open his suitcase."
+},
+{
+"word": "Baggage",
+"phonetic": "/ˈbæɡ.ɪdʒ/",
+"type": "Noun",
+"category": "Travel & Transportation",
+"meaning": "Bags, cases, etc. that you take with you when you travel.",
+"meaning_th": "กระเป๋า หีบห่อ ฯลฯ ที่คุณนำติดตัวไปด้วยเมื่อคุณเดินทาง (สัมภาระ)",
+"example": "Passengers are allowed to bring one piece of hand baggage onto the plane."
+},
+{
+"word": "Departure",
+"phonetic": "/dɪˈpɑː.tʃər/",
+"type": "Noun",
+"category": "Travel & Transportation",
+"meaning": "The act of leaving a place, or a flight, train, etc. that is leaving.",
+"meaning_th": "การกระทำในการออกจากสถานที่ หรือเที่ยวบิน รถไฟ ฯลฯ ที่กำลังจะออกเดินทาง (การขาออก/การออกเดินทาง)",
+"example": "Please check the departure board for your flight status."
+},
+{
+"word": "Arrival",
+"phonetic": "/əˈraɪ.vəl/",
+"type": "Noun",
+"category": "Travel & Transportation",
+"meaning": "The fact of arriving somewhere, or a flight, train, etc. that arrives.",
+"meaning_th": "ข้อเท็จจริงของการมาถึงที่ใดที่หนึ่ง หรือเที่ยวบิน รถไฟ ฯลฯ ที่มาถึง (การขาเข้า/การมาถึง)",
+"example": "I will meet you in the arrivals hall after you pick up your bags."
+},
+{
+"word": "Boarding",
+"phonetic": "/ˈbɔː.dɪŋ/",
+"type": "Noun",
+"category": "Travel & Transportation",
+"meaning": "The act of passengers getting onto a ship, aircraft, or train.",
+"meaning_th": "การกระทำที่ผู้โดยสารขึ้นเรือ เครื่องบิน หรือรถไฟ (การขึ้นเครื่อง/ขึ้นรถ)",
+"example": "Boarding will commence twenty minutes before departure."
+},
+{
+"word": "Terminal",
+"phonetic": "/ˈtɜː.mɪ.nəl/",
+"type": "Noun",
+"category": "Travel & Transportation",
+"meaning": "A large building at an airport where passengers arrive and leave.",
+"meaning_th": "อาคารขนาดใหญ่ที่สนามบินซึ่งผู้โดยสารเดินทางมาถึงและออกเดินทาง (อาคารผู้โดยสาร)",
+"example": "Domestic flights usually depart from Terminal 2."
+},
+{
+"word": "Gate",
+"phonetic": "/ɡeɪt/",
+"type": "Noun",
+"category": "Travel & Transportation",
+"meaning": "A part of an airport where travelers are allowed to get on or off a particular aircraft.",
+"meaning_th": "ส่วนหนึ่งของสนามบินที่อนุญาตให้นักเดินทางขึ้นหรือลงจากเครื่องบินลำใดลำหนึ่ง (ประตูขึ้นเครื่อง)",
+"example": "The flight to London is boarding at Gate 15."
+},
+{
+"word": "Delay",
+"phonetic": "/dɪˈleɪ/",
+"type": "Noun/Verb",
+"category": "Travel & Transportation",
+"meaning": "A situation in which you have to wait longer than expected for something to happen.",
+"meaning_th": "สถานการณ์ที่คุณต้องรอนานกว่าที่คาดไว้เพื่อให้บางสิ่งเกิดขึ้น (ความล่าช้า/ดีเลย์)",
+"example": "There is a two-hour delay due to severe weather conditions."
+},
+{
+"word": "Cancel",
+"phonetic": "/ˈkæn.səl/",
+"type": "Verb",
+"category": "Travel & Transportation",
+"meaning": "To decide that an organized event will not happen.",
+"meaning_th": "การตัดสินใจว่าเหตุการณ์ที่จัดไว้จะไม่เกิดขึ้น (ยกเลิก)",
+"example": "The airline had to cancel several flights because of the snowstorm."
+},
+{
+"word": "Tourist",
+"phonetic": "/ˈtʊə.rɪst/",
+"type": "Noun",
+"category": "Travel & Transportation",
+"meaning": "Someone who travels and visits places for fun and holidays.",
+"meaning_th": "ผู้ที่เดินทางและเยี่ยมชมสถานที่ต่างๆ เพื่อความสนุกสนานและวันหยุด (นักท่องเที่ยว)",
+"example": "The city is always full of tourists during the summer season."
+},
+{
+"word": "Guide",
+"phonetic": "/ɡaɪd/",
+"type": "Noun",
+"category": "Travel & Transportation",
+"meaning": "A person whose job is showing a place or a particular route to visitors.",
+"meaning_th": "บุคคลที่มีหน้าที่แสดงสถานที่หรือเส้นทางเฉพาะแก่ผู้มาเยือน (มัคคุเทศก์/ไกด์)",
+"example": "Our tour guide explained the history of the ancient temple."
+},
+{
+"word": "Sightseeing",
+"phonetic": "/ˈsaɪtˌsiː.ɪŋ/",
+"type": "Noun",
+"category": "Travel & Transportation",
+"meaning": "The activity of visiting interesting places, especially by people on holiday.",
+"meaning_th": "กิจกรรมการเยี่ยมชมสถานที่ที่น่าสนใจ โดยเฉพาะโดยผู้ที่อยู่ในช่วงวันหยุด (การเที่ยวชมสถานที่)",
+"example": "We spent the whole day sightseeing around the old town."
+},
+{
+"word": "Souvenir",
+"phonetic": "/ˌsuː.vənˈɪər/",
+"type": "Noun",
+"category": "Travel & Transportation",
+"meaning": "Something you buy or keep to help you remember a holiday or special event.",
+"meaning_th": "สิ่งที่คุณซื้อหรือเก็บไว้เพื่อช่วยให้คุณจำวันหยุดหรือเหตุการณ์พิเศษได้ (ของที่ระลึก)",
+"example": "I bought a small wooden elephant as a souvenir from Thailand."
+},
+{
+"word": "Route",
+"phonetic": "/ruːt/",
+"type": "Noun",
+"category": "Travel & Transportation",
+"meaning": "A particular way or direction between places.",
+"meaning_th": "เส้นทางหรือทิศทางเฉพาะระหว่างสถานที่ (เส้นทาง)",
+"example": "We took the scenic route along the coast instead of the highway."
+},
+{
+"word": "Fare",
+"phonetic": "/feər/",
+"type": "Noun",
+"category": "Travel & Transportation",
+"meaning": "The money that you pay for a journey in a vehicle such as a bus or train.",
+"meaning_th": "เงินที่คุณจ่ายสำหรับการเดินทางในยานพาหนะ เช่น รถบัสหรือรถไฟ (ค่าโดยสาร)",
+"example": "Train fares are going to increase next month."
+},
+{
+"word": "Platform",
+"phonetic": "/ˈplæt.fɔːm/",
+"type": "Noun",
+"category": "Travel & Transportation",
+"meaning": "A long, flat raised structure at a railway station, where people get on and off trains.",
+"meaning_th": "โครงสร้างยกระดับแบนยาวที่สถานีรถไฟ ซึ่งผู้คนใช้ขึ้นและลงรถไฟ (ชานชาลา)",
+"example": "The train to Manchester will depart from platform 3."
+},
+{
+"word": "Subway",
+"phonetic": "/ˈsʌb.weɪ/",
+"type": "Noun",
+"category": "Travel & Transportation",
+"meaning": "A railway system in which electric trains travel through tunnels below ground.",
+"meaning_th": "ระบบรถไฟที่รถไฟไฟฟ้าวิ่งผ่านอุโมงค์ใต้ดิน (รถไฟใต้ดิน)",
+"example": "Taking the subway is the fastest way to travel around the city."
+},
+{
+"word": "Commuter",
+"phonetic": "/kəˈmjuː.tər/",
+"type": "Noun",
+"category": "Travel & Transportation",
+"meaning": "Someone who regularly travels between work and home.",
+"meaning_th": "ผู้ที่เดินทางไปมาระหว่างที่ทำงานและบ้านเป็นประจำ (ผู้สัญจร/ผู้เดินทางไปกลับประจำ)",
+"example": "The train was packed with morning commuters."
+},
+{
+"word": "Transfer",
+"phonetic": "/trænsˈfɜːr/",
+"type": "Verb/Noun",
+"category": "Travel & Transportation",
+"meaning": "To change to a different vehicle or route during a journey.",
+"meaning_th": "การเปลี่ยนไปใช้ยานพาหนะหรือเส้นทางอื่นระหว่างการเดินทาง (การต่อรถ/ต่อเครื่อง)",
+"example": "You need to transfer to the red line at the next station."
+},
+{
+"word": "Direct",
+"phonetic": "/daɪˈrekt/",
+"type": "Adjective",
+"category": "Travel & Transportation",
+"meaning": "Going in a straight line towards somewhere or someone without stopping or changing direction.",
+"meaning_th": "ไปเป็นเส้นตรงไปยังบางสถานที่หรือบางคนโดยไม่หยุดหรือเปลี่ยนทิศทาง (บินตรง/เดินทางตรง)",
+"example": "Is there a direct flight from London to Bangkok?"
+},
+{
+"word": "Rent",
+"phonetic": "/rent/",
+"type": "Verb/Noun",
+"category": "Travel & Transportation",
+"meaning": "To pay or receive a fixed amount of money for the use of a room, house, car, television, etc.",
+"meaning_th": "การจ่ายหรือรับเงินจำนวนคงที่สำหรับการใช้ห้อง บ้าน รถยนต์ โทรทัศน์ ฯลฯ (เช่า)",
+"example": "We plan to rent a car so we can explore the countryside."
+},
+{
+"word": "Cruise",
+"phonetic": "/kruːz/",
+"type": "Noun",
+"category": "Travel & Transportation",
+"meaning": "A journey on a large ship for pleasure, during which you visit several places.",
+"meaning_th": "การเดินทางบนเรือขนาดใหญ่เพื่อความเพลิดเพลิน ซึ่งคุณจะได้เยี่ยมชมหลายสถานที่ (การล่องเรือ)",
+"example": "They went on a luxury cruise around the Caribbean."
+},
+{
+"word": "Ferry",
+"phonetic": "/ˈfer.i/",
+"type": "Noun",
+"category": "Travel & Transportation",
+"meaning": "A boat or ship for taking passengers and often vehicles across an area of water.",
+"meaning_th": "เรือสำหรับพาผู้โดยสารและมักจะรวมถึงยานพาหนะข้ามพื้นที่น้ำ (เรือข้ามฟาก)",
+"example": "We took the ferry across the river to get to the island."
+},
+{
+"word": "Port",
+"phonetic": "/pɔːt/",
+"type": "Noun",
+"category": "Travel & Transportation",
+"meaning": "A town by the sea or by a river that has a harbor, or the harbor itself.",
+"meaning_th": "เมืองริมทะเลหรือริมแม่น้ำที่มีท่าเรือ หรือตัวท่าเรือเอง (ท่าเรือ)",
+"example": "The ship docked at the port to unload its cargo."
+},
+{
+"word": "Backpacking",
+"phonetic": "/ˈbækˌpæk.ɪŋ/",
+"type": "Noun",
+"category": "Travel & Transportation",
+"meaning": "The activity of travelling or camping with your clothes and belongings in a backpack.",
+"meaning_th": "กิจกรรมการเดินทางหรือการตั้งแคมป์โดยมีเสื้อผ้าและสิ่งของในกระเป๋าเป้ (การเที่ยวแบบสะพายเป้)",
+"example": "He went backpacking across Europe for three months after graduation."
+},
+{
+"word": "Itinerary",
+"phonetic": "/aɪˈtɪn.ər.ər.i/",
+"type": "Noun",
+"category": "Travel & Transportation",
+"meaning": "A detailed plan or route of a journey.",
+"meaning_th": "แผนการหรือเส้นทางโดยละเอียดของการเดินทาง (กำหนดการเดินทาง)",
+"example": "The travel agent sent us a detailed itinerary for our trip."
+},{
+"word": "Browser",
+"phonetic": "/ˈbraʊ.zər/",
+"type": "Noun",
+"category": "Technology & Internet",
+"meaning": "A computer program that makes it possible for you to read information on the internet.",
+"meaning_th": "โปรแกรมคอมพิวเตอร์ที่ทำให้คุณสามารถอ่านข้อมูลบนอินเทอร์เน็ตได้",
+"example": "Which web browser do you use to surf the internet?"
+},
+{
+"word": "Software",
+"phonetic": "/ˈsɒft.weər/",
+"type": "Noun",
+"category": "Technology & Internet",
+"meaning": "The instructions that control what a computer does; computer programs.",
+"meaning_th": "คำสั่งที่ควบคุมสิ่งที่คอมพิวเตอร์ทำ โปรแกรมคอมพิวเตอร์",
+"example": "You need to install the latest software to run this application smoothly."
+},
+{
+"word": "Hardware",
+"phonetic": "/ˈhɑːd.weər/",
+"type": "Noun",
+"category": "Technology & Internet",
+"meaning": "The physical and electronic parts of a computer, rather than the instructions it follows.",
+"meaning_th": "ชิ้นส่วนทางกายภาพและอิเล็กทรอนิกส์ของคอมพิวเตอร์ แทนที่จะเป็นคำสั่งที่มันทำตาม",
+"example": "The cost of computer hardware has fallen significantly over the years."
+},
+{
+"word": "Database",
+"phonetic": "/ˈdeɪ.tə.beɪs/",
+"type": "Noun",
+"category": "Technology & Internet",
+"meaning": "A large amount of information stored in a computer system in such a way that it can be easily looked at or changed.",
+"meaning_th": "ข้อมูลจำนวนมากที่เก็บไว้ในระบบคอมพิวเตอร์ในลักษณะที่สามารถดูหรือเปลี่ยนแปลงได้ง่าย",
+"example": "Customer details are stored securely in our central database."
+},
+{
+"word": "Server",
+"phonetic": "/ˈsɜː.vər/",
+"type": "Noun",
+"category": "Technology & Internet",
+"meaning": "A central computer from which other computers get information.",
+"meaning_th": "คอมพิวเตอร์ส่วนกลางที่คอมพิวเตอร์เครื่องอื่นรับข้อมูลมา",
+"example": "The website is currently offline because the server is down."
+},
+{
+"word": "Router",
+"phonetic": "/ˈruː.tər/",
+"type": "Noun",
+"category": "Technology & Internet",
+"meaning": "A piece of electronic equipment that connects computer networks to each other.",
+"meaning_th": "ชิ้นส่วนอุปกรณ์อิเล็กทรอนิกส์ที่เชื่อมต่อเครือข่ายคอมพิวเตอร์เข้าด้วยกัน",
+"example": "I had to restart the router to get the Wi-Fi working again."
+},
+{
+"word": "Application",
+"phonetic": "/ˌæp.lɪˈkeɪ.ʃən/",
+"type": "Noun",
+"category": "Technology & Internet",
+"meaning": "A computer program that is designed for a particular purpose.",
+"meaning_th": "โปรแกรมคอมพิวเตอร์ที่ออกแบบมาเพื่อวัตถุประสงค์เฉพาะ",
+"example": "This mobile application helps you track your daily exercise."
+},
+{
+"word": "Download",
+"phonetic": "/ˌdaʊnˈləʊd/",
+"type": "Verb/Noun",
+"category": "Technology & Internet",
+"meaning": "To copy or move programs or information into a computer's memory, especially from the internet or a larger computer.",
+"meaning_th": "การคัดลอกหรือย้ายโปรแกรมหรือข้อมูลลงในหน่วยความจำของคอมพิวเตอร์ โดยเฉพาะจากอินเทอร์เน็ตหรือคอมพิวเตอร์ที่ใหญ่กว่า",
+"example": "It will take a few minutes to download the large video file."
+},
+{
+"word": "Upload",
+"phonetic": "/ʌpˈləʊd/",
+"type": "Verb/Noun",
+"category": "Technology & Internet",
+"meaning": "To copy or move programs or information to a larger computer system or to the internet.",
+"meaning_th": "การคัดลอกหรือย้ายโปรแกรมหรือข้อมูลไปยังระบบคอมพิวเตอร์ที่ใหญ่กว่าหรือไปยังอินเทอร์เน็ต",
+"example": "Please upload your resume in PDF format."
+},
+{
+"word": "Update",
+"phonetic": "/ʌpˈdeɪt/",
+"type": "Verb/Noun",
+"category": "Technology & Internet",
+"meaning": "To make something more modern or suitable for use now by adding new information or changing its design.",
+"meaning_th": "การทำให้บางสิ่งทันสมัยขึ้นหรือเหมาะสมสำหรับการใช้งานในปัจจุบันโดยการเพิ่มข้อมูลใหม่หรือเปลี่ยนการออกแบบ",
+"example": "You should update your operating system regularly for security reasons."
+},
+{
+"word": "Upgrade",
+"phonetic": "/ʌpˈɡreɪd/",
+"type": "Verb/Noun",
+"category": "Technology & Internet",
+"meaning": "To improve the quality or usefulness of something, such as a machine or a computer program.",
+"meaning_th": "การปรับปรุงคุณภาพหรือประโยชน์ของบางสิ่ง เช่น เครื่องจักรหรือโปรแกรมคอมพิวเตอร์",
+"example": "I decided to upgrade my internet package for faster speeds."
+},
+{
+"word": "Virus",
+"phonetic": "/ˈvaɪə.rəs/",
+"type": "Noun",
+"category": "Technology & Internet",
+"meaning": "A computer program that is designed to damage a computer system.",
+"meaning_th": "โปรแกรมคอมพิวเตอร์ที่ออกแบบมาเพื่อทำลายระบบคอมพิวเตอร์",
+"example": "His laptop crashed because it was infected by a computer virus."
+},
+{
+"word": "Malware",
+"phonetic": "/ˈmæl.weər/",
+"type": "Noun",
+"category": "Technology & Internet",
+"meaning": "Computer software that is designed to damage the way a computer works.",
+"meaning_th": "ซอฟต์แวร์คอมพิวเตอร์ที่ออกแบบมาเพื่อทำลายวิธีการทำงานของคอมพิวเตอร์",
+"example": "Be careful when clicking unknown links to avoid installing malware."
+},
+{
+"word": "Firewall",
+"phonetic": "/ˈfaɪə.wɔːl/",
+"type": "Noun",
+"category": "Technology & Internet",
+"meaning": "A device or program that stops people from seeing or using information on a computer without permission while it is connected to the internet.",
+"meaning_th": "อุปกรณ์หรือโปรแกรมที่หยุดผู้คนไม่ให้เห็นหรือใช้ข้อมูลบนคอมพิวเตอร์โดยไม่ได้รับอนุญาตในขณะที่เชื่อมต่อกับอินเทอร์เน็ต",
+"example": "The corporate network is protected by a highly secure firewall."
+},
+{
+"word": "Hacker",
+"phonetic": "/ˈhæk.ər/",
+"type": "Noun",
+"category": "Technology & Internet",
+"meaning": "Someone who gets into other people's computer systems without permission in order to find out information or to do something illegal.",
+"meaning_th": "ผู้ที่เจาะเข้าระบบคอมพิวเตอร์ของผู้อื่นโดยไม่ได้รับอนุญาตเพื่อค้นหาข้อมูลหรือทำสิ่งที่ผิดกฎหมาย",
+"example": "A hacker managed to steal the credit card details of thousands of customers."
+},
+{
+"word": "Cloud",
+"phonetic": "/klaʊd/",
+"type": "Noun",
+"category": "Technology & Internet",
+"meaning": "A computer network where files and programs can be stored, especially the internet.",
+"meaning_th": "เครือข่ายคอมพิวเตอร์ที่สามารถจัดเก็บไฟล์และโปรแกรมได้ โดยเฉพาะอินเทอร์เน็ต",
+"example": "All of my photos are automatically backed up to the cloud."
+},
+{
+"word": "Backup",
+"phonetic": "/ˈbæk.ʌp/",
+"type": "Noun",
+"category": "Technology & Internet",
+"meaning": "A copy of information held on a computer that is stored separately from the computer.",
+"meaning_th": "สำเนาข้อมูลที่เก็บไว้ในคอมพิวเตอร์ซึ่งจัดเก็บแยกต่างหากจากคอมพิวเตอร์",
+"example": "Always create a backup of your important documents just in case."
+},
+{
+"word": "Wireless",
+"phonetic": "/ˈwaɪə.ləs/",
+"type": "Adjective/Noun",
+"category": "Technology & Internet",
+"meaning": "Using a system of radio signals rather than wires to connect computers, mobile phones, etc. to each other.",
+"meaning_th": "การใช้ระบบสัญญาณวิทยุแทนสายไฟเพื่อเชื่อมต่อคอมพิวเตอร์ โทรศัพท์มือถือ ฯลฯ เข้าด้วยกัน",
+"example": "This cafe offers free wireless internet access to all customers."
+},
+{
+"word": "Broadband",
+"phonetic": "/ˈbrɔːd.bænd/",
+"type": "Noun",
+"category": "Technology & Internet",
+"meaning": "A system that makes it possible for many messages or large amounts of information to be sent at the same time and very quickly between computers.",
+"meaning_th": "ระบบที่ทำให้เป็นไปได้ในการส่งข้อความจำนวนมากหรือข้อมูลปริมาณมากในเวลาเดียวกันและอย่างรวดเร็วระหว่างคอมพิวเตอร์",
+"example": "High-speed broadband is essential for working from home efficiently."
+},
+{
+"word": "Search",
+"phonetic": "/sɜːtʃ/",
+"type": "Verb/Noun",
+"category": "Technology & Internet",
+"meaning": "To look for information on a computer, the internet, etc.",
+"meaning_th": "การค้นหาข้อมูลบนคอมพิวเตอร์ อินเทอร์เน็ต ฯลฯ",
+"example": "You can use a search engine to find the recipe."
+},
+{
+"word": "Link",
+"phonetic": "/lɪŋk/",
+"type": "Noun/Verb",
+"category": "Technology & Internet",
+"meaning": "A connection between documents on the internet.",
+"meaning_th": "การเชื่อมต่อระหว่างเอกสารบนอินเทอร์เน็ต",
+"example": "Click the link below to visit our official website."
+},
+{
+"word": "Bookmark",
+"phonetic": "/ˈbʊk.mɑːk/",
+"type": "Noun/Verb",
+"category": "Technology & Internet",
+"meaning": "A record of the address of a file, web page, or other data made to enable quick access by a user.",
+"meaning_th": "บันทึกที่อยู่ของไฟล์ หน้าเว็บ หรือข้อมูลอื่นๆ ที่ทำขึ้นเพื่อให้ผู้ใช้เข้าถึงได้อย่างรวดเร็ว",
+"example": "I will bookmark this page so I can read it later."
+},
+{
+"word": "Algorithm",
+"phonetic": "/ˈæl.ɡə.rɪ.ðəm/",
+"type": "Noun",
+"category": "Technology & Internet",
+"meaning": "A set of mathematical instructions or rules that, especially if given to a computer, will help to calculate an answer to a problem.",
+"meaning_th": "ชุดคำสั่งหรือกฎเกณฑ์ทางคณิตศาสตร์ ซึ่งโดยเฉพาะถ้าให้กับคอมพิวเตอร์ จะช่วยคำนวณหาคำตอบของปัญหาได้",
+"example": "The social media platform uses a complex algorithm to show you relevant content."
+},
+{
+"word": "Code",
+"phonetic": "/kəʊd/",
+"type": "Noun/Verb",
+"category": "Technology & Internet",
+"meaning": "A language used to program computers.",
+"meaning_th": "ภาษาที่ใช้ในการเขียนโปรแกรมคอมพิวเตอร์",
+"example": "Learning how to write computer code is a highly valuable skill today."
+},
+{
+"word": "Debug",
+"phonetic": "/ˌdiːˈbʌɡ/",
+"type": "Verb",
+"category": "Technology & Internet",
+"meaning": "To remove bugs from a computer program.",
+"meaning_th": "การลบข้อบกพร่องออกจากโปรแกรมคอมพิวเตอร์",
+"example": "The engineers spent all night trying to debug the new software system."
+},
+{
+"word": "Developer",
+"phonetic": "/dɪˈvel.ə.pər/",
+"type": "Noun",
+"category": "Technology & Internet",
+"meaning": "A person or company that creates new products, especially computer products such as software.",
+"meaning_th": "บุคคลหรือบริษัทที่สร้างผลิตภัณฑ์ใหม่ โดยเฉพาะผลิตภัณฑ์คอมพิวเตอร์ เช่น ซอฟต์แวร์",
+"example": "He works as a front-end developer for a large technology firm."
+},
+{
+"word": "Programmer",
+"phonetic": "/ˈprəʊ.ɡræm.ər/",
+"type": "Noun",
+"category": "Technology & Internet",
+"meaning": "A person whose job is to produce computer programs.",
+"meaning_th": "บุคคลที่มีอาชีพผลิตโปรแกรมคอมพิวเตอร์",
+"example": "We are looking to hire an experienced Python programmer."
+},
+{
+"word": "Artificial Intelligence",
+"phonetic": "/ˌɑː.tɪˈfɪʃ.əl ɪnˈtel.ɪ.dʒəns/",
+"type": "Noun Phrase",
+"category": "Technology & Internet",
+"meaning": "The study and design of computer systems created to mimic the capabilities of the human brain.",
+"meaning_th": "การศึกษาและการออกแบบระบบคอมพิวเตอร์ที่สร้างขึ้นเพื่อเลียนแบบความสามารถของสมองมนุษย์",
+"example": "Artificial intelligence is rapidly changing many industries around the world."
+},
+{
+"word": "Virtual Reality",
+"phonetic": "/ˌvɜː.tʃu.əl riˈæl.ə.ti/",
+"type": "Noun Phrase",
+"category": "Technology & Internet",
+"meaning": "A set of images and sounds, produced by a computer, that seem to represent a place or a situation that a person can take part in.",
+"meaning_th": "ชุดภาพและเสียง ผลิตโดยคอมพิวเตอร์ ที่ดูเหมือนจะเป็นตัวแทนของสถานที่หรือสถานการณ์ที่บุคคลสามารถเข้าไปมีส่วนร่วมได้",
+"example": "Virtual reality headsets provide a fully immersive gaming experience."
+},
+{
+"word": "Streaming",
+"phonetic": "/ˈstriː.mɪŋ/",
+"type": "Noun",
+"category": "Technology & Internet",
+"meaning": "The activity of listening to or watching sound or video directly from the internet.",
+"meaning_th": "กิจกรรมการฟังหรือดูเสียงหรือวิดีโอโดยตรงจากอินเทอร์เน็ต",
+"example": "Video streaming services have become more popular than traditional television."
+},{
+"word": "University",
+"phonetic": "/ˌjuː.nɪˈvɜː.sə.ti/",
+"type": "Noun",
+"category": "Education & Learning",
+"meaning": "A place of higher education usually for people who have finished school.",
+"meaning_th": "สถานศึกษาระดับอุดมศึกษามักจะสำหรับผู้ที่เรียนจบโรงเรียนแล้ว (มหาวิทยาลัย)",
+"example": "She is studying law at the university."
+},
+{
+"word": "College",
+"phonetic": "/ˈkɒl.ɪdʒ/",
+"type": "Noun",
+"category": "Education & Learning",
+"meaning": "A place of higher education where people study specialized subjects or gain practical skills.",
+"meaning_th": "สถานศึกษาระดับอุดมศึกษาที่ผู้คนศึกษาในวิชาเฉพาะทางหรือรับทักษะเชิงปฏิบัติ (วิทยาลัย)",
+"example": "He enrolled in a local technical college to learn web design."
+},
+{
+"word": "Professor",
+"phonetic": "/prəˈfes.ər/",
+"type": "Noun",
+"category": "Education & Learning",
+"meaning": "A teacher of the highest rank in a university or college.",
+"meaning_th": "ผู้สอนระดับสูงสุดในมหาวิทยาลัยหรือวิทยาลัย (ศาสตราจารย์/อาจารย์มหาวิทยาลัย)",
+"example": "The professor gave an inspiring lecture on ancient history."
+},
+{
+"word": "Lecture",
+"phonetic": "/ˈlek.tʃər/",
+"type": "Noun",
+"category": "Education & Learning",
+"meaning": "A formal talk on a serious subject given to a group of people, especially students.",
+"meaning_th": "การพูดคุยอย่างเป็นทางการในหัวข้อที่จริงจังให้กับกลุ่มคน โดยเฉพาะนักศึกษา (การบรรยาย)",
+"example": "I took a lot of notes during the biology lecture."
+},
+{
+"word": "Assignment",
+"phonetic": "/əˈsaɪn.mənt/",
+"type": "Noun",
+"category": "Education & Learning",
+"meaning": "A piece of work given to someone, typically as part of their studies or job.",
+"meaning_th": "ชิ้นงานที่มอบหมายให้บางคนทำ โดยทั่วไปเป็นส่วนหนึ่งของการศึกษาหรืองาน (งานที่ได้รับมอบหมาย)",
+"example": "The history assignment is due next Friday."
+},
+{
+"word": "Homework",
+"phonetic": "/ˈhəʊm.wɜːk/",
+"type": "Noun",
+"category": "Education & Learning",
+"meaning": "Work that teachers give their students to do at home.",
+"meaning_th": "งานที่ครูมอบหมายให้นักเรียนนำไปทำที่บ้าน (การบ้าน)",
+"example": "You cannot watch TV until you have finished your homework."
+},
+{
+"word": "Exam",
+"phonetic": "/ɪɡˈzæm/",
+"type": "Noun",
+"category": "Education & Learning",
+"meaning": "A formal test of a person's knowledge or proficiency in a particular subject or skill.",
+"meaning_th": "การทดสอบความรู้หรือความเชี่ยวชาญของบุคคลอย่างเป็นทางการในวิชาหรือทักษะเฉพาะ (การสอบ)",
+"example": "She stayed up all night studying for her final math exam."
+},
+{
+"word": "Test",
+"phonetic": "/test/",
+"type": "Noun/Verb",
+"category": "Education & Learning",
+"meaning": "A procedure intended to establish the quality, performance, or reliability of something, especially before it is taken into widespread use.",
+"meaning_th": "ขั้นตอนที่ตั้งใจจะกำหนดคุณภาพ ประสิทธิภาพ หรือความน่าเชื่อถือของบางสิ่ง (การทดสอบ)",
+"example": "We have a short spelling test every Monday morning."
+},
+{
+"word": "Grade",
+"phonetic": "/ɡreɪd/",
+"type": "Noun",
+"category": "Education & Learning",
+"meaning": "A mark indicating the quality of a student's work.",
+"meaning_th": "เครื่องหมายแสดงคุณภาพของผลงานของนักเรียน (ระดับคะแนน/เกรด)",
+"example": "He studied hard and got a good grade in physics."
+},
+{
+"word": "Degree",
+"phonetic": "/dɪˈɡriː/",
+"type": "Noun",
+"category": "Education & Learning",
+"meaning": "An academic rank conferred by a college or university after examination or after completion of a course of study.",
+"meaning_th": "ตำแหน่งทางวิชาการที่มอบให้โดยวิทยาลัยหรือมหาวิทยาลัยหลังจากการสอบหรือหลังจากจบหลักสูตรการศึกษา (ปริญญา)",
+"example": "She holds a master's degree in business administration."
+},
+{
+"word": "Diploma",
+"phonetic": "/dɪˈpləʊ.mə/",
+"type": "Noun",
+"category": "Education & Learning",
+"meaning": "A document given by a college or university to show that you have passed a particular exam or finished your studies.",
+"meaning_th": "เอกสารที่มอบให้โดยวิทยาลัยหรือมหาวิทยาลัยเพื่อแสดงว่าคุณสอบผ่านหรือเรียนจบ (ประกาศนียบัตร)",
+"example": "He framed his high school diploma and hung it on the wall."
+},
+{
+"word": "Certificate",
+"phonetic": "/səˈtɪf.ɪ.kət/",
+"type": "Noun",
+"category": "Education & Learning",
+"meaning": "An official document that states that the information on it is true.",
+"meaning_th": "เอกสารทางการที่ระบุว่าข้อมูลที่อยู่ในนั้นเป็นความจริง (ใบรับรอง)",
+"example": "She earned a certificate in advanced first aid."
+},
+{
+"word": "Course",
+"phonetic": "/kɔːs/",
+"type": "Noun",
+"category": "Education & Learning",
+"meaning": "A set of classes or a plan of study on a particular subject, usually leading to an exam or qualification.",
+"meaning_th": "ชุดของชั้นเรียนหรือแผนการศึกษาในวิชาเฉพาะ ซึ่งมักจะนำไปสู่การสอบหรือคุณวุฒิ (หลักสูตร/รายวิชา)",
+"example": "I enrolled in a ten-week photography course."
+},
+{
+"word": "Subject",
+"phonetic": "/ˈsʌb.dʒekt/",
+"type": "Noun",
+"category": "Education & Learning",
+"meaning": "An area of knowledge that is studied in school, college, or university.",
+"meaning_th": "ขอบเขตความรู้ที่ศึกษาในโรงเรียน วิทยาลัย หรือมหาวิทยาลัย (วิชา)",
+"example": "Mathematics has always been my favorite subject."
+},
+{
+"word": "Major",
+"phonetic": "/ˈmeɪ.dʒər/",
+"type": "Noun",
+"category": "Education & Learning",
+"meaning": "The most important subject that a college or university student is studying.",
+"meaning_th": "วิชาที่สำคัญที่สุดที่นักศึกษาวิทยาลัยหรือมหาวิทยาลัยกำลังศึกษา (วิชาเอก)",
+"example": "His major in college was computer science."
+},
+{
+"word": "Knowledge",
+"phonetic": "/ˈnɒl.ɪdʒ/",
+"type": "Noun",
+"category": "Education & Learning",
+"meaning": "Information, understanding, or skill that you get from experience or education.",
+"meaning_th": "ข้อมูล ความเข้าใจ หรือทักษะที่คุณได้รับจากประสบการณ์หรือการศึกษา (ความรู้)",
+"example": "Reading books is a great way to gain new knowledge."
+},
+{
+"word": "Skill",
+"phonetic": "/skɪl/",
+"type": "Noun",
+"category": "Education & Learning",
+"meaning": "An ability to do an activity or job well, especially because you have practiced it.",
+"meaning_th": "ความสามารถในการทำกิจกรรมหรืองานได้ดี โดยเฉพาะเพราะคุณได้ฝึกฝนมาแล้ว (ทักษะ)",
+"example": "Communication is a very important skill in the workplace."
+},
+{
+"word": "Experience",
+"phonetic": "/ɪkˈspɪə.ri.əns/",
+"type": "Noun",
+"category": "Education & Learning",
+"meaning": "The process of getting knowledge or skill from doing, seeing, or feeling things.",
+"meaning_th": "กระบวนการรับความรู้หรือทักษะจากการทำ การเห็น หรือการรู้สึกถึงสิ่งต่างๆ (ประสบการณ์)",
+"example": "She has ten years of experience working as a graphic designer."
+},
+{
+"word": "Practice",
+"phonetic": "/ˈpræk.tɪs/",
+"type": "Noun/Verb",
+"category": "Education & Learning",
+"meaning": "The act of doing something regularly or repeatedly to improve your skill at doing it.",
+"meaning_th": "การกระทำในการทำบางสิ่งเป็นประจำหรือซ้ำๆ เพื่อพัฒนาทักษะของคุณในการทำสิ่งนั้น (การฝึกฝน)",
+"example": "You need more practice if you want to play the piano well."
+},
+{
+"word": "Theory",
+"phonetic": "/ˈθɪə.ri/",
+"type": "Noun",
+"category": "Education & Learning",
+"meaning": "A formal statement of the rules on which a subject of study is based or of ideas that are suggested to explain a fact or event.",
+"meaning_th": "ข้อความที่เป็นทางการเกี่ยวกับกฎเกณฑ์ซึ่งเป็นพื้นฐานของวิชาที่ศึกษา หรือแนวคิดที่เสนอแนะเพื่ออธิบายข้อเท็จจริง (ทฤษฎี)",
+"example": "In science class, we learned about the theory of evolution."
+},
+{
+"word": "Research",
+"phonetic": "/rɪˈsɜːtʃ/",
+"type": "Noun/Verb",
+"category": "Education & Learning",
+"meaning": "A detailed study of a subject, especially in order to discover new information or reach a new understanding.",
+"meaning_th": "การศึกษาโดยละเอียดเกี่ยวกับหัวข้อหนึ่ง โดยเฉพาะเพื่อค้นพบข้อมูลใหม่หรือบรรลุความเข้าใจใหม่ (การวิจัย)",
+"example": "They are doing medical research to find a cure for the disease."
+},
+{
+"word": "Science",
+"phonetic": "/ˈsaɪ.əns/",
+"type": "Noun",
+"category": "Education & Learning",
+"meaning": "The careful study of the structure and behavior of the physical world, especially by watching, measuring, and doing experiments.",
+"meaning_th": "การศึกษาอย่างรอบคอบเกี่ยวกับโครงสร้างและพฤติกรรมของโลกทางกายภาพ โดยเฉพาะโดยการสังเกต การวัด และการทำการทดลอง (วิทยาศาสตร์)",
+"example": "Advances in modern science have improved our quality of life."
+},
+{
+"word": "Mathematics",
+"phonetic": "/ˌmæθˈmæt.ɪks/",
+"type": "Noun",
+"category": "Education & Learning",
+"meaning": "The study of numbers, shapes, and space using reason and usually a special system of symbols and rules for organizing them.",
+"meaning_th": "การศึกษาเกี่ยวกับตัวเลข รูปร่าง และพื้นที่โดยใช้เหตุผลและมักจะเป็นระบบสัญลักษณ์พิเศษและกฎในการจัดระเบียบ (คณิตศาสตร์)",
+"example": "She is excellent at solving complex problems in mathematics."
+},
+{
+"word": "History",
+"phonetic": "/ˈhɪs.tər.i/",
+"type": "Noun",
+"category": "Education & Learning",
+"meaning": "The study of or a record of past events considered together, especially events of a particular period, country, or subject.",
+"meaning_th": "การศึกษาหรือบันทึกเหตุการณ์ในอดีตที่พิจารณาร่วมกัน โดยเฉพาะเหตุการณ์ในช่วงเวลา ประเทศ หรือวิชาเฉพาะ (ประวัติศาสตร์)",
+"example": "Learning about history helps us understand the present world."
+},
+{
+"word": "Geography",
+"phonetic": "/dʒiˈɒɡ.rə.fi/",
+"type": "Noun",
+"category": "Education & Learning",
+"meaning": "The study of the systems and processes involved in the world's weather, mountains, seas, lakes, etc. and of the ways in which countries and people organize life within an area.",
+"meaning_th": "การศึกษาระบบและกระบวนการที่เกี่ยวข้องกับสภาพอากาศ ภูเขา ทะเล ทะเลสาบ ฯลฯ ของโลก และวิธีที่ประเทศและผู้คนจัดระเบียบชีวิตภายในพื้นที่ (ภูมิศาสตร์)",
+"example": "We studied the map of Europe in our geography class."
+},
+{
+"word": "Biology",
+"phonetic": "/baɪˈɒl.ə.dʒi/",
+"type": "Noun",
+"category": "Education & Learning",
+"meaning": "The scientific study of the natural processes of living things.",
+"meaning_th": "การศึกษาทางวิทยาศาสตร์เกี่ยวกับกระบวนการทางธรรมชาติของสิ่งมีชีวิต (ชีววิทยา)",
+"example": "In biology, we learned how plant cells create energy."
+},
+{
+"word": "Chemistry",
+"phonetic": "/ˈkem.ɪ.stri/",
+"type": "Noun",
+"category": "Education & Learning",
+"meaning": "The basic characteristics of substances and the different ways in which they react or combine with other substances.",
+"meaning_th": "ลักษณะพื้นฐานของสารและวิธีต่างๆ ที่สารทำปฏิกิริยาหรือรวมตัวกับสารอื่น (เคมี)",
+"example": "We mixed two liquids together during our chemistry experiment."
+},
+{
+"word": "Physics",
+"phonetic": "/ˈfɪz.ɪks/",
+"type": "Noun",
+"category": "Education & Learning",
+"meaning": "The scientific study of matter and energy and the effect that they have on each other.",
+"meaning_th": "การศึกษาทางวิทยาศาสตร์เกี่ยวกับสสารและพลังงาน และผลกระทบที่มีต่อกัน (ฟิสิกส์)",
+"example": "The laws of gravity are a fundamental concept in physics."
+},
+{
+"word": "Literature",
+"phonetic": "/ˈlɪt.rə.tʃər/",
+"type": "Noun",
+"category": "Education & Learning",
+"meaning": "Written artistic works, especially those with a high and lasting artistic value.",
+"meaning_th": "ผลงานศิลปะที่เป็นลายลักษณ์อักษร โดยเฉพาะผลงานที่มีคุณค่าทางศิลปะที่สูงและยั่งยืน (วรรณกรรม)",
+"example": "Shakespeare is considered a giant of English literature."
+},
+{
+"word": "Philosophy",
+"phonetic": "/fɪˈlɒs.ə.fi/",
+"type": "Noun",
+"category": "Education & Learning",
+"meaning": "The use of reason in understanding such things as the nature of the real world and existence, the use and limits of knowledge, and the principles of moral judgment.",
+"meaning_th": "การใช้เหตุผลในการทำความเข้าใจสิ่งต่างๆ เช่น ธรรมชาติของโลกแห่งความเป็นจริงและการดำรงอยู่ การใช้และขีดจำกัดของความรู้ และหลักการของการตัดสินทางศีลธรรม (ปรัชญา)",
+"example": "We discussed the meaning of life in our philosophy seminar."
+},{
+"word": "Environment",
+"phonetic": "/ɪnˈvaɪ.rən.mənt/",
+"type": "Noun",
+"category": "Nature & Ecology",
+"meaning": "The air, water, and land in or on which people, animals, and plants live.",
+"meaning_th": "อากาศ น้ำ และแผ่นดินที่คน สัตว์ และพืชอาศัยอยู่ (สิ่งแวดล้อม)",
+"example": "We must take action to protect the environment for future generations."
+},
+{
+"word": "Climate",
+"phonetic": "/ˈklaɪ.mət/",
+"type": "Noun",
+"category": "Nature & Ecology",
+"meaning": "The general weather conditions usually found in a particular place.",
+"meaning_th": "สภาพอากาศโดยทั่วไปที่มักพบในสถานที่ใดสถานที่หนึ่ง (ภูมิอากาศ)",
+"example": "The Mediterranean climate is known for its hot, dry summers."
+},
+{
+"word": "Pollution",
+"phonetic": "/pəˈluː.ʃən/",
+"type": "Noun",
+"category": "Nature & Ecology",
+"meaning": "Damage caused to water, air, etc. by harmful substances or waste.",
+"meaning_th": "ความเสียหายที่เกิดกับน้ำ อากาศ ฯลฯ โดยสารอันตรายหรือของเสีย (มลพิษ)",
+"example": "Air pollution in the city has reached dangerous levels."
+},
+{
+"word": "Conservation",
+"phonetic": "/ˌkɒn.səˈveɪ.ʃən/",
+"type": "Noun",
+"category": "Nature & Ecology",
+"meaning": "The protection of plants and animals, natural areas, and interesting and important structures and buildings.",
+"meaning_th": "การคุ้มครองพืช สัตว์ พื้นที่ธรรมชาติ และโครงสร้างหรืออาคารที่สำคัญ (การอนุรักษ์)",
+"example": "Wildlife conservation is essential to prevent species extinction."
+},
+{
+"word": "Wildlife",
+"phonetic": "/ˈwaɪld.laɪf/",
+"type": "Noun",
+"category": "Nature & Ecology",
+"meaning": "Animals and plants that grow independently of people, usually in natural conditions.",
+"meaning_th": "สัตว์และพืชที่เติบโตอย่างอิสระจากมนุษย์ มักอยู่ในสภาพธรรมชาติ (สัตว์ป่า/พืชพรรณธรรมชาติ)",
+"example": "The national park is home to a vast array of wildlife."
+},
+{
+"word": "Species",
+"phonetic": "/ˈspiː.ʃiːz/",
+"type": "Noun",
+"category": "Nature & Ecology",
+"meaning": "A set of animals or plants in which the members have similar characteristics to each other.",
+"meaning_th": "กลุ่มของสัตว์หรือพืชที่สมาชิกมีลักษณะคล้ายคลึงกัน (สายพันธุ์)",
+"example": "Many species of tropical birds can be found in this rainforest."
+},
+{
+"word": "Habitat",
+"phonetic": "/ˈhæb.ɪ.tæt/",
+"type": "Noun",
+"category": "Nature & Ecology",
+"meaning": "The natural environment in which an animal or plant usually lives.",
+"meaning_th": "สภาพแวดล้อมทางธรรมชาติที่สัตว์หรือพืชชนิดหนึ่งมักอาศัยอยู่ (ถิ่นที่อยู่อาศัย)",
+"example": "Destruction of forests leads to the loss of natural habitat for many animals."
+},
+{
+"word": "Ecosystem",
+"phonetic": "/ˈiː.kəʊˌsɪs.təm/",
+"type": "Noun",
+"category": "Nature & Ecology",
+"meaning": "All the living things in an area and the way they affect each other and the environment.",
+"meaning_th": "สิ่งมีชีวิตทั้งหมดในพื้นที่หนึ่งและวิธีที่พวกมันส่งผลต่อกันและต่อสิ่งแวดล้อม (ระบบนิเวศ)",
+"example": "Coral reefs are some of the most diverse ecosystems on Earth."
+},
+{
+"word": "Atmosphere",
+"phonetic": "/ˈæt.mə.sfɪər/",
+"type": "Noun",
+"category": "Nature & Ecology",
+"meaning": "The mixture of gases around the earth.",
+"meaning_th": "ส่วนผสมของก๊าซรอบโลก (ชั้นบรรยากาศ)",
+"example": "Carbon dioxide levels in the atmosphere are rising steadily."
+},
+{
+"word": "Resource",
+"phonetic": "/rɪˈzɔːs/",
+"type": "Noun",
+"category": "Nature & Ecology",
+"meaning": "Useful or valuable possession or quality of a country, organization, or person.",
+"meaning_th": "ทรัพย์สินหรือคุณสมบัติที่มีประโยชน์หรือมีค่าของประเทศ องค์กร หรือบุคคล (ทรัพยากร)",
+"example": "Water is our most precious natural resource."
+},
+{
+"word": "Renewable",
+"phonetic": "/rɪˈnjuː.ə.bəl/",
+"type": "Adjective",
+"category": "Nature & Ecology",
+"meaning": "Renewable forms of energy can be produced as quickly as they are used.",
+"meaning_th": "พลังงานรูปแบบที่สามารถผลิตขึ้นใหม่ได้เร็วเท่ากับที่ถูกนำไปใช้ (ที่สร้างใหม่ได้/หมุนเวียน)",
+"example": "Solar and wind power are examples of renewable energy."
+},
+{
+"word": "Sustainable",
+"phonetic": "/səˈsteɪ.nə.bəl/",
+"type": "Adjective",
+"category": "Nature & Ecology",
+"meaning": "Able to continue over a period of time without causing damage to the environment.",
+"meaning_th": "สามารถดำเนินต่อไปได้ในช่วงเวลาหนึ่งโดยไม่ก่อให้เกิดความเสียหายต่อสิ่งแวดล้อม (ที่ยั่งยืน)",
+"example": "The company is committed to sustainable development practices."
+},
+{
+"word": "Global Warming",
+"phonetic": "/ˌɡləʊ.bəl ˈwɔː.mɪŋ/",
+"type": "Noun Phrase",
+"category": "Nature & Ecology",
+"meaning": "A gradual increase in world temperatures caused by gases such as carbon dioxide.",
+"meaning_th": "อุณหภูมิโลกที่ค่อยๆ สูงขึ้นซึ่งเกิดจากก๊าซต่างๆ เช่น คาร์บอนไดออกไซด์ (ภาวะโลกร้อน)",
+"example": "Global warming is causing glaciers to melt at an alarming rate."
+},
+{
+"word": "Diversity",
+"phonetic": "/daɪˈvɜː.sə.ti/",
+"type": "Noun",
+"category": "Society & Culture",
+"meaning": "The fact of many different types of things or people being included in something.",
+"meaning_th": "ข้อเท็จจริงที่มีสิ่งต่างๆ หรือผู้คนหลายประเภทถูกรวมอยู่ในบางสิ่ง (ความหลากหลาย)",
+"example": "The school celebrates the cultural diversity of its students."
+},
+{
+"word": "Community",
+"phonetic": "/kəˈmjuː.nə.ti/",
+"type": "Noun",
+"category": "Society & Culture",
+"meaning": "The people living in one particular area or people who are considered as a unit because of their common interests, social group, or nationality.",
+"meaning_th": "ผู้คนที่อาศัยอยู่ในพื้นที่เฉพาะหนึ่ง หรือผู้คนที่ถูกพิจารณาว่าเป็นหน่วยหนึ่งเนื่องจากมีความสนใจ กลุ่มทางสังคม หรือสัญชาติร่วมกัน (ชุมชน)",
+"example": "Our local community organized a clean-up event for the park."
+},
+{
+"word": "Government",
+"phonetic": "/ˈɡʌv.ən.mənt/",
+"type": "Noun",
+"category": "Society & Culture",
+"meaning": "The group of people who officially control a country.",
+"meaning_th": "กลุ่มคนที่ควบคุมประเทศอย่างเป็นทางการ (รัฐบาล)",
+"example": "The government announced new plans to improve public transport."
+},
+{
+"word": "Election",
+"phonetic": "/iˈlek.ʃən/",
+"type": "Noun",
+"category": "Society & Culture",
+"meaning": "A time when people vote in order to choose someone for a political or official job.",
+"meaning_th": "เวลาที่ผู้คนลงคะแนนเสียงเพื่อเลือกใครสักคนมาทำหน้าที่ทางการเมืองหรือตำแหน่งทางการ (การเลือกตั้ง)",
+"example": "The next general election will take place in October."
+},
+{
+"word": "Citizen",
+"phonetic": "/ˈsɪt.ɪ.zən/",
+"type": "Noun",
+"category": "Society & Culture",
+"meaning": "A person who is a member of a particular country and who has rights because of being born there or because of being given rights.",
+"meaning_th": "บุคคลที่เป็นสมาชิกของประเทศใดประเทศหนึ่งและมีสิทธิต่างๆ (พลเมือง)",
+"example": "Every citizen has the right to vote in the election."
+},
+{
+"word": "Law",
+"phonetic": "/lɔː/",
+"type": "Noun",
+"category": "Society & Culture",
+"meaning": "A rule, usually made by a government, that is used to order the way in which a society behaves.",
+"meaning_th": "กฎ ซึ่งมักออกโดยรัฐบาล เพื่อใช้จัดระเบียบพฤติกรรมในสังคม (กฎหมาย)",
+"example": "It is against the law to drive without a valid license."
+},
+{
+"word": "Justice",
+"phonetic": "/ˈdʒʌs.tɪs/",
+"type": "Noun",
+"category": "Society & Culture",
+"meaning": "Fairness in the way people are dealt with.",
+"meaning_th": "ความยุติธรรมในวิธีที่ผู้คนได้รับการปฏิบัติต่อกัน (ความยุติธรรม)",
+"example": "They are fighting for social justice and equality for everyone."
+},
+{
+"word": "Economy",
+"phonetic": "/iˈkɒn.ə.mi/",
+"type": "Noun",
+"category": "Society & Culture",
+"meaning": "The system of trade and industry by which the wealth of a country is made and used.",
+"meaning_th": "ระบบการค้าและอุตสาหกรรมที่สร้างและใช้ความมั่งคั่งของประเทศ (เศรษฐกิจ)",
+"example": "The tourism industry plays a vital role in the national economy."
+},
+{
+"word": "Authority",
+"phonetic": "/ɔːˈθɒr.ə.ti/",
+"type": "Noun",
+"category": "Society & Culture",
+"meaning": "The moral or legal right or ability to control.",
+"meaning_th": "สิทธิทางศีลธรรมหรือกฎหมาย หรือความสามารถในการควบคุม (อำนาจ/เจ้าหน้าที่)",
+"example": "The local authority is responsible for managing the city's waste."
+},
+{
+"word": "Responsibility",
+"phonetic": "/rɪˌspɒn.sɪˈbɪl.ə.ti/",
+"type": "Noun",
+"category": "Society & Culture",
+"meaning": "Something that it is your job or duty to deal with.",
+"meaning_th": "สิ่งที่เป็นหน้าที่หรืองานของคุณที่ต้องจัดการ (ความรับผิดชอบ)",
+"example": "It is your responsibility to ensure the report is finished on time."
+},
+{
+"word": "Tradition",
+"phonetic": "/trəˈdɪʃ.ən/",
+"type": "Noun",
+"category": "Society & Culture",
+"meaning": "A belief, principle, or way of acting that people in a particular society or group have continued to follow for a long time.",
+"meaning_th": "ความเชื่อ หลักการ หรือวิธีปฏิบัติที่คนในสังคมหรือกลุ่มใดกลุ่มหนึ่งทำต่อเนื่องกันมานาน (ประเพณี)",
+"example": "In our family, it is a tradition to have a big dinner on New Year's Eve."
+},
+{
+"word": "Religion",
+"phonetic": "/rɪˈlɪdʒ.ən/",
+"type": "Noun",
+"category": "Society & Culture",
+"meaning": "The belief in and worship of a god or gods, or any such system of belief and worship.",
+"meaning_th": "ความเชื่อและการเคารพบูชาเทพเจ้าหรือระบบความเชื่อดังกล่าว (ศาสนา)",
+"example": "People of all religions are welcome to join the peace march."
+},
+{
+"word": "Human Rights",
+"phonetic": "/ˌhjuː.mən ˈraɪts/",
+"type": "Noun Phrase",
+"category": "Society & Culture",
+"meaning": "The basic rights that it is generally considered all people should have, such as justice and the freedom to say what you think.",
+"meaning_th": "สิทธิขั้นพื้นฐานที่โดยทั่วไปถือว่าทุกคนควรได้รับ (สิทธิมนุษยชน)",
+"example": "The organization works to protect human rights around the world."
+},
+{
+"word": "Politics",
+"phonetic": "/ˈpɒl.ə.tɪks/",
+"type": "Noun",
+"category": "Society & Culture",
+"meaning": "The activities of the government, members of law-making organizations, or people who try to influence the way a country is governed.",
+"meaning_th": "กิจกรรมของรัฐบาล สมาชิกองค์กรนิติบัญญัติ หรือผู้ที่พยายามโน้มน้าววิธีการปกครองประเทศ (การเมือง)",
+"example": "He has always been very interested in international politics."
+},
+{
+"word": "Conflict",
+"phonetic": "/ˈkɒn.flɪkt/",
+"type": "Noun/Verb",
+"category": "Society & Culture",
+"meaning": "An active disagreement between people with opposing opinions or principles.",
+"meaning_th": "ความไม่ลงรอยกันอย่างรุนแรงระหว่างผู้คนที่มีความคิดเห็นหรือหลักการที่ตรงข้ามกัน (ความขัดแย้ง)",
+"example": "The negotiators are trying to find a peaceful solution to the conflict."
+},
+{
+"word": "Impact",
+"phonetic": "/ˈɪm.pækt/",
+"type": "Noun/Verb",
+"category": "Society & Culture",
+"meaning": "A powerful effect that something, especially something new, has on a situation or person.",
+"meaning_th": "ผลกระทบที่รุนแรงของบางสิ่งต่อสถานการณ์หรือบุคคล (ผลกระทบ)",
+"example": "The new law will have a significant impact on small businesses."
+},
+{
+"word": "Opportunity",
+"phonetic": "/ˌɒp.əˈtʃuː.nə.ti/",
+"type": "Noun",
+"category": "Society & Culture",
+"meaning": "An occasion or situation that makes it possible to do something that you want to do or have to do, or the possibility of doing something.",
+"meaning_th": "โอกาสหรือสถานการณ์ที่ทำให้สามารถทำสิ่งที่ต้องการหรือต้องทำได้ (โอกาส)",
+"example": "Studying abroad provides a great opportunity to learn about different cultures."
+},{
+"word": "Artificial",
+"phonetic": "/ˌɑː.tɪˈfɪʃ.əl/",
+"type": "Adjective",
+"category": "Science & Tech",
+"meaning": "Made by people, often as a copy of something natural.",
+"meaning_th": "ที่ทำขึ้นเอง (ไม่ใช่ธรรมชาติ) หรือสังเคราะห์ขึ้น",
+"example": "The stadium uses artificial grass instead of real turf."
+},
+{
+"word": "Chemistry",
+"phonetic": "/ˈkem.ɪ.stri/",
+"type": "Noun",
+"category": "Science & Tech",
+"meaning": "The scientific study of the basic characteristics of substances.",
+"meaning_th": "วิชาเคมี หรือการศึกษาคุณลักษณะของสารต่างๆ",
+"example": "We mixed two substances in the chemistry lab today."
+},
+{
+"word": "Biology",
+"phonetic": "/baɪˈɒl.ə.dʒi/",
+"type": "Noun",
+"category": "Science & Tech",
+"meaning": "The scientific study of living things.",
+"meaning_th": "วิชาชีววิทยา หรือการศึกษาเรื่องสิ่งมีชีวิต",
+"example": "He decided to study biology to learn more about genetics."
+},
+{
+"word": "Innovation",
+"phonetic": "/ˌɪn.əˈveɪ.ʃən/",
+"type": "Noun",
+"category": "Science & Tech",
+"meaning": "A new idea or method, or the use of new ideas and methods.",
+"meaning_th": "นวัตกรรม หรือการสร้างสรรค์สิ่งใหม่ๆ",
+"example": "Technological innovation is key to the company's success."
+},
+{
+"word": "Battery",
+"phonetic": "/ˈbæt.ər.i/",
+"type": "Noun",
+"category": "Science & Tech",
+"meaning": "A device that produces electricity to provide power for radios, cars, etc.",
+"meaning_th": "แบตเตอรี่ หรืออุปกรณ์เก็บไฟฟ้า",
+"example": "My phone is dead; I need to charge the battery."
+},
+{
+"word": "Gravity",
+"phonetic": "/ˈɡræv.ə.ti/",
+"type": "Noun",
+"category": "Science & Tech",
+"meaning": "The force that attracts objects towards each other, especially towards the earth.",
+"meaning_th": "แรงโน้มถ่วง",
+"example": "Everything that goes up must come down because of gravity."
+},
+{
+"word": "Oxygen",
+"phonetic": "/ˈɒk.sɪ.dʒən/",
+"type": "Noun",
+"category": "Science & Tech",
+"meaning": "A chemical element that is a gas with no smell or colour, which most living things need to survive.",
+"meaning_th": "ก๊าซออกซิเจน",
+"example": "Plants produce oxygen during the day."
+},
+{
+"word": "Energy",
+"phonetic": "/ˈen.ə.dʒi/",
+"type": "Noun",
+"category": "Science & Tech",
+"meaning": "The power from things such as electricity or coal that makes machines work.",
+"meaning_th": "พลังงาน",
+"example": "We should use more renewable energy like solar power."
+},
+{
+"word": "Electricity",
+"phonetic": "/ɪˌlekˈtrɪs.ə.ti/",
+"type": "Noun",
+"category": "Science & Tech",
+"meaning": "A form of energy that can be produced in several ways and that provides power to devices.",
+"meaning_th": "ไฟฟ้า",
+"example": "The storm caused a sudden loss of electricity."
+},
+{
+"word": "Machine",
+"phonetic": "/məˈʃiːn/",
+"type": "Noun",
+"category": "Science & Tech",
+"meaning": "A piece of equipment with several moving parts that uses power to do a particular type of work.",
+"meaning_th": "เครื่องจักร",
+"example": "This machine is used to wash clothes automatically."
+},
+{
+"word": "Robot",
+"phonetic": "/ˈrəʊ.bɒt/",
+"type": "Noun",
+"category": "Science & Tech",
+"meaning": "A machine used to perform jobs automatically, which can sometimes look like a human.",
+"meaning_th": "หุ่นยนต์",
+"example": "Many factories now use robots to build cars."
+},
+{
+"word": "Tablet",
+"phonetic": "/ˈtæb.lət/",
+"type": "Noun",
+"category": "Science & Tech",
+"meaning": "A small, flat computer that is controlled by touching the screen.",
+"meaning_th": "แท็บเล็ต หรือคอมพิวเตอร์พกพาหน้าจอสัมผัส",
+"example": "She uses a tablet to draw digital illustrations."
+},
+{
+"word": "Signal",
+"phonetic": "/ˈsɪɡ.nəl/",
+"type": "Noun",
+"category": "Science & Tech",
+"meaning": "A series of electrical or radio waves that carry information to a radio, television, or phone.",
+"meaning_th": "สัญญาณ",
+"example": "The phone signal is very weak inside this tunnel."
+},
+{
+"word": "Data",
+"phonetic": "/ˈdeɪ.tə/",
+"type": "Noun",
+"category": "Science & Tech",
+"meaning": "Information, especially facts or numbers, collected to be examined and considered.",
+"meaning_th": "ข้อมูล",
+"example": "The researchers are still analyzing the data from the experiment."
+},
+{
+"word": "Monitor",
+"phonetic": "/ˈmɒn.ɪ.tər/",
+"type": "Noun",
+"category": "Science & Tech",
+"meaning": "A computer screen or a device used to observe something.",
+"meaning_th": "จอภาพ หรือเครื่องเฝ้าสังเกตการณ์",
+"example": "He has a dual monitor setup for his workstation."
+},
+{
+"word": "Kitchenware",
+"phonetic": "/ˈkɪtʃ.ən.weər/",
+"type": "Noun",
+"category": "Home & Living",
+"meaning": "Plates, bowls, knives, etc. used in the kitchen.",
+"meaning_th": "เครื่องครัว",
+"example": "We need to buy some new kitchenware for our apartment."
+},
+{
+"word": "Appliances",
+"phonetic": "/əˈplaɪ.əns/",
+"type": "Noun",
+"category": "Home & Living",
+"meaning": "Devices or machines in your home used to do a particular job such as cleaning or cooking.",
+"meaning_th": "เครื่องใช้ไฟฟ้าภายในบ้าน",
+"example": "The shop sells domestic appliances like washing machines and fridges."
+},
+{
+"word": "Vacuum cleaner",
+"phonetic": "/ˈvæk.juːm ˌkliː.nər/",
+"type": "Noun",
+"category": "Home & Living",
+"meaning": "A machine that cleans floors by sucking up dust and dirt.",
+"meaning_th": "เครื่องดูดฝุ่น",
+"example": "She used the vacuum cleaner to clean the living room rug."
+},
+{
+"word": "Microwave",
+"phonetic": "/ˈmaɪ.krə.weɪv/",
+"type": "Noun",
+"category": "Home & Living",
+"meaning": "An electric oven that uses waves of energy to cook or heat food quickly.",
+"meaning_th": "ไมโครเวฟ หรือเตาอบไมโครเวฟ",
+"example": "I'll heat up the leftovers in the microwave."
+},
+{
+"word": "Freezer",
+"phonetic": "/ˈfriː.zər/",
+"type": "Noun",
+"category": "Home & Living",
+"meaning": "A container that is kept at a very low temperature in order to keep food frozen.",
+"meaning_th": "ตู้แช่แข็ง",
+"example": "We keep some ice cream in the freezer."
+},
+{
+"word": "Toaster",
+"phonetic": "/ˈtəʊ.stər/",
+"type": "Noun",
+"category": "Home & Living",
+"meaning": "An electric device for making toast.",
+"meaning_th": "เครื่องปิ้งขนมปัง",
+"example": "The bread popped up from the toaster when it was ready."
+},
+{
+"word": "Kettle",
+"phonetic": "/ˈket.əl/",
+"type": "Noun",
+"category": "Home & Living",
+"meaning": "A container for boiling water.",
+"meaning_th": "กาต้มน้ำ",
+"example": "I'll put the kettle on and make some tea."
+},
+{
+"word": "Sink",
+"phonetic": "/sɪŋk/",
+"type": "Noun",
+"category": "Home & Living",
+"meaning": "A large open container in a kitchen that has taps to supply water and is used for washing dishes.",
+"meaning_th": "อ่างล้างจาน",
+"example": "The sink was full of dirty dishes."
+},
+{
+"word": "Stove",
+"phonetic": "/stəʊv/",
+"type": "Noun",
+"category": "Home & Living",
+"meaning": "A piece of equipment that burns fuel or uses electricity to heat food.",
+"meaning_th": "เตาไฟ (สำหรับปรุงอาหาร)",
+"example": "She left the pot of soup on the stove."
+},
+{
+"word": "Basement",
+"phonetic": "/ˈbeɪs.mənt/",
+"type": "Noun",
+"category": "Home & Living",
+"meaning": "A part of a building that is below the level of the ground.",
+"meaning_th": "ห้องใต้ดิน",
+"example": "They store all their old furniture in the basement."
+},
+{
+"word": "Attic",
+"phonetic": "/ˈæt.ɪk/",
+"type": "Noun",
+"category": "Home & Living",
+"meaning": "The space or room at the top of a house, under the roof.",
+"meaning_th": "ห้องใต้หลังคา",
+"example": "He found some old photographs in the attic."
+},
+{
+"word": "Curtain",
+"phonetic": "/ˈkɜː.tən/",
+"type": "Noun",
+"category": "Home & Living",
+"meaning": "A piece of material that hangs across a window or opening.",
+"meaning_th": "ผ้าม่าน",
+"example": "Please close the curtains; it's getting dark outside."
+},
+{
+"word": "Wardrobe",
+"phonetic": "/ˈwɔː.drəʊb/",
+"type": "Noun",
+"category": "Home & Living",
+"meaning": "A large, tall cupboard in which clothes may be hung or stored.",
+"meaning_th": "ตู้เสื้อผ้า",
+"example": "He hung his suit in the wardrobe."
+},
+{
+"word": "Drawer",
+"phonetic": "/drɔːr/",
+"type": "Noun",
+"category": "Home & Living",
+"meaning": "A box-shaped container without a top, which is part of a piece of furniture and can be pulled out.",
+"meaning_th": "ลิ้นชัก",
+"example": "She kept her keys in the top drawer of her desk."
+},
+{
+"word": "Mirror",
+"phonetic": "/ˈmɪr.ər/",
+"type": "Noun",
+"category": "Home & Living",
+"meaning": "A piece of glass with a shiny metallic material on one side which produces an image of anything that is in front of it.",
+"meaning_th": "กระจกเงา",
+"example": "He looked at himself in the mirror before leaving."
+},{
+"word": "Nutrition",
+"phonetic": "/njuːˈtrɪʃ.ən/",
+"type": "Noun",
+"category": "Health & Wellness",
+"meaning": "The process by which the body takes in and uses food.",
+"meaning_th": "โภชนาการ หรือการได้รับสารอาหารที่จำเป็นต่อร่างกาย",
+"example": "Good nutrition is essential for growing children."
+},
+{
+"word": "Protein",
+"phonetic": "/ˈprəʊ.tiːn/",
+"type": "Noun",
+"category": "Health & Wellness",
+"meaning": "A substance found in food such as meat, cheese, fish, or beans, that is necessary for the body to grow and be strong.",
+"meaning_th": "โปรตีน",
+"example": "Bodybuilders eat a lot of protein to build muscle."
+},
+{
+"word": "Vitamin",
+"phonetic": "/ˈvɪt.ə.mɪn/",
+"type": "Noun",
+"category": "Health & Wellness",
+"meaning": "Any of a group of natural substances that are necessary in small amounts for the growth and good health of the body.",
+"meaning_th": "วิตามิน",
+"example": "Oranges are a great source of Vitamin C."
+},
+{
+"word": "Mineral",
+"phonetic": "/ˈmɪn.ər.əl/",
+"type": "Noun",
+"category": "Health & Wellness",
+"meaning": "A valuable or useful chemical substance which is formed naturally in the ground.",
+"meaning_th": "แร่ธาตุ",
+"example": "Calcium is an important mineral for strong teeth and bones."
+},
+{
+"word": "Fiber",
+"phonetic": "/ˈfaɪ.bər/",
+"type": "Noun",
+"category": "Health & Wellness",
+"meaning": "A substance in foods such as fruit, vegetables, and brown bread, which travels through the body as waste and helps the contents of the bowels to move through it easily.",
+"meaning_th": "กากใยอาหาร",
+"example": "A diet high in fiber can help prevent heart disease."
+},
+{
+"word": "Cholesterol",
+"phonetic": "/kəˈles.tər.ɒl/",
+"type": "Noun",
+"category": "Health & Wellness",
+"meaning": "A substance containing a lot of fat that is found in the body tissue and blood of all animals.",
+"meaning_th": "คอเลสเตอรอล",
+"example": "Too much cholesterol in the blood can lead to heart problems."
+},
+{
+"word": "Immune",
+"phonetic": "/ɪˈmjuːn/",
+"type": "Adjective",
+"category": "Health & Wellness",
+"meaning": "Protected against a particular disease by particular substances in the blood.",
+"meaning_th": "เกี่ยวกับภูมิคุ้มกัน หรือมีภูมิคุ้มกันต่อโรค",
+"example": "The vaccine helps the body become immune to the virus."
+},
+{
+"word": "Infection",
+"phonetic": "/ɪnˈfek.ʃən/",
+"type": "Noun",
+"category": "Health & Wellness",
+"meaning": "A condition in which bacteria or viruses that cause disease have entered the body.",
+"meaning_th": "การติดเชื้อ",
+"example": "She had to take antibiotics to treat her ear infection."
+},
+{
+"word": "Therapy",
+"phonetic": "/ˈθer.ə.pi/",
+"type": "Noun",
+"category": "Health & Wellness",
+"meaning": "A treatment that helps someone feel better or grow stronger after an illness.",
+"meaning_th": "การบำบัดรักษา",
+"example": "He's undergoing physical therapy after his knee surgery."
+},
+{
+"word": "Metabolism",
+"phonetic": "/məˈtæb.əl.ɪ.zəm/",
+"type": "Noun",
+"category": "Health & Wellness",
+"meaning": "All the chemical processes in your body, especially those that cause food to be used for energy and growth.",
+"meaning_th": "ระบบเผาผลาญในร่างกาย",
+"example": "Exercise can help increase your metabolism."
+},
+{
+"word": "Ingredient",
+"phonetic": "/ɪnˈɡriː.di.ənt/",
+"type": "Noun",
+"category": "Cooking & Food",
+"meaning": "One of the parts of a mixture, especially in cooking.",
+"meaning_th": "ส่วนผสม หรือวัตถุดิบ",
+"example": "The secret ingredient in her cake is a pinch of cinnamon."
+},
+{
+"word": "Recipe",
+"phonetic": "/ˈres.ɪ.pi/",
+"type": "Noun",
+"category": "Cooking & Food",
+"meaning": "A set of instructions telling you how to prepare and cook food.",
+"meaning_th": "สูตรอาหาร",
+"example": "I'm following a new recipe for chocolate cookies."
+},
+{
+"word": "Flavor",
+"phonetic": "/ˈfleɪ.vər/",
+"type": "Noun",
+"category": "Cooking & Food",
+"meaning": "The particular way a food or drink tastes.",
+"meaning_th": "รสชาติ",
+"example": "This soup has a very rich and spicy flavor."
+},
+{
+"word": "Seasoning",
+"phonetic": "/ˈsiː.zən.ɪŋ/",
+"type": "Noun",
+"category": "Cooking & Food",
+"meaning": "Substances such as salt and spices that are used to give food a particular flavor.",
+"meaning_th": "เครื่องปรุงรส",
+"example": "Check the seasoning before you serve the dish."
+},
+{
+"word": "Garnish",
+"phonetic": "/ˈɡɑː.nɪʃ/",
+"type": "Noun/Verb",
+"category": "Cooking & Food",
+"meaning": "A small amount of different food used to decorate a dish that is being served.",
+"meaning_th": "การตกแต่งอาหาร หรือเครื่องที่ใช้ตกแต่งอาหาร",
+"example": "Garnish the salmon with a slice of lemon and some parsley."
+},
+{
+"word": "Simmer",
+"phonetic": "/ˈsɪm.ər/",
+"type": "Verb",
+"category": "Cooking & Food",
+"meaning": "To cook something liquid, or something with liquid in it, at a temperature slightly below boiling.",
+"meaning_th": "เคี่ยว หรือต้มด้วยไฟอ่อน",
+"example": "Let the sauce simmer for 20 minutes to thicken it."
+},
+{
+"word": "Marinate",
+"phonetic": "/ˈmær.ɪ.neɪt/",
+"type": "Verb",
+"category": "Cooking & Food",
+"meaning": "To soak fish, meat, or vegetables in a mixture of oil, wine, herbs, and spices before cooking.",
+"meaning_th": "หมักอาหาร",
+"example": "Marinate the chicken in yogurt and spices for at least two hours."
+},
+{
+"word": "Texture",
+"phonetic": "/ˈteks.tʃər/",
+"type": "Noun",
+"category": "Cooking & Food",
+"meaning": "The way that something feels when you touch it or eat it.",
+"meaning_th": "เนื้อสัมผัส",
+"example": "The cake had a light and fluffy texture."
+},
+{
+"word": "Utensil",
+"phonetic": "/juːˈten.sɪl/",
+"type": "Noun",
+"category": "Cooking & Food",
+"meaning": "A tool with a particular use, especially in a kitchen or house.",
+"meaning_th": "เครื่องใช้ หรืออุปกรณ์ (โดยเฉพาะในครัว)",
+"example": "Wooden utensils are better for non-stick pans."
+},
+{
+"word": "Organic",
+"phonetic": "/ɔːˈɡæn.ɪk/",
+"type": "Adjective",
+"category": "Cooking & Food",
+"meaning": "Not using artificial chemicals in the growing of plants and animals for food.",
+"meaning_th": "เกษตรอินทรีย์ หรือที่มาจากธรรมชาติโดยไม่ใช้สารเคมี",
+"example": "We try to buy organic vegetables whenever possible."
+},
+{
+"word": "Economy",
+"phonetic": "/iˈkɒn.ə.mi/",
+"type": "Noun",
+"category": "Finance & Economics",
+"meaning": "The system of trade and industry by which the wealth of a country is made and used.",
+"meaning_th": "เศรษฐกิจ",
+"example": "The country's economy is showing signs of recovery."
+},
+{
+"word": "Inflation",
+"phonetic": "/ɪnˈfleɪ.ʃən/",
+"type": "Noun",
+"category": "Finance & Economics",
+"meaning": "A general, continuous increase in prices.",
+"meaning_th": "เงินเฟ้อ",
+"example": "High inflation can reduce the purchasing power of consumers."
+},
+{
+"word": "Currency",
+"phonetic": "/ˈkʌr.ən.si/",
+"type": "Noun",
+"category": "Finance & Economics",
+"meaning": "The money that is used in a particular country at a particular time.",
+"meaning_th": "เงินตรา หรือสกุลเงิน",
+"example": "What is the local currency in Switzerland?"
+},
+{
+"word": "Asset",
+"phonetic": "/ˈæs.et/",
+"type": "Noun",
+"category": "Finance & Economics",
+"meaning": "Something valuable belonging to a person or organization that can be used for the payment of debts.",
+"meaning_th": "สินทรัพย์",
+"example": "The company has over $1 million in fixed assets."
+},
+{
+"word": "Liability",
+"phonetic": "/ˌlaɪ.əˈbɪl.ə.ti/",
+"type": "Noun",
+"category": "Finance & Economics",
+"meaning": "The fact that someone is legally responsible for something, or an amount of money that a person or company owes.",
+"meaning_th": "หนี้สิน หรือความรับผิดชอบตามกฎหมาย",
+"example": "The business has more liabilities than assets."
+},
+{
+"word": "Budget",
+"phonetic": "/ˈbʌdʒ.ɪt/",
+"type": "Noun/Verb",
+"category": "Finance & Economics",
+"meaning": "A plan to show how much money a person or organization will earn and how much they will need or be able to spend.",
+"meaning_th": "งบประมาณ",
+"example": "We need to stick to our budget this month."
+},
+{
+"word": "Wealth",
+"phonetic": "/welθ/",
+"type": "Noun",
+"category": "Finance & Economics",
+"meaning": "A large amount of money or valuable possessions that someone has.",
+"meaning_th": "ความมั่งคั่ง",
+"example": "The gap between wealth and poverty is widening in many countries."
+},
+{
+"word": "Expense",
+"phonetic": "/ɪkˈspens/",
+"type": "Noun",
+"category": "Finance & Economics",
+"meaning": "The use of money, time, or effort.",
+"meaning_th": "ค่าใช้จ่าย",
+"example": "Travel expenses will be reimbursed by the company."
+},
+{
+"word": "Portfolio",
+"phonetic": "/ˌpɔːtˈfəʊ.li.əʊ/",
+"type": "Noun",
+"category": "Finance & Economics",
+"meaning": "A collection of company shares and other investments that are owned by a particular person or organization.",
+"meaning_th": "พอร์ตการลงทุน หรือชุดของผลงาน",
+"example": "A diversified portfolio can help reduce investment risk."
+},
+{
+"word": "Transaction",
+"phonetic": "/trænˈzæk.ʃən/",
+"type": "Noun",
+"category": "Finance & Economics",
+"meaning": "An occasion when money is exchanged or the activity of buying or selling something.",
+"meaning_th": "ธุรกรรม หรือการซื้อขาย",
+"example": "The online transaction was completed successfully."
+},{
+"word": "Strategy",
+"phonetic": "/ˈstræt.ə.dʒi/",
+"type": "Noun",
+"category": "Management",
+"meaning": "A detailed plan for achieving success in situations such as business, politics, or war.",
+"meaning_th": "กลยุทธ์",
+"example": "The company needs a new marketing strategy to reach younger customers."
+},
+{
+"word": "Authority",
+"phonetic": "/ɔːˈθɒr.ə.ti/",
+"type": "Noun",
+"category": "Management",
+"meaning": "The moral or legal right or ability to control.",
+"meaning_th": "อำนาจ หรือผู้มีอำนาจ",
+"example": "She has the authority to sign these official documents."
+},
+{
+"word": "Negotiate",
+"phonetic": "/nəˈɡəʊ.ʃi.eɪt/",
+"type": "Verb",
+"category": "Management",
+"meaning": "To have formal discussions with someone in order to reach an agreement.",
+"meaning_th": "เจรจาต่อรอง",
+"example": "I'm trying to negotiate a better deal for our new office lease."
+},
+{
+"word": "Logistics",
+"phonetic": "/ləˈdʒɪs.tɪks/",
+"type": "Noun",
+"category": "Management",
+"meaning": "The careful organization of a complicated military or business activity.",
+"meaning_th": "โลจิสติกส์ หรือการบริหารจัดการการขนส่ง",
+"example": "Efficient logistics are crucial for an e-commerce business."
+},
+{
+"word": "Delegate",
+"phonetic": "/ˈdel.ɪ.ɡeɪt/",
+"type": "Verb",
+"category": "Management",
+"meaning": "To give a particular job, duty, or right to someone else so that they do it for you.",
+"meaning_th": "มอบหมายงาน",
+"example": "A good manager knows how to delegate tasks to the team."
+},
+{
+"word": "Exhibition",
+"phonetic": "/ˌek.sɪˈbɪʃ.ən/",
+"type": "Noun",
+"category": "Art & Entertainment",
+"meaning": "A collection of things (goods or works of art) for public display.",
+"meaning_th": "นิทรรศการ",
+"example": "The museum is hosting a new exhibition of modern photography."
+},
+{
+"word": "Sculpture",
+"phonetic": "/ˈskʌlp.tʃər/",
+"type": "Noun",
+"category": "Art & Entertainment",
+"meaning": "The art of forming solid objects that represent a thing, person, or idea out of a material such as wood, clay, or metal.",
+"meaning_th": "ประติมากรรม",
+"example": "There is a massive bronze sculpture in the town square."
+},
+{
+"word": "Masterpiece",
+"phonetic": "/ˈmɑː.stə.piːs/",
+"type": "Noun",
+"category": "Art & Entertainment",
+"meaning": "A work of art such as a painting, movie, or book that is made with great skill.",
+"meaning_th": "ผลงานชิ้นเอก",
+"example": "The artist's latest painting is considered a true masterpiece."
+},
+{
+"word": "Symphony",
+"phonetic": "/ˈsɪm.fə.ni/",
+"type": "Noun",
+"category": "Art & Entertainment",
+"meaning": "A long piece of music for an orchestra to play of usually three or four parts.",
+"meaning_th": "ซิมโฟนี หรือบทเพลงสำหรับวงออร์เคสตรา",
+"example": "Beethoven's Ninth Symphony is one of the most famous pieces of music."
+},
+{
+"word": "Review",
+"phonetic": "/rɪˈvjuː/",
+"type": "Noun/Verb",
+"category": "Art & Entertainment",
+"meaning": "A report that gives someone's opinion about the quality of a book, movie, or performance.",
+"meaning_th": "บทวิจารณ์ หรือการรีวิว",
+"example": "The movie received positive reviews from all the major critics."
+},
+{
+"word": "Climate",
+"phonetic": "/ˈklaɪ.mət/",
+"type": "Noun",
+"category": "Environment",
+"meaning": "The general weather conditions usually found in a particular place.",
+"meaning_th": "ภูมิอากาศ",
+"example": "Thailand has a tropical climate with high humidity."
+},
+{
+"word": "Atmosphere",
+"phonetic": "/ˈæt.mə.sfɪər/",
+"type": "Noun",
+"category": "Environment",
+"meaning": "The mixture of gases around the earth.",
+"meaning_th": "ชั้นบรรยากาศ",
+"example": "The earth's atmosphere protects us from harmful solar radiation."
+},
+{
+"word": "Sustainable",
+"phonetic": "/səˈsteɪ.nə.bəl/",
+"type": "Adjective",
+"category": "Environment",
+"meaning": "Able to continue over a period of time without causing damage to the environment.",
+"meaning_th": "ที่ยั่งยืน",
+"example": "Sustainable farming practices are essential for long-term food security."
+},
+{
+"word": "Recycle",
+"phonetic": "/ˌriːˈsaɪ.kəl/",
+"type": "Verb",
+"category": "Environment",
+"meaning": "To sort and collect waste so that it can be treated and used again.",
+"meaning_th": "รีไซเคิล หรือการนำกลับมาใช้ใหม่",
+"example": "Please recycle your plastic bottles and paper waste."
+},
+{
+"word": "Pollution",
+"phonetic": "/pəˈluː.ʃən/",
+"type": "Noun",
+"category": "Environment",
+"meaning": "Damage caused to water, air, etc. by harmful substances or waste.",
+"meaning_th": "มลพิษ",
+"example": "The local government is trying to reduce water pollution in the river."
+},
+{
+"word": "Journalism",
+"phonetic": "/ˈdʒɜː.nə.lɪ.zəm/",
+"type": "Noun",
+"category": "Media",
+"meaning": "The work of collecting, writing, and publishing news stories and articles.",
+"meaning_th": "วารสารศาสตร์ หรือการทำข่าว",
+"example": "She decided to pursue a career in investigative journalism."
+},
+{
+"word": "Broadcast",
+"phonetic": "/ˈbrɔːd.kɑːst/",
+"type": "Verb/Noun",
+"category": "Media",
+"meaning": "To send out a programme on television or radio.",
+"meaning_th": "ออกอากาศ",
+"example": "The news is broadcast live every evening at 6 PM."
+},
+{
+"word": "Editorial",
+"phonetic": "/ˌed.ɪˈtɔː.ri.əl/",
+"type": "Noun/Adjective",
+"category": "Media",
+"meaning": "An article in a newspaper that expresses the editor's opinion.",
+"meaning_th": "บทบรรณาธิการ",
+"example": "The newspaper published a strong editorial against the new law."
+},
+{
+"word": "Headline",
+"phonetic": "/ˈhed.laɪn/",
+"type": "Noun",
+"category": "Media",
+"meaning": "A line of words printed in large letters as the title of a story in a newspaper.",
+"meaning_th": "พาดหัวข่าว",
+"example": "The morning headlines were dominated by the economic crisis."
+},
+{
+"word": "Audience",
+"phonetic": "/ˈɔː.di.əns/",
+"type": "Noun",
+"category": "Media",
+"meaning": "The group of people who listen to or watch a particular program or performance.",
+"meaning_th": "ผู้ชม หรือผู้ฟัง",
+"example": "The show attracted a massive television audience."
+},
+{
+"word": "Surgery",
+"phonetic": "/ˈsɜː.dʒər.i/",
+"type": "Noun",
+"category": "Medical",
+"meaning": "Medical treatment in which a doctor cuts into someone's body in order to repair or remove something.",
+"meaning_th": "การศัลยกรรม หรือการผ่าตัด",
+"example": "He had to undergo emergency surgery after the car accident."
+},
+{
+"word": "Diagnosis",
+"phonetic": "/ˌdaɪ.əɡˈnəʊ.sɪs/",
+"type": "Noun",
+"category": "Medical",
+"meaning": "A judgment about what a particular illness or problem is, made after examining it.",
+"meaning_th": "การวินิจฉัยโรค",
+"example": "The doctor's diagnosis was confirmed by a blood test."
+},
+{
+"word": "Symptom",
+"phonetic": "/ˈsɪmp.təm/",
+"type": "Noun",
+"category": "Medical",
+"meaning": "Any feeling of illness or physical or mental change which is caused by a particular disease.",
+"meaning_th": "อาการ",
+"example": "Common symptoms of the flu include fever and a headache."
+},
+{
+"word": "Prescription",
+"phonetic": "/prɪˈskrɪp.ʃən/",
+"type": "Noun",
+"category": "Medical",
+"meaning": "A piece of paper on which a doctor writes the details of the medicine that someone needs.",
+"meaning_th": "ใบสั่งยา",
+"example": "You need a prescription from a doctor to buy these antibiotics."
+},
+{
+"word": "Therapy",
+"phonetic": "/ˈθer.ə.pi/",
+"type": "Noun",
+"category": "Medical",
+"meaning": "A treatment that helps someone feel better or grow stronger after an illness.",
+"meaning_th": "การบำบัด",
+"example": "Speech therapy can help children with communication difficulties."
+},
+{
+"word": "Justice",
+"phonetic": "/ˈdʒʌs.tɪs/",
+"type": "Noun",
+"category": "Law & Society",
+"meaning": "Fairness in the way people are dealt with.",
+"meaning_th": "ความยุติธรรม",
+"example": "The victims are still seeking justice for the crimes committed against them."
+},
+{
+"word": "Constitution",
+"phonetic": "/ˌkɒn.stɪˈtʃuː.ʃən/",
+"type": "Noun",
+"category": "Law & Society",
+"meaning": "The set of political principles by which a state or organization is governed.",
+"meaning_th": "รัฐธรรมนูญ",
+"example": "Freedom of speech is guaranteed by the country's constitution."
+},
+{
+"word": "Regulation",
+"phonetic": "/ˌreɡ.jəˈleɪ.ʃən/",
+"type": "Noun",
+"category": "Law & Society",
+"meaning": "An official rule or the act of controlling something.",
+"meaning_th": "กฎข้อบังคับ",
+"example": "New safety regulations have been introduced for all construction sites."
+},
+{
+"word": "Advocate",
+"phonetic": "/ˈæd.və.keɪt/",
+"type": "Noun/Verb",
+"category": "Law & Society",
+"meaning": "A person who publicly supports or recommends a particular cause or policy.",
+"meaning_th": "ผู้สนับสนุน หรือทนายความ",
+"example": "She is a passionate advocate for children's rights."
+},
+{
+"word": "Democracy",
+"phonetic": "/dɪˈmɒk.rə.si/",
+"type": "Noun",
+"category": "Law & Society",
+"meaning": "A system of government by the whole population or all the eligible members of a state.",
+"meaning_th": "ประชาธิปไตย",
+"example": "Active citizen participation is essential for a healthy democracy."
+},{
+"word": "Personality",
+"phonetic": "/ˌpɜː.sənˈæl.ə.ti/",
+"type": "Noun",
+"category": "Psychology",
+"meaning": "The type of person you are, shown by the way you behave, feel, and think.",
+"meaning_th": "ประเภทของบุคคลที่คุณเป็น ซึ่งแสดงออกโดยวิธีที่คุณปฏิบัติตน ความรู้สึก และความคิด",
+"example": "She has a very warm and outgoing personality."
+},
+{
+"word": "Ambition",
+"phonetic": "/æmˈbɪʃ.ən/",
+"type": "Noun",
+"category": "Psychology",
+"meaning": "A strong wish to achieve something.",
+"meaning_th": "ความปรารถนาอันแรงกล้าที่จะบรรลุบางสิ่งบางอย่าง",
+"example": "His ambition is to become a world-class chef."
+},
+{
+"word": "Anxiety",
+"phonetic": "/æŋˈzaɪ.ə.ti/",
+"type": "Noun",
+"category": "Psychology",
+"meaning": "An uncomfortable feeling of nervousness or worry about something that is happening or might happen in the future.",
+"meaning_th": "ความรู้สึกไม่สบายใจจากความประหม่าหรือความกังวลเกี่ยวกับบางสิ่งที่กำลังเกิดขึ้นหรืออาจเกิดขึ้นในอนาคต",
+"example": "Job interviews always cause her a lot of anxiety."
+},
+{
+"word": "Confidence",
+"phonetic": "/ˈkɒn.fɪ.dəns/",
+"type": "Noun",
+"category": "Psychology",
+"meaning": "The quality of being certain of your abilities or having trust in people, plans, or the future.",
+"meaning_th": "คุณลักษณะของความมั่นใจในความสามารถของคุณ หรือการมีความไว้วางใจในผู้คน แผนการ หรืออนาคต",
+"example": "She answered the questions with great confidence."
+},
+{
+"word": "Empathy",
+"phonetic": "/ˈem.pə.θi/",
+"type": "Noun",
+"category": "Psychology",
+"meaning": "The ability to share someone else's feelings or experiences by imagining what it would be like to be in that person's situation.",
+"meaning_th": "ความสามารถในการแบ่งปันความรู้สึกหรือประสบการณ์ของผู้อื่นโดยการจินตนาการว่าจะเป็นอย่างไรหากอยู่ในสถานการณ์ของบุคคลนั้น",
+"example": "He loves animals and has a lot of empathy for them."
+},
+{
+"word": "Intuition",
+"phonetic": "/ˌɪn.tʃuˈɪʃ.ən/",
+"type": "Noun",
+"category": "Psychology",
+"meaning": "An ability to understand or know something immediately based on your feelings rather than on facts.",
+"meaning_th": "ความสามารถในการเข้าใจหรือรู้บางสิ่งได้ทันทีโดยอาศัยความรู้สึกของคุณมากกว่าข้อเท็จจริง",
+"example": "I had an intuition that something was wrong."
+},
+{
+"word": "Motivation",
+"phonetic": "/ˌməʊ.tɪˈveɪ.ʃən/",
+"type": "Noun",
+"category": "Psychology",
+"meaning": "The need or reason for doing something.",
+"meaning_th": "ความต้องการหรือเหตุผลในการทำบางสิ่งบางอย่าง",
+"example": "He lacks the motivation to study for his exams."
+},
+{
+"word": "Perception",
+"phonetic": "/pəˈsep.ʃən/",
+"type": "Noun",
+"category": "Psychology",
+"meaning": "A belief or opinion, often held by many people and based on how things seem.",
+"meaning_th": "ความเชื่อหรือความคิดเห็น ซึ่งมักถือโดยคนจำนวนมากและขึ้นอยู่กับว่าสิ่งต่างๆ ดูเป็นอย่างไร",
+"example": "The public's perception of the government is changing."
+},
+{
+"word": "Resilience",
+"phonetic": "/rɪˈzɪl.i.əns/",
+"type": "Noun",
+"category": "Psychology",
+"meaning": "The ability to be happy, successful, etc. again after something difficult or bad has happened.",
+"meaning_th": "ความสามารถในการกลับมามีความสุข ประสบความสำเร็จ ฯลฯ ได้อีกครั้งหลังจากที่มีสิ่งยากลำบากหรือเลวร้ายเกิดขึ้น",
+"example": "The survivors showed amazing resilience after the disaster."
+},
+{
+"word": "Temperament",
+"phonetic": "/ˈtem.pər.ə.mənt/",
+"type": "Noun",
+"category": "Psychology",
+"meaning": "The part of your character that affects your moods and the way you behave.",
+"meaning_th": "ส่วนหนึ่งของลักษณะนิสัยของคุณที่ส่งผลต่ออารมณ์และวิธีที่คุณปฏิบัติตน",
+"example": "The twins have very different temperaments."
+},
+{
+"word": "Galaxy",
+"phonetic": "/ˈɡæl.ək.si/",
+"type": "Noun",
+"category": "Space & Astronomy",
+"meaning": "One of the independent groups of stars in the universe.",
+"meaning_th": "หนึ่งในกลุ่มดาวอิสระในจักรวาล",
+"example": "Our solar system is located in the Milky Way galaxy."
+},
+{
+"word": "Orbit",
+"phonetic": "/ˈɔː.bɪt/",
+"type": "Noun/Verb",
+"category": "Space & Astronomy",
+"meaning": "The curved path through which objects in space move around a planet or star.",
+"meaning_th": "เส้นทางโค้งที่วัตถุในอวกาศเคลื่อนที่รอบดาวเคราะห์หรือดาวฤกษ์",
+"example": "The moon is in orbit around the earth."
+},
+{
+"word": "Planet",
+"phonetic": "/ˈplæn.ɪt/",
+"type": "Noun",
+"category": "Space & Astronomy",
+"meaning": "An extremely large, round mass of rock and metal, or of gas, that moves in a circular path around the sun or another star.",
+"meaning_th": "มวลหินและโลหะ หรือมวลก๊าซที่มีขนาดใหญ่และกลมมาก ซึ่งเคลื่อนที่ในเส้นทางวงกลมรอบดวงอาทิตย์หรือดาวฤกษ์ดวงอื่น",
+"example": "Mars is known as the Red Planet."
+},
+{
+"word": "Satellite",
+"phonetic": "/ˈsæt.əl.aɪt/",
+"type": "Noun",
+"category": "Space & Astronomy",
+"meaning": "A device sent up into space to travel around the earth, used for collecting information or communicating by radio, television, etc.",
+"meaning_th": "อุปกรณ์ที่ถูกส่งขึ้นไปในอวกาศเพื่อเดินทางรอบโลก ใช้สำหรับรวบรวมข้อมูลหรือสื่อสารทางวิทยุ โทรทัศน์ ฯลฯ",
+"example": "The weather forecast is based on data from satellites."
+},
+{
+"word": "Telescope",
+"phonetic": "/ˈtel.ɪ.skəʊp/",
+"type": "Noun",
+"category": "Space & Astronomy",
+"meaning": "A cylinder-shaped device for making objects that are far away look nearer and larger.",
+"meaning_th": "อุปกรณ์รูปทรงกระบอกสำหรับทำให้วัตถุที่อยู่ไกลออกไปดูใกล้ขึ้นและใหญ่ขึ้น",
+"example": "She looked at the stars through her telescope."
+},
+{
+"word": "Universe",
+"phonetic": "/ˈjuː.nɪ.vɜːs/",
+"type": "Noun",
+"category": "Space & Astronomy",
+"meaning": "Everything that exists, especially all physical matter, including all the stars, planets, galaxies, etc. in space.",
+"meaning_th": "ทุกสิ่งที่มีอยู่ โดยเฉพาะสสารทางกายภาพทั้งหมด รวมถึงดวงดาว ดาวเคราะห์ กาแล็กซี ฯลฯ ทั้งหมดในอวกาศ",
+"example": "Scientists are trying to understand how the universe began."
+},
+{
+"word": "Astronaut",
+"phonetic": "/ˈæs.trə.nɔːt/",
+"type": "Noun",
+"category": "Space & Astronomy",
+"meaning": "A person who has been trained to travel in a spacecraft.",
+"meaning_th": "บุคคลที่ได้รับการฝึกฝนให้เดินทางในยานอวกาศ",
+"example": "He dreamed of becoming an astronaut when he was a child."
+},
+{
+"word": "Comet",
+"phonetic": "/ˈkɒm.ɪt/",
+"type": "Noun",
+"category": "Space & Astronomy",
+"meaning": "An object in space that leaves a bright line of gas and dust behind it as it moves around the sun.",
+"meaning_th": "วัตถุในอวกาศที่ทิ้งเส้นก๊าซและฝุ่นที่สว่างไสวไว้ข้างหลังขณะเคลื่อนที่รอบดวงอาทิตย์",
+"example": "Halley's Comet is visible from Earth every 75 to 76 years."
+},
+{
+"word": "Meteor",
+"phonetic": "/ˈmiː.ti.ɔːr/",
+"type": "Noun",
+"category": "Space & Astronomy",
+"meaning": "A piece of rock or other matter from space that produces a bright light as it travels through the earth's atmosphere.",
+"meaning_th": "ชิ้นส่วนของหินหรือสสารอื่นจากอวกาศที่สร้างแสงสว่างจ้าขณะเดินทางผ่านชั้นบรรยากาศของโลก",
+"example": "We saw a meteor streak across the night sky."
+},
+{
+"word": "Eclipse",
+"phonetic": "/ɪˈklɪps/",
+"type": "Noun",
+"category": "Space & Astronomy",
+"meaning": "An occasion when the sun looks like it is completely or partially covered with a dark circle because the moon is between the sun and the Earth.",
+"meaning_th": "โอกาสที่ดวงอาทิตย์ดูเหมือนถูกบังทั้งหมดหรือบางส่วนด้วยวงกลมมืด เนื่องจากดวงจันทร์อยู่ระหว่างดวงอาทิตย์และโลก",
+"example": "Don't look directly at the solar eclipse without eye protection."
+},
+{
+"word": "Accessory",
+"phonetic": "/əkˈses.ər.i/",
+"type": "Noun",
+"category": "Fashion",
+"meaning": "Something added to a machine or to clothing that has a useful or decorative purpose.",
+"meaning_th": "สิ่งที่เพิ่มเข้าไปในเครื่องจักรหรือเสื้อผ้าที่มีวัตถุประสงค์เพื่อประโยชน์ใช้สอยหรือเพื่อการตกแต่ง",
+"example": "She wore a silk scarf as an accessory to her dress."
+},
+{
+"word": "Apparel",
+"phonetic": "/əˈpær.əl/",
+"type": "Noun",
+"category": "Fashion",
+"meaning": "Clothes of a particular type when they are being sold in a shop.",
+"meaning_th": "เสื้อผ้าประเภทเฉพาะเมื่อมีการจำหน่ายในร้านค้า",
+"example": "The store specializes in athletic apparel for women."
+},
+{
+"word": "Boutique",
+"phonetic": "/buːˈtiːk/",
+"type": "Noun",
+"category": "Fashion",
+"meaning": "A small shop that sells fashionable clothes or expensive gifts.",
+"meaning_th": "ร้านค้าขนาดเล็กที่ขายเสื้อผ้าแฟชั่นหรือของขวัญราคาแพง",
+"example": "She bought a unique dress at a designer boutique."
+},
+{
+"word": "Collection",
+"phonetic": "/kəˈlek.ʃən/",
+"type": "Noun",
+"category": "Fashion",
+"meaning": "A group of new clothes produced by a fashion house for a particular season.",
+"meaning_th": "กลุ่มเสื้อผ้าใหม่ที่ผลิตโดยห้องเสื้อแฟชั่นสำหรับฤดูกาลใดฤดูกาลหนึ่ง",
+"example": "The designer presented his spring collection in Paris."
+},
+{
+"word": "Designer",
+"phonetic": "/dɪˈzaɪ.nər/",
+"type": "Noun",
+"category": "Fashion",
+"meaning": "A person who imagines how something could be made and draws plans for it.",
+"meaning_th": "บุคคลที่จินตนาการว่าบางสิ่งจะถูกสร้างขึ้นได้อย่างไรและวาดแผนผังสำหรับสิ่งนั้น",
+"example": "She works as a graphic designer for an advertising agency."
+},
+{
+"word": "Fabric",
+"phonetic": "/ˈfæb.rɪk/",
+"type": "Noun",
+"category": "Fashion",
+"meaning": "Cloth or material for making clothes, covering furniture, etc.",
+"meaning_th": "ผ้าหรือวัสดุสำหรับทำเสื้อผ้า หุ้มเฟอร์นิเจอร์ ฯลฯ",
+"example": "This fabric is very soft and durable."
+},
+{
+"word": "Garment",
+"phonetic": "/ˈɡɑː.mənt/",
+"type": "Noun",
+"category": "Fashion",
+"meaning": "A piece of clothing.",
+"meaning_th": "ชิ้นส่วนของเสื้อผ้า",
+"example": "Each garment is carefully handmade by skilled workers."
+},
+{
+"word": "Model",
+"phonetic": "/ˈmɒd.əl/",
+"type": "Noun",
+"category": "Fashion",
+"meaning": "A person who wears clothes so that they can be photographed or shown to possible buyers.",
+"meaning_th": "บุคคลที่สวมเสื้อผ้าเพื่อให้สามารถถ่ายภาพหรือแสดงต่อผู้ซื้อที่อาจเป็นไปได้",
+"example": "She has been working as a fashion model for five years."
+},
+{
+"word": "Outfit",
+"phonetic": "/ˈaʊt.fɪt/",
+"type": "Noun",
+"category": "Fashion",
+"meaning": "A set of clothes worn together, especially for a particular occasion or purpose.",
+"meaning_th": "ชุดเสื้อผ้าที่สวมใส่ร่วมกัน โดยเฉพาะในโอกาสหรือวัตถุประสงค์เฉพาะ",
+"example": "She bought a new outfit for the wedding."
+},
+{
+"word": "Trend",
+"phonetic": "/trend/",
+"type": "Noun",
+"category": "Fashion",
+"meaning": "A general development or change in a situation or in the way that people are behaving.",
+"meaning_th": "การพัฒนาหรือการเปลี่ยนแปลงโดยทั่วไปในสถานการณ์หรือในวิธีที่ผู้คนปฏิบัติตน",
+"example": "There is a growing trend towards healthy eating."
+},{
+"word": "Fitness",
+"phonetic": "/ˈfɪt.nəs/",
+"type": "Noun",
+"category": "Sports & Exercise",
+"meaning": "The condition of being physically strong and healthy.",
+"meaning_th": "สภาพของการมีความแข็งแรงทางร่างกายและมีสุขภาพดี",
+"example": "He runs every morning to improve his physical fitness."
+},
+{
+"word": "Coach",
+"phonetic": "/kəʊtʃ/",
+"type": "Noun",
+"category": "Sports & Exercise",
+"meaning": "Someone whose job is to teach people to improve in a sport, skill, or school subject.",
+"meaning_th": "บุคคลที่มีหน้าที่สอนให้ผู้คนพัฒนาขึ้นในด้านกีฬา ทักษะ หรือวิชาเรียน",
+"example": "The basketball coach called a timeout to discuss the strategy."
+},
+{
+"word": "Competition",
+"phonetic": "/ˌkɒm.pəˈtɪʃ.ən/",
+"type": "Noun",
+"category": "Sports & Exercise",
+"meaning": "An organized event in which people try to win a prize by being the best, fastest, etc.",
+"meaning_th": "เหตุการณ์ที่จัดขึ้นเพื่อให้ผู้คนพยายามชนะรางวัลโดยการเป็นผู้ที่เก่งที่สุด หรือเร็วที่สุด เป็นต้น",
+"example": "She won first prize in the swimming competition."
+},
+{
+"word": "Gym",
+"phonetic": "/dʒɪm/",
+"type": "Noun",
+"category": "Sports & Exercise",
+"meaning": "A physical education building or a club where you can go to exercise and use machines.",
+"meaning_th": "อาคารพลศึกษาหรือคลับที่คุณสามารถไปออกกำลังกายและใช้งานเครื่องออกกำลังกายได้",
+"example": "I try to go to the gym at least three times a week."
+},
+{
+"word": "Athlete",
+"phonetic": "/ˈæθ.liːt/",
+"type": "Noun",
+"category": "Sports & Exercise",
+"meaning": "A person who is very good at sports or physical exercise, especially one who competes in organized events.",
+"meaning_th": "บุคคลที่เก่งด้านกีฬาหรือการออกกำลังกาย โดยเฉพาะผู้ที่ลงแข่งขันในรายการที่จัดขึ้น",
+"example": "Professional athletes train for several hours every day."
+},
+{
+"word": "Marathon",
+"phonetic": "/ˈmær.ə.θən/",
+"type": "Noun",
+"category": "Sports & Exercise",
+"meaning": "A running race of slightly over 42 kilometres.",
+"meaning_th": "การแข่งวิ่งระยะทางมากกว่า 42 กิโลเมตรเล็กน้อย",
+"example": "He has been training for six months to run his first marathon."
+},
+{
+"word": "Tournament",
+"phonetic": "/ˈtʊə.nə.mənt/",
+"type": "Noun",
+"category": "Sports & Exercise",
+"meaning": "A competition for teams or single players in which a series of games is played.",
+"meaning_th": "การแข่งขันสำหรับทีมหรือผู้เล่นเดี่ยวซึ่งมีการเล่นเกมต่อเนื่องเป็นชุด",
+"example": "The tennis tournament attracted players from all over the world."
+},
+{
+"word": "Referee",
+"phonetic": "/ˌref.əˈriː/",
+"type": "Noun",
+"category": "Sports & Exercise",
+"meaning": "A person who is in charge of a sports game and who makes certain that the rules are followed.",
+"meaning_th": "บุคคลที่มีหน้าที่ดูแลเกมกีฬาและทำให้แน่ใจว่ามีการปฏิบัติตามกฎ",
+"example": "The referee blew the whistle to signal the end of the match."
+},
+{
+"word": "Victory",
+"phonetic": "/ˈvɪk.tər.i/",
+"type": "Noun",
+"category": "Sports & Exercise",
+"meaning": "An occasion when you win a game, competition, election, war, etc.",
+"meaning_th": "โอกาสที่คุณชนะเกม การแข่งขัน การเลือกตั้ง หรือสงคราม เป็นต้น",
+"example": "The team celebrated their hard-earned victory over their rivals."
+},
+{
+"word": "Defeat",
+"phonetic": "/dɪˈfiːt/",
+"type": "Noun",
+"category": "Sports & Exercise",
+"meaning": "The fact of losing against someone in a fight or competition.",
+"meaning_th": "ข้อเท็จจริงของการพ่ายแพ้ต่อใครบางคนในการต่อสู้หรือการแข่งขัน",
+"example": "They were disappointed by their narrow defeat in the final game."
+},
+{
+"word": "Happiness",
+"phonetic": "/ˈhæp.i.nəs/",
+"type": "Noun",
+"category": "Emotions & Feelings",
+"meaning": "The feeling of being happy.",
+"meaning_th": "ความรู้สึกของการมีความสุข",
+"example": "Money can buy comfort, but it cannot always buy happiness."
+},
+{
+"word": "Grief",
+"phonetic": "/ɡriːf/",
+"type": "Noun",
+"category": "Emotions & Feelings",
+"meaning": "Very great sadness, especially at the death of someone.",
+"meaning_th": "ความเศร้าโศกอย่างยิ่ง โดยเฉพาะต่อการเสียชีวิตของใครบางคน",
+"example": "She was overwhelmed with grief after losing her grandmother."
+},
+{
+"word": "Jealousy",
+"phonetic": "/ˈdʒel.ə.si/",
+"type": "Noun",
+"category": "Emotions & Feelings",
+"meaning": "An unhappy and angry feeling because someone has something that you want.",
+"meaning_th": "ความรู้สึกไม่เป็นสุขและโกรธเนื่องจากบางคนมีบางสิ่งที่คุณต้องการ",
+"example": "His success caused a lot of jealousy among his colleagues."
+},
+{
+"word": "Courage",
+"phonetic": "/ˈkʌr.ɪdʒ/",
+"type": "Noun",
+"category": "Emotions & Feelings",
+"meaning": "The ability to control your fear in a dangerous or difficult situation.",
+"meaning_th": "ความสามารถในการควบคุมความกลัวของคุณในสถานการณ์ที่อันตรายหรือยากลำบาก",
+"example": "It takes a lot of courage to stand up for what you believe in."
+},
+{
+"word": "Optimism",
+"phonetic": "/ˈɒp.tɪ.mɪ.zəm/",
+"type": "Noun",
+"category": "Emotions & Feelings",
+"meaning": "The quality of being full of hope and emphasizing the good parts of a situation.",
+"meaning_th": "คุณลักษณะของการเต็มไปด้วยความหวังและการเน้นย้ำถึงส่วนที่ดีของสถานการณ์",
+"example": "Despite the challenges, she maintained her sense of optimism."
+},
+{
+"word": "Pessimism",
+"phonetic": "/ˈpes.ɪ.mɪ.zəm/",
+"type": "Noun",
+"category": "Emotions & Feelings",
+"meaning": "The quality of emphasizing or expecting only the bad parts of a situation.",
+"meaning_th": "คุณลักษณะของการเน้นย้ำหรือคาดหวังเพียงส่วนที่เลวร้ายของสถานการณ์",
+"example": "His constant pessimism made it difficult for the team to stay motivated."
+},
+{
+"word": "Guilt",
+"phonetic": "/ɡɪlt/",
+"type": "Noun",
+"category": "Emotions & Feelings",
+"meaning": "A feeling of worry or unhappiness that you have because you have done something wrong.",
+"meaning_th": "ความรู้สึกกังวลหรือไม่เป็นสุขที่คุณมีเนื่องจากคุณได้ทำบางสิ่งที่ผิด",
+"example": "He felt a deep sense of guilt for lying to his best friend."
+},
+{
+"word": "Shame",
+"phonetic": "/ʃeɪm/",
+"type": "Noun",
+"category": "Emotions & Feelings",
+"meaning": "An uncomfortable feeling of guilt or of loss of self-respect that you have because you or someone close to you has done something wrong or silly.",
+"meaning_th": "ความรู้สึกไม่สบายใจจากความรู้สึกผิดหรือการสูญเสียความเคารพในตัวเองที่คุณมีเนื่องจากคุณหรือคนใกล้ชิดได้ทำบางสิ่งที่ผิดหรือโง่เขลา",
+"example": "He hung his head in shame after failing the important test."
+},
+{
+"word": "Pride",
+"phonetic": "/praɪd/",
+"type": "Noun",
+"category": "Emotions & Feelings",
+"meaning": "A feeling of pleasure and satisfaction because you or people close to you have done something good or possess something good.",
+"meaning_th": "ความรู้สึกยินดีและพึงพอใจเนื่องจากคุณหรือคนใกล้ชิดได้ทำบางสิ่งที่ดีหรือครอบครองบางสิ่งที่ดี",
+"example": "The parents watched with pride as their daughter received her diploma."
+},
+{
+"word": "Relief",
+"phonetic": "/rɪˈliːf/",
+"type": "Noun",
+"category": "Emotions & Feelings",
+"meaning": "A feeling of happiness that something unpleasant has not happened or has ended.",
+"meaning_th": "ความรู้สึกมีความสุขที่บางสิ่งที่ไม่พึงพอใจไม่ได้เกิดขึ้นหรือได้สิ้นสุดลงแล้ว",
+"example": "It was a great relief to hear that everyone survived the accident."
+},
+{
+"word": "Honest",
+"phonetic": "/ˈɒn.ɪst/",
+"type": "Adjective",
+"category": "Character Traits",
+"meaning": "Telling the truth or able to be trusted and not likely to steal, cheat, or lie.",
+"meaning_th": "การพูดความจริง หรือสามารถเชื่อถือได้และไม่มีแนวโน้มที่จะขโมย คดโกง หรือโกหก",
+"example": "She gave an honest answer to the difficult question."
+},
+{
+"word": "Creative",
+"phonetic": "/kriˈeɪ.tɪv/",
+"type": "Adjective",
+"category": "Character Traits",
+"meaning": "Producing or using original and unusual ideas.",
+"meaning_th": "การผลิตหรือการใช้แนวคิดที่เป็นต้นฉบับและไม่ธรรมดา",
+"example": "We need a creative designer to develop the new brand identity."
+},
+{
+"word": "Diligent",
+"phonetic": "/ˈdɪl.ɪ.dʒənt/",
+"type": "Adjective",
+"category": "Character Traits",
+"meaning": "Careful and using a lot of effort.",
+"meaning_th": "มีความระมัดระวังและใช้ความพยายามอย่างมาก",
+"example": "He is a diligent student who always finishes his work on time."
+},
+{
+"word": "Patient",
+"phonetic": "/ˈpeɪ.ʃənt/",
+"type": "Adjective",
+"category": "Character Traits",
+"meaning": "Having the ability to wait, or to continue doing something despite difficulties, or to suffer without complaining or becoming annoyed.",
+"meaning_th": "มีความสามารถในการรอ หรือทำบางสิ่งต่อไปแม้จะมีอุปสรรค หรืออดทนโดยไม่บ่นหรือหงุดหงิด",
+"example": "The teacher was very patient with the students who were struggling."
+},
+{
+"word": "Arrogant",
+"phonetic": "/ˈær.ə.ɡənt/",
+"type": "Adjective",
+"category": "Character Traits",
+"meaning": "Unpleasantly proud and behaving as if you are more important than, or know more than, other people.",
+"meaning_th": "มีความภูมิใจในทางที่ไม่น่าพึงพอใจและวางท่าราวกับว่าคุณสำคัญกว่าหรือรู้มากกว่าคนอื่น",
+"example": "He was so arrogant that he refused to listen to anyone else's advice."
+},
+{
+"word": "Humble",
+"phonetic": "/ˈhʌm.bəl/",
+"type": "Adjective",
+"category": "Character Traits",
+"meaning": "Not proud or not believing that you are important.",
+"meaning_th": "ไม่โอ้อวดหรือไม่เชื่อว่าตัวคุณสำคัญ (ถ่อมตัว)",
+"example": "Despite his great success, he remained a humble person."
+},
+{
+"word": "Generous",
+"phonetic": "/ˈdʒen.ər.əs/",
+"type": "Adjective",
+"category": "Character Traits",
+"meaning": "Willing to give money, help, kindness, etc., especially more than is usual or expected.",
+"meaning_th": "เต็มใจที่จะให้เงิน ความช่วยเหลือ ความเมตตา เป็นต้น โดยเฉพาะให้มากกว่าปกติหรือมากกว่าที่คาดไว้",
+"example": "It was very generous of you to lend me your car."
+},
+{
+"word": "Stubborn",
+"phonetic": "/ˈstʌb.ən/",
+"type": "Adjective",
+"category": "Character Traits",
+"meaning": "Determined to do what you want and refusing to do anything else.",
+"meaning_th": "มุ่งมั่นที่จะทำในสิ่งที่คุณต้องการและปฏิเสธที่จะทำอย่างอื่น (ดื้อรั้น)",
+"example": "He is too stubborn to admit that he made a mistake."
+},
+{
+"word": "Compassionate",
+"phonetic": "/kəmˈpæʃ.ən.ət/",
+"type": "Adjective",
+"category": "Character Traits",
+"meaning": "Showing a strong feeling of sympathy and sadness for the suffering or bad luck of others and a wish to help them.",
+"meaning_th": "การแสดงความรู้สึกเห็นอกเห็นใจและเศร้าโศกอย่างรุนแรงต่อความทุกข์หรือโชคร้ายของผู้อื่น และมีความปรารถนาที่จะช่วยเหลือพวกเขา",
+"example": "She is a compassionate nurse who truly cares about her patients."
+},
+{
+"word": "Reliable",
+"phonetic": "/rɪˈlaɪ.ə.bəl/",
+"type": "Adjective",
+"category": "Character Traits",
+"meaning": "Someone or something that is reliable can be trusted or believed because he, she, or it works or behaves well in the way you expect.",
+"meaning_th": "ใครบางคนหรือบางสิ่งที่คุณสามารถไว้วางใจหรือเชื่อถือได้ เนื่องจากทำงานหรือประพฤติตนได้ดีตามที่คุณคาดหวัง",
+"example": "I need a reliable car that won't break down on long trips."
+},{
+"word": "Suburb",
+"phonetic": "/ˈsʌb.ɜːb/",
+"type": "Noun",
+"category": "Urban Life",
+"meaning": "An area where people live that is outside the centre of a city.",
+"meaning_th": "พื้นที่ที่ผู้คนอาศัยอยู่ซึ่งอยู่นอกศูนย์กลางของเมือง",
+"example": "They decided to move to the suburbs to have more space for their children."
+},
+{
+"word": "Infrastructure",
+"phonetic": "/ˈɪn.frəˌstrʌk.tʃər/",
+"type": "Noun",
+"category": "Urban Life",
+"meaning": "The basic physical and organizational structures and facilities needed for the operation of a society or enterprise.",
+"meaning_th": "โครงสร้างทางกายภาพและองค์กรขั้นพื้นฐานรวมถึงสิ่งอำนวยความสะดวกที่จำเป็นสำหรับการดำเนินงานของสังคมหรือสถานประกอบการ",
+"example": "The government is investing heavily in the country's transport infrastructure."
+},
+{
+"word": "Congestion",
+"phonetic": "/kənˈdʒes.tʃən/",
+"type": "Noun",
+"category": "Urban Life",
+"meaning": "A situation in which there is too much traffic and movement is difficult.",
+"meaning_th": "สถานการณ์ที่มีการจราจรมากเกินไปและทำให้การเคลื่อนที่ทำได้ยากลำบาก",
+"example": "The new bridge was built to reduce traffic congestion in the city center."
+},
+{
+"word": "Skyscraper",
+"phonetic": "/ˈskaɪˌskreɪ.pər/",
+"type": "Noun",
+"category": "Urban Life",
+"meaning": "A very tall modern building, usually in a city.",
+"meaning_th": "อาคารสมัยใหม่ที่สูงมาก มักตั้งอยู่ในเมืองใหญ่",
+"example": "The city skyline is dominated by impressive glass skyscrapers."
+},
+{
+"word": "Pedestrian",
+"phonetic": "/pəˈdes.tri.ən/",
+"type": "Noun",
+"category": "Urban Life",
+"meaning": "A person who is walking, especially in an area also used by vehicles.",
+"meaning_th": "บุคคลที่กำลังเดิน โดยเฉพาะในพื้นที่ที่มีการใช้ยานพาหนะด้วย",
+"example": "The new shopping street is reserved for pedestrians only."
+},
+{
+"word": "Interactive",
+"phonetic": "/ˌɪn.təˈræk.tɪv/",
+"type": "Adjective",
+"category": "Communication",
+"meaning": "Involving communication between people or reactions between a person and a computer.",
+"meaning_th": "ที่เกี่ยวข้องกับการสื่อสารระหว่างผู้คนหรือปฏิกิริยาตอบโต้ระหว่างบุคคลและคอมพิวเตอร์",
+"example": "The museum has many interactive displays that children love."
+},
+{
+"word": "Notification",
+"phonetic": "/ˌnəʊ.tɪ.fɪˈkeɪ.ʃən/",
+"type": "Noun",
+"category": "Communication",
+"meaning": "A message or symbol that appears on a computer or smartphone screen to tell you something.",
+"meaning_th": "ข้อความหรือสัญลักษณ์ที่ปรากฏบนหน้าจอคอมพิวเตอร์หรือสมาร์ทโฟนเพื่อบอกบางสิ่งแก่คุณ",
+"example": "I turned off all my social media notifications to focus on my work."
+},
+{
+"word": "Subscription",
+"phonetic": "/səbˈskrɪp.ʃən/",
+"type": "Noun",
+"category": "Communication",
+"meaning": "An agreement to pay money in order to receive a service or product regularly.",
+"meaning_th": "ข้อตกลงในการจ่ายเงินเพื่อรับบริการหรือผลิตภัณฑ์เป็นประจำ",
+"example": "I have a monthly subscription to a music streaming service."
+},
+{
+"word": "Influencer",
+"phonetic": "/ˈɪn.flu.ən.sər/",
+"type": "Noun",
+"category": "Communication",
+"meaning": "A person who is paid by a company to show and describe its products and services on social media, encouraging other people to buy them.",
+"meaning_th": "บุคคลที่ได้รับเงินจากบริษัทเพื่อแสดงและอธิบายผลิตภัณฑ์และบริการบนโซเชียลมีเดีย เพื่อกระตุ้นให้ผู้อื่นซื้อตาม",
+"example": "She is a popular beauty influencer with millions of followers on Instagram."
+},
+{
+"word": "Engagement",
+"phonetic": "/ɪnˈɡeɪdʒ.mənt/",
+"type": "Noun",
+"category": "Communication",
+"meaning": "The fact of being involved with something, or the amount of interest people show in a post on social media.",
+"meaning_th": "ข้อเท็จจริงของการเข้าไปมีส่วนร่วมกับบางสิ่ง หรือปริมาณความสนใจที่ผู้คนมีต่อโพสต์บนโซเชียลมีเดีย",
+"example": "High engagement on your posts is more important than the total number of followers."
+},
+{
+"word": "Cultivate",
+"phonetic": "/ˈkʌl.tɪ.veɪt/",
+"type": "Verb",
+"category": "Agriculture",
+"meaning": "To prepare land and grow crops on it.",
+"meaning_th": "การเตรียมที่ดินและปลูกพืชผลลงบนที่ดินนั้น",
+"example": "Farmers in this region cultivate rice and organic vegetables."
+},
+{
+"word": "Harvest",
+"phonetic": "/ˈhɑː.vɪst/",
+"type": "Noun/Verb",
+"category": "Agriculture",
+"meaning": "The time of year when crops are cut and collected from the fields, or the amount of crops collected.",
+"meaning_th": "ช่วงเวลาของปีที่มีการตัดและเก็บเกี่ยวพืชผลจากไร่นา หรือปริมาณของพืชผลที่เก็บเกี่ยวได้",
+"example": "The farmers are hoping for a bountiful harvest this year."
+},
+{
+"word": "Irrigation",
+"phonetic": "/ˌɪr.ɪˈɡeɪ.ʃən/",
+"type": "Noun",
+"category": "Agriculture",
+"meaning": "The practice of supplying land with water by artificial means to help crops grow.",
+"meaning_th": "การจัดหาน้ำให้กับที่ดินด้วยวิธีประดิษฐ์เพื่อช่วยในการเจริญเติบโตของพืชผล",
+"example": "Modern irrigation systems have transformed the desert into productive farmland."
+},
+{
+"word": "Fertilizer",
+"phonetic": "/ˈfɜː.tɪ.laɪ.zər/",
+"type": "Noun",
+"category": "Agriculture",
+"meaning": "A natural or chemical substance that is spread on the land to make plants grow well.",
+"meaning_th": "สารธรรมชาติหรือสารเคมีที่แพร่กระจายลงบนที่ดินเพื่อให้พืชเจริญเติบโตได้ดี",
+"example": "Organic farmers use compost as a natural fertilizer instead of chemicals."
+},
+{
+"word": "Livestock",
+"phonetic": "/ˈlaɪv.stɒk/",
+"type": "Noun",
+"category": "Agriculture",
+"meaning": "Animals and birds that are kept on a farm, such as cows, sheep, or chickens.",
+"meaning_th": "สัตว์และนกที่เลี้ยงไว้ในฟาร์ม เช่น วัว แกะ หรือไก่",
+"example": "The family earns their living by raising livestock and selling dairy products."
+},
+{
+"word": "Pesticide",
+"phonetic": "/ˈpes.tɪ.saɪd/",
+"type": "Noun",
+"category": "Agriculture",
+"meaning": "A chemical substance used for killing insects that eat and destroy crops.",
+"meaning_th": "สารเคมีที่ใช้สำหรับฆ่าแมลงที่กัดกินและทำลายพืชผล",
+"example": "The use of pesticides has decreased as more farmers switch to organic methods."
+},
+{
+"word": "Yield",
+"phonetic": "/jiːld/",
+"type": "Noun/Verb",
+"category": "Agriculture",
+"meaning": "The total amount of a crop or a product that is produced.",
+"meaning_th": "ปริมาณรวมของพืชผลหรือผลิตภัณฑ์ที่ผลิตได้",
+"example": "New farming techniques have significantly increased the crop yield per acre."
+},
+{
+"word": "Arable",
+"phonetic": "/ˈær.ə.bəl/",
+"type": "Adjective",
+"category": "Agriculture",
+"meaning": "Land that is suitable for growing crops.",
+"meaning_th": "ที่ดินที่เหมาะสมสำหรับการปลูกพืชผล",
+"example": "The country has limited arable land due to its mountainous terrain."
+},
+{
+"word": "Sustainability",
+"phonetic": "/səˌsteɪ.nəˈbɪl.ə.ti/",
+"type": "Noun",
+"category": "Agriculture",
+"meaning": "The quality of being able to continue over a period of time without harming the environment.",
+"meaning_th": "คุณลักษณะของการสามารถดำเนินต่อไปได้ในช่วงเวลาหนึ่งโดยไม่ทำลายสิ่งแวดล้อม",
+"example": "Agricultural sustainability is essential to ensure food security for the future."
+},
+{
+"word": "Greenhouse",
+"phonetic": "/ˈɡriːn.haʊs/",
+"type": "Noun",
+"category": "Agriculture",
+"meaning": "A building with a roof and sides made of glass or plastic, used for growing plants that need warmth and protection.",
+"meaning_th": "อาคารที่มีหลังคาและด้านข้างทำจากแก้วหรือพลาสติก ใช้สำหรับปลูกพืชที่ต้องการความอบอุ่นและการปกป้อง",
+"example": "They grow tomatoes in a greenhouse all year round."
+},
+{
+"word": "Anonymity",
+"phonetic": "/ˌæn.əˈnɪm.ə.ti/",
+"type": "Noun",
+"category": "Communication",
+"meaning": "The situation in which someone's name is not given or known.",
+"meaning_th": "สถานการณ์ที่ไม่มีการระบุชื่อหรือไม่มีใครรู้จักชื่อของบุคคลนั้น",
+"example": "The witness requested anonymity to protect her family from retaliation."
+},
+{
+"word": "Platform",
+"phonetic": "/ˈplæt.fɔːm/",
+"type": "Noun",
+"category": "Communication",
+"meaning": "A method or way of communicating with a large group of people.",
+"meaning_th": "วิธีการหรือหนทางในการสื่อสารกับกลุ่มคนจำนวนมาก",
+"example": "The internet provides a platform for people to express their opinions freely."
+},
+{
+"word": "Metropolis",
+"phonetic": "/məˈtrɒp.əl.ɪs/",
+"type": "Noun",
+"category": "Urban Life",
+"meaning": "A very large city, often the most important city in a large area or country.",
+"meaning_th": "เมืองขนาดใหญ่มาก ซึ่งมักจะเป็นเมืองที่สำคัญที่สุดในพื้นที่ขนาดใหญ่หรือในประเทศ",
+"example": "Bangkok is a vibrant metropolis that never sleeps."
+},
+{
+"word": "Rural",
+"phonetic": "/ˈrʊə.rəl/",
+"type": "Adjective",
+"category": "Urban Life",
+"meaning": "Related to the countryside rather than the city.",
+"meaning_th": "ที่เกี่ยวข้องกับชนบทมากกว่าเมือง",
+"example": "She grew up in a rural area far away from the nearest town."
+},
+{
+"word": "Urban",
+"phonetic": "/ˈɜː.bən/",
+"type": "Adjective",
+"category": "Urban Life",
+"meaning": "Related to a city or town.",
+"meaning_th": "ที่เกี่ยวข้องกับเมืองหรือเขตเมือง",
+"example": "Urban planning is crucial for managing the growth of large cities."
+},
+{
+"word": "Neighborhood",
+"phonetic": "/ˈneɪ.bə.hʊd/",
+"type": "Noun",
+"category": "Urban Life",
+"meaning": "An area of a town or city that people live in.",
+"meaning_th": "พื้นที่ในเมืองหรือเขตเมืองที่ผู้คนอาศัยอยู่",
+"example": "There are many nice cafes and parks in our neighborhood."
+},
+{
+"word": "Censorship",
+"phonetic": "/ˈsen.sə.ʃɪp/",
+"type": "Noun",
+"category": "Communication",
+"meaning": "The act of removing parts of books, films, or letters that are considered offensive or harmful.",
+"meaning_th": "การกระทำในการลบบางส่วนของหนังสือ ภาพยนตร์ หรือจดหมายที่ถือว่าไม่เหมาะสมหรือเป็นอันตรายออกไป",
+"example": "The government's censorship of the internet has sparked a lot of debate."
+},
+{
+"word": "Podcast",
+"phonetic": "/ˈpɒd.kɑːst/",
+"type": "Noun",
+"category": "Communication",
+"meaning": "A digital audio file that can be downloaded from the internet and listened to on a computer or mobile device.",
+"meaning_th": "ไฟล์เสียงดิจิทัลที่สามารถดาวน์โหลดได้จากอินเทอร์เน็ตและรับฟังได้ทางคอมพิวเตอร์หรืออุปกรณ์พกพา",
+"example": "I like to listen to educational podcasts during my daily commute."
+},
+{
+"word": "Viral",
+"phonetic": "/ˈvaɪə.rəl/",
+"type": "Adjective",
+"category": "Communication",
+"meaning": "Becoming very popular very quickly on the internet.",
+"meaning_th": "การกลายเป็นที่นิยมอย่างมากและรวดเร็วบนอินเทอร์เน็ต",
+"example": "The funny video of the cat went viral and got millions of views in one day."
+},
+{
+"word": "Interactive",
+"phonetic": "/ˌɪn.təˈræk.tɪv/",
+"type": "Adjective",
+"category": "Technology",
+"meaning": "Allowing communication between the user and a computer system.",
+"meaning_th": "การอนุญาตให้มีการสื่อสารระหว่างผู้ใช้และระบบคอมพิวเตอร์",
+"example": "The software includes interactive tutorials to help you learn the basic features."
+},{
+"word": "Blueprint",
+"phonetic": "/ˈbluː.prɪnt/",
+"type": "Noun",
+"category": "Architecture",
+"meaning": "A photographic print of a technical drawing or engineering design.",
+"meaning_th": "ภาพพิมพ์รูปถ่ายของแบบวาดทางเทคนิคหรือการออกแบบทางวิศวกรรม",
+"example": "The architects are studying the blueprints for the new library."
+},
+{
+"word": "Facade",
+"phonetic": "/fəˈsɑːd/",
+"type": "Noun",
+"category": "Architecture",
+"meaning": "The front of a building, especially a large or attractive one.",
+"meaning_th": "ด้านหน้าของอาคาร โดยเฉพาะอาคารขนาดใหญ่หรือมีความสวยงาม",
+"example": "The historical building has a stunning marble facade."
+},
+{
+"word": "Renovation",
+"phonetic": "/ˌren.əˈveɪ.ʃən/",
+"type": "Noun",
+"category": "Architecture",
+"meaning": "The process of repairing and improving a building so that it is in good condition again.",
+"meaning_th": "กระบวนการซ่อมแซมและปรับปรุงอาคารเพื่อให้กลับมาอยู่ในสภาพดีอีกครั้ง",
+"example": "The museum is closed for renovation until next spring."
+},
+{
+"word": "Beam",
+"phonetic": "/biːm/",
+"type": "Noun",
+"category": "Architecture",
+"meaning": "A long, thick piece of wood, metal, or concrete, used in construction to support a weight.",
+"meaning_th": "ไม้ โลหะ หรือคอนกรีตชิ้นยาวและหนา ซึ่งใช้ในการก่อสร้างเพื่อรองรับน้ำหนัก",
+"example": "The ceiling is supported by heavy oak beams."
+},
+{
+"word": "Foundation",
+"phonetic": "/faʊnˈdeɪ.ʃən/",
+"type": "Noun",
+"category": "Architecture",
+"meaning": "The structures below the ground that support a building.",
+"meaning_th": "โครงสร้างที่อยู่ใต้ดินซึ่งรองรับน้ำหนักของอาคาร",
+"example": "The concrete foundation must be completely dry before building the walls."
+},
+{
+"word": "Correspondent",
+"phonetic": "/ˌkɒr.ɪˈspɒn.dənt/",
+"type": "Noun",
+"category": "Journalism",
+"meaning": "A person who is employed by a newspaper or television station to report on a particular subject or send reports from a foreign country.",
+"meaning_th": "บุคคลที่ได้รับการว่าจ้างจากหนังสือพิมพ์หรือสถานีโทรทัศน์เพื่อรายงานข่าวในหัวข้อเฉพาะหรือส่งรายงานข่าวจากต่างประเทศ",
+"example": "She is the BBC's foreign correspondent in Tokyo."
+},
+{
+"word": "Columnist",
+"phonetic": "/ˈkɒl.əm.nɪst/",
+"type": "Noun",
+"category": "Journalism",
+"meaning": "A journalist who writes a regular series of articles for a particular newspaper or magazine.",
+"meaning_th": "นักข่าวที่เขียนบทความชุดหนึ่งเป็นประจำให้กับหนังสือพิมพ์หรือนิตยสารเล่มใดเล่มหนึ่ง",
+"example": "He is a well-known political columnist for a major daily newspaper."
+},
+{
+"word": "Circulation",
+"phonetic": "/ˌsɜː.kjəˈleɪ.ʃən/",
+"type": "Noun",
+"category": "Journalism",
+"meaning": "The number of people to whom a newspaper or magazine is regularly sold.",
+"meaning_th": "จำนวนคนที่มีการขายหนังสือพิมพ์หรือนิตยสารให้เป็นประจำ",
+"example": "The magazine has a monthly circulation of over 200,000 copies."
+},
+{
+"word": "Tabloid",
+"phonetic": "/ˈtæb.lɔɪd/",
+"type": "Noun",
+"category": "Journalism",
+"meaning": "A type of newspaper that has smaller pages, many pictures, and short reports.",
+"meaning_th": "หนังสือพิมพ์ประเภทหนึ่งที่มีหน้าขนาดเล็กกว่า มีรูปภาพจำนวนมาก และมีรายงานข่าวสั้นๆ",
+"example": "The tabloids are full of stories about celebrity scandals."
+},
+{
+"word": "Exclusive",
+"phonetic": "/ɪkˈskluː.sɪv/",
+"type": "Noun",
+"category": "Journalism",
+"meaning": "A story that is published in only one newspaper or broadcast on only one television station.",
+"meaning_th": "เรื่องราวที่ได้รับการตีพิมพ์ในหนังสือพิมพ์เพียงฉบับเดียวหรือออกอากาศทางสถานีโทรทัศน์เพียงแห่งเดียว",
+"example": "The newspaper managed to get an exclusive interview with the president."
+},
+{
+"word": "Sibling",
+"phonetic": "/ˈsɪb.lɪŋ/",
+"type": "Noun",
+"category": "Family",
+"meaning": "A brother or sister.",
+"meaning_th": "พี่ชาย น้องชาย พี่สาว หรือน้องสาว",
+"example": "I have three siblings: two brothers and one sister."
+},
+{
+"word": "Acquaintance",
+"phonetic": "/əˈkweɪn.təns/",
+"type": "Noun",
+"category": "Family",
+"meaning": "A person that you have met but do not know well.",
+"meaning_th": "บุคคลที่คุณเคยพบแต่ยังไม่รู้จักดีนัก",
+"example": "He is more of an acquaintance than a close friend."
+},
+{
+"word": "Ancestor",
+"phonetic": "/ˈæn.ses.tər/",
+"type": "Noun",
+"category": "Family",
+"meaning": "A person related to you who lived a long time ago.",
+"meaning_th": "บุคคลที่เกี่ยวข้องกับคุณซึ่งมีชีวิตอยู่เมื่อนานมาแล้ว",
+"example": "Her ancestors came from a small village in northern Italy."
+},
+{
+"word": "Fiancé",
+"phonetic": "/fiˈɒn.seɪ/",
+"type": "Noun",
+"category": "Family",
+"meaning": "The man that someone is engaged to be married to.",
+"meaning_th": "ชายที่บางคนได้หมั้นหมายไว้เพื่อจะแต่งงานด้วย",
+"example": "She introduced us to her fiancé at the party."
+},
+{
+"word": "Offspring",
+"phonetic": "/ˈɒf.sprɪŋ/",
+"type": "Noun",
+"category": "Family",
+"meaning": "The young of an animal, or a person's children.",
+"meaning_th": "ลูกของสัตว์ หรือลูกของบุคคล",
+"example": "The female bird feeds her offspring several times a day."
+},
+{
+"word": "Peninsula",
+"phonetic": "/pəˈnɪn.sjə.lə/",
+"type": "Noun",
+"category": "Geography",
+"meaning": "A piece of land that is almost entirely surrounded by water but is connected to the mainland on one side.",
+"meaning_th": "แผ่นดินส่วนที่เกือบจะถูกล้อมรอบด้วยน้ำทั้งหมด แต่มีด้านหนึ่งที่เชื่อมต่อกับแผ่นดินใหญ่",
+"example": "The Korean Peninsula is located in East Asia."
+},
+{
+"word": "Archipelago",
+"phonetic": "/ˌɑː.kɪˈpel.ə.ɡəʊ/",
+"type": "Noun",
+"category": "Geography",
+"meaning": "A group of small islands or an area of sea in which there are many small islands.",
+"meaning_th": "กลุ่มเกาะขนาดเล็ก หรือพื้นที่ทะเลที่มีเกาะขนาดเล็กอยู่เป็นจำนวนมาก",
+"example": "The Indonesian archipelago consists of thousands of islands."
+},
+{
+"word": "Plateau",
+"phonetic": "/ˈplæt.əʊ/",
+"type": "Noun",
+"category": "Geography",
+"meaning": "A large area of high and fairly flat land.",
+"meaning_th": "พื้นที่ขนาดใหญ่ที่เป็นที่ดินสูงและค่อนข้างราบ",
+"example": "The Tibetan Plateau is often called the 'Roof of the World'."
+},
+{
+"word": "Canyon",
+"phonetic": "/ˈkæn.jən/",
+"type": "Noun",
+"category": "Geography",
+"meaning": "A deep valley with very steep sides of rock that usually has a river running through it.",
+"meaning_th": "หุบเขาลึกที่มีหน้าผาหินที่ลาดชันมาก ซึ่งมักจะมีแม่น้ำไหลผ่าน",
+"example": "The Grand Canyon is one of the most famous natural wonders in the US."
+},
+{
+"word": "Summit",
+"phonetic": "/ˈsʌm.ɪt/",
+"type": "Noun",
+"category": "Geography",
+"meaning": "The highest point of a mountain.",
+"meaning_th": "จุดที่สูงที่สุดของภูเขา",
+"example": "It took them three days to reach the summit of Mount Everest."
+},
+{
+"word": "Deforestation",
+"phonetic": "/diːˌfɒr.ɪˈsteɪ.ʃən/",
+"type": "Noun",
+"category": "Ecology",
+"meaning": "The cutting down of trees in a large area, or the destruction of forests by people.",
+"meaning_th": "การตัดต้นไม้ในพื้นที่ขนาดใหญ่ หรือการทำลายป่าไม้โดยมนุษย์",
+"example": "Deforestation is a major contributor to climate change."
+},
+{
+"word": "Biodiversity",
+"phonetic": "/ˌbaɪ.əʊ.daɪˈvɜː.sə.ti/",
+"type": "Noun",
+"category": "Ecology",
+"meaning": "The number and types of plants and animals that exist in a particular area or in the world generally.",
+"meaning_th": "จำนวนและประเภทของพืชและสัตว์ที่มีอยู่ในพื้นที่เฉพาะหรือในโลกโดยทั่วไป",
+"example": "Protecting the rainforest is vital for maintaining global biodiversity."
+},
+{
+"word": "Emissions",
+"phonetic": "/iˈmɪʃ.ənz/",
+"type": "Noun",
+"category": "Ecology",
+"meaning": "The act of sending out gas, heat, light, etc.",
+"meaning_th": "การกระทำในการส่งก๊าซ ความร้อน แสง ฯลฯ ออกมา",
+"example": "Many countries are trying to reduce their carbon emissions."
+},
+{
+"word": "Pollutant",
+"phonetic": "/pəˈluː.tənt/",
+"type": "Noun",
+"category": "Ecology",
+"meaning": "A substance that pollutes something, especially water or the atmosphere.",
+"meaning_th": "สารที่ทำให้บางสิ่งเป็นพิษ โดยเฉพาะน้ำหรือชั้นบรรยากาศ",
+"example": "The factory was fined for releasing chemical pollutants into the river."
+},
+{
+"word": "Ecology",
+"phonetic": "/iˈkɒl.ə.dʒi/",
+"type": "Noun",
+"category": "Ecology",
+"meaning": "The relationships between the air, water, animals, plants, etc., usually of a particular area, or the scientific study of this.",
+"meaning_th": "ความสัมพันธ์ระหว่างอากาศ น้ำ สัตว์ พืช ฯลฯ ซึ่งมักจะเป็นของพื้นที่เฉพาะ หรือการศึกษาทางวิทยาศาสตร์เกี่ยวกับเรื่องนี้",
+"example": "The oil spill caused massive damage to the local marine ecology."
+},
+{
+"word": "Hypothesis",
+"phonetic": "/haɪˈpɒθ.ə.sɪs/",
+"type": "Noun",
+"category": "Logic",
+"meaning": "An idea or explanation for something that is based on known facts but has not yet been proved.",
+"meaning_th": "ความคิดหรือคำอธิบายสำหรับบางสิ่งที่อาศัยข้อเท็จจริงที่ทราบกันดีแต่ยังไม่ได้รับการพิสูจน์",
+"example": "The scientists are conducting experiments to test their hypothesis."
+},
+{
+"word": "Evidence",
+"phonetic": "/ˈev.ɪ.dəns/",
+"type": "Noun",
+"category": "Logic",
+"meaning": "One or more reasons for believing that something is or is not true.",
+"meaning_th": "เหตุผลอย่างหนึ่งหรือมากกว่าสำหรับการเชื่อว่าบางสิ่งเป็นจริงหรือไม่จริง",
+"example": "The police are searching for evidence to link the suspect to the crime."
+},
+{
+"word": "Paradox",
+"phonetic": "/ˈpær.ə.dɒks/",
+"type": "Noun",
+"category": "Logic",
+"meaning": "A situation or statement that seems impossible or is difficult to understand because it contains two opposite facts or characteristics.",
+"meaning_th": "สถานการณ์หรือข้อความที่ดูเหมือนจะเป็นไปไม่ได้หรือยากที่จะเข้าใจ เนื่องจากมีข้อเท็จจริงหรือลักษณะสองประการที่ตรงข้ามกัน",
+"example": "It's a strange paradox that people who work more often get less done."
+},
+{
+"word": "Conclusion",
+"phonetic": "/kənˈkluː.ʒən/",
+"type": "Noun",
+"category": "Logic",
+"meaning": "The final part of something or an opinion you have reached after considering all the information about something.",
+"meaning_th": "ส่วนสุดท้ายของบางสิ่ง หรือความคิดเห็นที่คุณสรุปได้หลังจากพิจารณาข้อมูลทั้งหมดเกี่ยวกับบางสิ่งนั้นแล้ว",
+"example": "After reading the report, I came to the conclusion that we need to change our plan."
+},
+{
+"word": "Statistics",
+"phonetic": "/stəˈtɪs.tɪks/",
+"type": "Noun",
+"category": "Logic",
+"meaning": "Information based on a study of the number of times something happens or is present, or other numerical facts.",
+"meaning_th": "ข้อมูลที่มาจากการศึกษาจำนวนครั้งที่บางสิ่งเกิดขึ้นหรือปรากฏอยู่ หรือข้อเท็จจริงทางตัวเลขอื่นๆ",
+"example": "The official statistics show a decrease in unemployment this year."
+},
+{
+"word": "Verdict",
+"phonetic": "/ˈvɜː.dɪkt/",
+"type": "Noun",
+"category": "Law & Justice",
+"meaning": "An official decision made by a jury or a judge in a court of law, stating whether someone is guilty of a crime or not.",
+"meaning_th": "การตัดสินใจอย่างเป็นทางการโดยคณะลูกขุนหรือผู้พิพากษาในศาลกฎหมาย โดยระบุว่าบางคนมีความผิดในอาชญากรรมหรือไม่",
+"example": "The jury reached a unanimous verdict of 'not guilty' after hours of deliberation."
+},
+{
+"word": "Prosecute",
+"phonetic": "/ˈprɒs.ɪ.kjuːt/",
+"type": "Verb",
+"category": "Law & Justice",
+"meaning": "To officially accuse someone of committing a crime in a law court.",
+"meaning_th": "การกล่าวหาบางคนอย่างเป็นทางการว่าก่ออาชญากรรมในศาลกฎหมาย",
+"example": "The state decided to prosecute the company for violating safety regulations."
+},
+{
+"word": "Attorney",
+"phonetic": "/əˈtɜː.ni/",
+"type": "Noun",
+"category": "Law & Justice",
+"meaning": "A person, typically a lawyer, appointed to act for another in business or legal matters.",
+"meaning_th": "บุคคลซึ่งโดยทั่วไปคือนักกฎหมาย ที่ได้รับการแต่งตั้งให้ปฏิบัติหน้าที่แทนผู้อื่นในเรื่องธุรกิจหรือกฎหมาย",
+"example": "You should consult with an attorney before signing any legal documents."
+},
+{
+"word": "Jury",
+"phonetic": "/ˈdʒʊə.ri/",
+"type": "Noun",
+"category": "Law & Justice",
+"meaning": "A group of people who have been chosen to listen to all the facts in a trial in a law court and to decide if a person is guilty or not guilty.",
+"meaning_th": "กลุ่มบุคคลที่ได้รับเลือกให้รับฟังข้อเท็จจริงทั้งหมดในการพิจารณาคดีในศาลกฎหมาย และตัดสินว่าบุคคลนั้นมีความผิดหรือไม่ผิด",
+"example": "The members of the jury listened carefully to the witness's testimony."
+},
+{
+"word": "Conviction",
+"phonetic": "/kənˈvɪk.ʃən/",
+"type": "Noun",
+"category": "Law & Justice",
+"meaning": "The fact of someone being officially found to be guilty of a particular crime, or a very strong belief or opinion.",
+"meaning_th": "ข้อเท็จจริงของการที่บางคนถูกตัดสินอย่างเป็นทางการว่ามีความผิดในอาชญากรรมเฉพาะอย่าง หรือความเชื่อหรือความคิดเห็นที่รุนแรงมาก",
+"example": "He has a previous conviction for driving while intoxicated."
+},
+{
+"word": "Defendant",
+"phonetic": "/dɪˈfen.dənt/",
+"type": "Noun",
+"category": "Law & Justice",
+"meaning": "A person in a law court who has been accused of doing something illegal.",
+"meaning_th": "บุคคลในศาลกฎหมายที่ถูกกล่าวหาว่ากระทำการที่ผิดกฎหมาย",
+"example": "The defendant stood up as the judge entered the courtroom."
+},
+{
+"word": "Embassy",
+"phonetic": "/ˈem.bə.si/",
+"type": "Noun",
+"category": "Diplomacy",
+"meaning": "The group of people who represent their country in a foreign country, or the building they work in.",
+"meaning_th": "กลุ่มคนที่ทำหน้าที่แทนประเทศของตนในต่างประเทศ หรืออาคารที่พวกเขาทำงานอยู่",
+"example": "I need to visit the American embassy to apply for a visa."
+},
+{
+"word": "Treaty",
+"phonetic": "/ˈtriː.ti/",
+"type": "Noun",
+"category": "Diplomacy",
+"meaning": "A written agreement between two or more countries, formally approved and signed by their leaders.",
+"meaning_th": "ข้อตกลงที่เป็นลายลักษณ์อักษรระหว่างสองประเทศหรือมากกว่า ซึ่งได้รับการอนุมัติและลงนามอย่างเป็นทางการโดยผู้นำของพวกเขา",
+"example": "The peace treaty was signed after months of difficult negotiations."
+},
+{
+"word": "Ambassador",
+"phonetic": "/æmˈbæs.ə.dər/",
+"type": "Noun",
+"category": "Diplomacy",
+"meaning": "An important official who represents his or her country in a foreign country.",
+"meaning_th": "เจ้าหน้าที่คนสำคัญที่ทำหน้าที่แทนประเทศของตนในต่างประเทศ",
+"example": "The British ambassador hosted a reception for the visiting dignitaries."
+},
+{
+"word": "Sanction",
+"phonetic": "/ˈsæŋk.ʃən/",
+"type": "Noun",
+"category": "International Relations",
+"meaning": "An official order, such as the stopping of trade, that is taken against a country in order to make it obey international law.",
+"meaning_th": "คำสั่งอย่างเป็นทางการ เช่น การระงับการค้า ที่กระทำต่อประเทศหนึ่งเพื่อให้ปฏิบัติตามกฎหมายระหว่างประเทศ",
+"example": "The international community imposed economic sanctions on the country."
+},
+{
+"word": "Census",
+"phonetic": "/ˈsen.səs/",
+"type": "Noun",
+"category": "Public Administration",
+"meaning": "An official count of the population and a recording of other objects, such as houses or businesses.",
+"meaning_th": "การนับจำนวนประชากรอย่างเป็นทางการ และการบันทึกวัตถุอื่นๆ เช่น บ้าน หรือธุรกิจ",
+"example": "The government conducts a national census every ten years."
+},
+{
+"word": "Bureaucracy",
+"phonetic": "/bjʊəˈrɒk.rə.si/",
+"type": "Noun",
+"category": "Public Administration",
+"meaning": "A system of government or business that has many complicated rules and ways of doing things.",
+"meaning_th": "ระบบของรัฐบาลหรือธุรกิจที่มีกฎเกณฑ์และวิธีการทำสิ่งต่างๆ ที่ซับซ้อนมากมาย",
+"example": "We had to deal with a lot of bureaucracy to get a building permit."
+},
+{
+"word": "Typhoon",
+"phonetic": "/taɪˈfuːn/",
+"type": "Noun",
+"category": "Weather",
+"meaning": "A violent tropical storm with very strong winds.",
+"meaning_th": "พายุหมุนเขตร้อนที่รุนแรงพร้อมลมพัดแรงมาก",
+"example": "The coastal areas were evacuated before the typhoon hit the land."
+},
+{
+"word": "Tsunami",
+"phonetic": "/tsuːˈnɑː.mi/",
+"type": "Noun",
+"category": "Weather & Natural Disasters",
+"meaning": "An extremely large wave caused by a violent movement of the earth under the sea.",
+"meaning_th": "คลื่นขนาดใหญ่มากที่เกิดจากการเคลื่อนที่อย่างรุนแรงของโลกใต้ทะเล",
+"example": "The underwater earthquake triggered a devastating tsunami."
+},
+
+{
+"word": "Avalanche",
+"phonetic": "/ˈæv.əl.ɑːntʃ/",
+"type": "Noun",
+"category": "Natural Disasters",
+"meaning": "A large amount of ice, snow, and rock falling quickly down the side of a mountain.",
+"meaning_th": "น้ำแข็ง หิมะ และหินจำนวนมากที่ถล่มลงมาอย่างรวดเร็วตามไหล่เขาของภูเขา",
+"example": "The skiers were warned about the risk of an avalanche after the heavy snowfall."
+},
+{
+"word": "Precipitation",
+"phonetic": "/prɪˌsɪp.ɪˈteɪ.ʃən/",
+"type": "Noun",
+"category": "Weather & Science",
+"meaning": "Water that falls from the clouds towards the ground, especially as rain or snow.",
+"meaning_th": "น้ำที่ตกลงมาจากเมฆสู่พื้นดิน โดยเฉพาะในรูปของฝนหรือหิมะ",
+"example": "The forecast predicts heavy precipitation for the northern region tomorrow."
+},
+
+
+{
+"word": "Thunderstorm",
+"phonetic": "/ˈθʌn.də.stɔːm/",
+"type": "Noun",
+"category": "Weather",
+"meaning": "A storm with thunder and lightning and usually very heavy rain.",
+"meaning_th": "พายุที่มีฟ้าร้องและฟ้าแลบ และมักจะมีฝนตกหนักมาก",
+"example": "We stayed indoors during the intense thunderstorm."
+},
+{
+"word": "Barometer",
+"phonetic": "/bəˈrɒm.ɪ.tər/",
+"type": "Noun",
+"category": "Science Tools",
+"meaning": "A device that measures air pressure and shows how the weather will change.",
+"meaning_th": "อุปกรณ์ที่ใช้วัดความกดอากาศและแสดงให้เห็นว่าสภาพอากาศจะเปลี่ยนแปลงอย่างไร",
+"example": "The reading on the barometer dropped, indicating an approaching storm."
+},
+{
+"word": "Knitting",
+"phonetic": "/ˈnɪt.ɪŋ/",
+"type": "Noun",
+"category": "Hobbies",
+"meaning": "The activity of making clothes, etc. from wool or a similar thread by using two long needles.",
+"meaning_th": "กิจกรรมการทำเสื้อผ้า ฯลฯ จากขนสัตว์หรือด้ายที่คล้ายกันโดยใช้เข็มยาวสองเล่ม",
+"example": "My grandmother taught me the basics of knitting when I was young."
+},
+{
+"word": "Quilting",
+"phonetic": "/ˈkwɪl.tɪŋ/",
+"type": "Noun",
+"category": "Hobbies",
+"meaning": "The activity of making a quilt (a decorative cover for a bed).",
+"meaning_th": "กิจกรรมการทำผ้านวม (ผ้าคลุมเตียงเพื่อการตกแต่ง)",
+"example": "She joined a local quilting group to share patterns and techniques."
+},
+{
+"word": "Sketching",
+"phonetic": "/ˈsketʃ.ɪŋ/",
+"type": "Noun",
+"category": "Art & Hobbies",
+"meaning": "The activity of making a quick, rough drawing of something.",
+"meaning_th": "กิจกรรมการวาดภาพสิ่งใดสิ่งหนึ่งอย่างรวดเร็วและคร่าวๆ",
+"example": "He spent the afternoon sketching the birds in the park."
+},
+{
+"word": "Hiking",
+"phonetic": "/ˈhaɪ.kɪŋ/",
+"type": "Noun",
+"category": "Outdoor Activities",
+"meaning": "The activity of going for long walks in the countryside.",
+"meaning_th": "กิจกรรมการเดินเป็นระยะทางไกลในแถบชนบท",
+"example": "We are going hiking in the mountains this weekend."
+},
+{
+"word": "Camping",
+"phonetic": "/ˈkæm.pɪŋ/",
+"type": "Noun",
+"category": "Outdoor Activities",
+"meaning": "The activity of staying in a tent on holiday.",
+"meaning_th": "กิจกรรมการพักแรมในเต็นท์ในช่วงวันหยุด",
+"example": "They brought a portable stove for their camping trip by the lake."
+},
+{
+"word": "Snorkeling",
+"phonetic": "/ˈsnɔː.kəl.ɪŋ/",
+"type": "Noun",
+"category": "Outdoor & Water Sports",
+"meaning": "The activity of swimming while using a snorkel (a tube that allows you to breathe under the water).",
+"meaning_th": "กิจกรรมการว่ายน้ำขณะใช้ท่อหายใจ (ท่อที่ช่วยให้คุณหายใจใต้น้ำได้)",
+"example": "The coral reefs here are perfect for snorkeling and seeing colorful fish."
+},
+{
+"word": "Antidote",
+"phonetic": "/ˈæn.ti.dəʊt/",
+"type": "Noun",
+"category": "Medical",
+"meaning": "A chemical, especially a drug, that limits the effects of a poison.",
+"meaning_th": "สารเคมี โดยเฉพาะยา ที่จำกัดผลกระทบของยาพิษ",
+"example": "The hospital staff administered an antidote to the snake bite victim."
+},
+{
+"word": "Prognosis",
+"phonetic": "/prɒɡˈnəʊ.sɪs/",
+"type": "Noun",
+"category": "Medical",
+"meaning": "A statement of what is likely to happen in the future, especially in connection with a particular illness.",
+"meaning_th": "ข้อความที่ระบุว่ามีแนวโน้มจะเกิดอะไรขึ้นในอนาคต โดยเฉพาะอย่างยิ่งที่เกี่ยวข้องกับการเจ็บป่วยเฉพาะอย่าง",
+"example": "After the successful surgery, the patient's prognosis is excellent."
+},
+{
+"word": "Chronic",
+"phonetic": "/ˈkrɒn.ɪk/",
+"type": "Adjective",
+"category": "Medical",
+"meaning": "Continuing for a long time, especially an illness or problem.",
+"meaning_th": "ต่อเนื่องเป็นเวลานาน โดยเฉพาะการเจ็บป่วยหรือปัญหา",
+"example": "She suffers from chronic back pain caused by a sports injury."
+},
+{
+"word": "Epidemic",
+"phonetic": "/ˌep.ɪˈdem.ɪk/",
+"type": "Noun",
+"category": "Medical & Society",
+"meaning": "The appearance of a particular disease in a large number of people at the same time.",
+"meaning_th": "การปรากฏของโรคเฉพาะอย่างในกลุ่มคนจำนวนมากในเวลาเดียวกัน",
+"example": "The city is struggling to contain the flu epidemic."
+},
+{
+"word": "Pharmacy",
+"phonetic": "/ˈfɑː.mə.si/",
+"type": "Noun",
+"category": "Medical",
+"meaning": "A shop or part of a shop where medicines are prepared and sold.",
+"meaning_th": "ร้านค้าหรือส่วนหนึ่งของร้านค้าที่มีการเตรียมและจำหน่ายยา",
+"example": "I need to go to the pharmacy to pick up my medication."
+},
+{
+"word": "Insomnia",
+"phonetic": "/ɪnˈsɒm.ni.ə/",
+"type": "Noun",
+"category": "Medical",
+"meaning": "The condition of being unable to sleep, over a period of time.",
+"meaning_th": "สภาวะของการไม่สามารถนอนหลับได้ในช่วงระยะเวลาหนึ่ง",
+"example": "His chronic insomnia left him feeling exhausted throughout the day."
+},
+{
+"word": "Broil",
+"phonetic": "/brɔɪl/",
+"type": "Verb",
+"category": "Cooking",
+"meaning": "To cook something by direct heat, especially in an oven.",
+"meaning_th": "การปรุงอาหารด้วยความร้อนโดยตรง โดยเฉพาะในเตาอบ",
+"example": "You can broil the fish for about five minutes on each side."
+},
+{
+"word": "Poach",
+"phonetic": "/pəʊtʃ/",
+"type": "Verb",
+"category": "Cooking",
+"meaning": "To cook something, such as an egg, without its shell, in water or another liquid that is gently boiling.",
+"meaning_th": "การปรุงอาหารบางอย่าง เช่น ไข่ โดยไม่มีเปลือก ในน้ำหรือของเหลวอื่นที่กำลังเดือดอย่างเบาๆ",
+"example": "She decided to poach some eggs for breakfast."
+},
+{
+"word": "Zest",
+"phonetic": "/zest/",
+"type": "Noun",
+"category": "Cooking",
+"meaning": "The skin of an orange, lemon, or lime, used to give flavor to food.",
+"meaning_th": "ผิวของส้ม เลมอน หรือมะนาว ที่ใช้ในการเพิ่มรสชาติให้กับอาหาร",
+"example": "Add a little lemon zest to the batter for a fresh aroma."
+},
+{
+"word": "Whisk",
+"phonetic": "/wɪsk/",
+"type": "Verb/Noun",
+"category": "Cooking",
+"meaning": "To beat eggs, cream, etc. with a special tool in order to add air and make the mixture light.",
+"meaning_th": "การตีไข่ ครีม ฯลฯ ด้วยอุปกรณ์พิเศษเพื่อเพิ่มอากาศและทำให้ส่วนผสมมีความเบา",
+"example": "Whisk the egg whites until they form stiff peaks."
+},
+{
+"word": "Knead",
+"phonetic": "/niːd/",
+"type": "Verb",
+"category": "Cooking",
+"meaning": "To press and stretch dough with your hands to make it ready for baking.",
+"meaning_th": "การกดและยืดแป้งโดด้วยมือเพื่อให้พร้อมสำหรับการอบ",
+"example": "Knead the dough on a floured surface for ten minutes."
+},
+{
+"word": "Narrative",
+"phonetic": "/ˈnær.ə.tɪv/",
+"type": "Noun",
+"category": "Literature",
+"meaning": "A story or a description of a series of events.",
+"meaning_th": "เรื่องราวหรือการบรรยายถึงชุดของเหตุการณ์ต่างๆ",
+"example": "The novel has a complex narrative structure that jumps through time."
+},
+{
+"word": "Irony",
+"phonetic": "/ˈaɪ.rə.ni/",
+"type": "Noun",
+"category": "Literature",
+"meaning": "A situation that is strange or funny because things happen in a way that seems the opposite of what you expected.",
+"meaning_th": "สถานการณ์ที่แปลกหรือตลกเนื่องจากสิ่งต่างๆ เกิดขึ้นในทางที่ดูเหมือนจะตรงข้ามกับสิ่งที่คุณคาดหวังไว้",
+"example": "The irony was that the lifeguard had to be rescued from the pool."
+},
+{
+"word": "Symbolism",
+"phonetic": "/ˈsɪm.bəl.ɪ.zəm/",
+"type": "Noun",
+"category": "Literature",
+"meaning": "The use of symbols to represent ideas or qualities.",
+"meaning_th": "การใช้สัญลักษณ์เพื่อเป็นตัวแทนของแนวคิดหรือคุณลักษณะต่างๆ",
+"example": "The white dove is often used as symbolism for peace."
+},
+{
+"word": "Anthology",
+"phonetic": "/ænˈθɒl.ə.dʒi/",
+"type": "Noun",
+"category": "Literature",
+"meaning": "A collection of artistic works that have a similar form or subject, often those of different writers.",
+"meaning_th": "การรวบรวมผลงานศิลปะที่มีรูปแบบหรือหัวข้อคล้ายกัน ซึ่งมักเป็นผลงานของนักเขียนหลายคน",
+"example": "I'm reading an anthology of short stories by modern Japanese authors."
+},
+{
+"word": "Plagiarism",
+"phonetic": "/ˈpleɪ.dʒər.ɪ.zəm/",
+"type": "Noun",
+"category": "Literature & Education",
+"meaning": "The process or practice of using another person's ideas or work and pretending that it is your own.",
+"meaning_th": "กระบวนการหรือการปฏิบัติในการใช้แนวคิดหรือผลงานของบุคคลอื่นและแสร้งว่าเป็นของตนเอง",
+"example": "The university has strict rules against plagiarism in academic papers."
+},
+{
+"word": "Cognitive",
+"phonetic": "/ˈkɒɡ.nə.tɪv/",
+"type": "Adjective",
+"category": "Psychology",
+"meaning": "Connected with thinking or conscious mental processes.",
+"meaning_th": "ซึ่งเกี่ยวข้องกับการคิดหรือกระบวนการทางจิตที่รู้สึกตัว",
+"example": "Studies show that reading can improve cognitive development in children."
+},
+{
+"word": "Subconscious",
+"phonetic": "/ˌsʌbˈkɒn.ʃəs/",
+"type": "Noun/Adjective",
+"category": "Psychology",
+"meaning": "The part of your mind that notices and remembers information when you are not actively trying to do so.",
+"meaning_th": "ส่วนหนึ่งของจิตใจที่สังเกตและจดจำข้อมูลเมื่อคุณไม่ได้พยายามทำเช่นนั้นอย่างตั้งใจ",
+"example": "A lot of our daily habits are driven by our subconscious mind."
+},
+{
+"word": "Stereotype",
+"phonetic": "/ˈster.i.ə.taɪp/",
+"type": "Noun",
+"category": "Sociology",
+"meaning": "A set idea that people have about what someone or something is like, especially an idea that is wrong.",
+"meaning_th": "แนวคิดที่ผู้คนมีต่อคนหรือสิ่งใดสิ่งหนึ่งว่าเป็นอย่างไร โดยเฉพาะแนวคิดที่ผิด",
+"example": "We need to break the stereotype that scientists are always old men."
+},
+{
+"word": "Prejudice",
+"phonetic": "/ˈpredʒ.ə.dɪs/",
+"type": "Noun",
+"category": "Sociology",
+"meaning": "An unfair and unreasonable opinion or feeling, especially when formed without enough thought or knowledge.",
+"meaning_th": "ความคิดเห็นหรือความรู้สึกที่ไม่ยุติธรรมและไม่สมเหตุสมผล โดยเฉพาะเมื่อก่อตัวขึ้นโดยไม่ได้ไตร่ตรองหรือมีความรู้เพียงพอ",
+"example": "Laws have been passed to prevent prejudice against minority groups."
+},
+{
+"word": "Norm",
+"phonetic": "/nɔːm/",
+"type": "Noun",
+"category": "Sociology",
+"meaning": "An accepted standard or a way of behaving or doing things that most people agree with.",
+"meaning_th": "มาตรฐานที่เป็นที่ยอมรับ หรือวิธีการประพฤติตนหรือการทำสิ่งต่างๆ ที่คนส่วนใหญ่เห็นพ้องด้วย",
+"example": "In some cultures, it is the social norm to remove your shoes before entering a house."
+},
+{
+"word": "Recession",
+"phonetic": "/rɪˈseʃ.ən/",
+"type": "Noun",
+"category": "Economics",
+"meaning": "A period when the economy of a country is not successful and conditions for business are bad.",
+"meaning_th": "ช่วงเวลาที่เศรษฐกิจของประเทศไม่ประสบความสำเร็จและสภาวะทางธุรกิจย่ำแย่",
+"example": "The global economy is entering a period of deep recession."
+},
+{
+"word": "Deflation",
+"phonetic": "/dɪˈfleɪ.ʃən/",
+"type": "Noun",
+"category": "Economics",
+"meaning": "A reduction of the amount of money in a country's economy, which causes prices to fall.",
+"meaning_th": "การลดลงของปริมาณเงินในระบบเศรษฐกิจของประเทศ ซึ่งเป็นสาเหตุให้ราคาสินค้าลดลง",
+"example": "Persistent deflation can discourage consumers from spending money."
+},
+{
+"word": "Bankruptcy",
+"phonetic": "/ˈbæŋ.krəpt.si/",
+"type": "Noun",
+"category": "Finance",
+"meaning": "A situation in which a person or a business has no money to pay their debts.",
+"meaning_th": "สถานการณ์ที่บุคคลหรือธุรกิจไม่มีเงินเพียงพอที่จะชำระหนี้สินของตน",
+"example": "The airline had to file for bankruptcy after years of losses."
+},
+{
+"word": "Merger",
+"phonetic": "/ˈmɜː.dʒər/",
+"type": "Noun",
+"category": "Business",
+"meaning": "An occasion when two or more companies or organizations join together to make one larger company.",
+"meaning_th": "โอกาสที่บริษัทหรือองค์กรตั้งแต่สองแห่งขึ้นไปรวมเข้าด้วยกันเพื่อสร้างบริษัทที่ใหญ่ขึ้น",
+"example": "The merger between the two tech giants was approved by the regulators."
+},
+{
+"word": "Acquisition",
+"phonetic": "/ˌæk.wɪˈzɪʃ.ən/",
+"type": "Noun",
+"category": "Business",
+"meaning": "The process of getting something, or something that you have recently bought for a library or museum.",
+"meaning_th": "กระบวนการในการได้รับบางสิ่งบางอย่าง หรือบางสิ่งที่คุณเพิ่งซื้อมา (สำหรับการครอบครองกิจการ)",
+"example": "The company's latest acquisition will help them expand into the Asian market."
+},
+{
+"word": "Entrepreneur",
+"phonetic": "/ˌɒn.trə.prəˈnɜːr/",
+"type": "Noun",
+"category": "Business",
+"meaning": "Someone who starts their own business, especially when this involves seeing a new opportunity.",
+"meaning_th": "ผู้ที่เริ่มต้นธุรกิจของตนเอง โดยเฉพาะอย่างยิ่งเมื่อเกี่ยวข้องกับการมองเห็นโอกาสใหม่ๆ",
+"example": "The government is offering grants to help young entrepreneurs start their companies."
+},
+{
+"word": "Cybersecurity",
+"phonetic": "/ˌsaɪ.bə.sɪˈkjʊə.rə.ti/",
+"type": "Noun",
+"category": "Technology",
+"meaning": "Things that are done to protect a computer system against unauthorized use or attack.",
+"meaning_th": "สิ่งที่ทำขึ้นเพื่อป้องกันระบบคอมพิวเตอร์จากการใช้งานหรือการโจมตีโดยไม่ได้รับอนุญาต",
+"example": "Investing in cybersecurity is essential for any modern digital business."
+},
+{
+"word": "Virtualization",
+"phonetic": "/ˌvɜː.tʃu.ə.laɪˈzeɪ.ʃən/",
+"type": "Noun",
+"category": "Technology",
+"meaning": "The process of creating a virtual version of something, such as a server or a computer network.",
+"meaning_th": "กระบวนการสร้างเวอร์ชันเสมือนของบางสิ่ง เช่น เซิร์ฟเวอร์หรือเครือข่ายคอมพิวเตอร์",
+"example": "Server virtualization allows multiple operating systems to run on a single physical machine."
+},
+{
+"word": "Blockchain",
+"phonetic": "/ˈblɒk.tʃeɪn/",
+"type": "Noun",
+"category": "Technology & Finance",
+"meaning": "A system in which a record of transactions made in bitcoin or another cryptocurrency are maintained across several computers that are linked in a peer-to-peer network.",
+"meaning_th": "ระบบที่มีการบันทึกธุรกรรมที่ทำด้วยบิตคอยน์หรือสกุลเงินดิจิทัลอื่นกระจายอยู่ตามคอมพิวเตอร์หลายเครื่องที่เชื่อมโยงกันในเครือข่ายแบบเพียร์ทูเพียร์",
+"example": "Blockchain technology is the foundation of decentralized finance."
+}
+
+
+{
+"word": "Nanotechnology",
+"phonetic": "/ˌnæn.əʊ.tekˈnɒl.ə.dʒi/",
+"type": "Noun",
+"category": "Science & Tech",
+"meaning": "The study and use of machines and devices that are so small that they can only be seen with a powerful microscope.",
+"meaning_th": "การศึกษาและการใช้เครื่องจักรและอุปกรณ์ที่มีขนาดเล็กมากจนสามารถมองเห็นได้ด้วยกล้องจุลทรรศน์ที่มีกำลังขยายสูงเท่านั้น",
+"example": "Nanotechnology could lead to major breakthroughs in cancer treatment."
+},
+{
+"word": "Automation",
+"phonetic": "/ˌɔː.təˈmeɪ.ʃən/",
+"type": "Noun",
+"category": "Technology",
+"meaning": "The use of machines and computers that can work without needing human control.",
+"meaning_th": "การใช้เครื่องจักรและคอมพิวเตอร์ที่สามารถทำงานได้โดยไม่ต้องมีการควบคุมจากมนุษย์",
+"example": "Automation has significantly increased the speed of production in many factories."
+},
+{
+"word": "Biometrics",
+"phonetic": "/ˌbaɪ.əʊˈmet.rɪks/",
+"type": "Noun",
+"category": "Technology",
+"meaning": "The use of physical characteristics, such as fingerprints or a person's eyes, to identify people.",
+"meaning_th": "การใช้ลักษณะทางกายภาพ เช่น ลายนิ้วมือ หรือดวงตาของบุคคล เพื่อระบุตัวตน",
+"example": "The new smartphones use biometrics like facial recognition for security."
+},
+{
+"word": "Synapse",
+"phonetic": "/ˈsaɪ.næps/",
+"type": "Noun",
+"category": "Biology",
+"meaning": "The point at which an electrical signal passes from one nerve cell to another.",
+"meaning_th": "จุดที่สัญญาณไฟฟ้าส่งผ่านจากเซลล์ประสาทหนึ่งไปยังอีกเซลล์ประสาทหนึ่ง",
+"example": "Chemicals called neurotransmitters help signals cross the synapse."
+}
+
+{
+"word": "Plasma",
+"phonetic": "/ˈplæz.mə/",
+"type": "Noun",
+"category": "Science",
+"meaning": "The pale yellow liquid part of the blood that contains the blood cells.",
+"meaning_th": "ส่วนที่เป็นของเหลวสีเหลืองอ่อนของเลือดซึ่งประกอบด้วยเซลล์เม็ดเลือด",
+"example": "He decided to donate plasma to help patients in need."
+},
+{
+"word": "Genome",
+"phonetic": "/ˈdʒiː.nəʊm/",
+"type": "Noun",
+"category": "Science",
+"meaning": "The complete set of genetic material of a human, animal, plant, or other living thing.",
+"meaning_th": "ชุดข้อมูลทางพันธุกรรมทั้งหมดของมนุษย์ สัตว์ พืช หรือสิ่งมีชีวิตอื่นๆ",
+"example": "Scientists finished mapping the human genome in 2003."
 }]
