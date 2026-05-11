@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SmartVocab</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+  <h1>SmartVocab</h1>
+  <span>High-Performance English Acquisition</span>
+</header>
+
+<div id="timer-bar">
+  <span style="font-size:16px;color:#c8922a;">⏱</span>
+  <span id="timer-label">คำถัดไปใน</span>
+  <div id="timer-progress-wrap">
+    <div id="timer-progress" style="width:100%"></div>
+  </div>
+  <span id="timer-text">3:00:00</span>
+</div>
+
+<main>
+  <div class="section-title">
+    หมวดคำศัพท์ <span class="word-count-badge" id="wcount">–</span>
+  </div>
+  <div class="cat-tabs" id="cat-tabs"></div>
+
+  <div class="card" id="vocab-card">
+    <div class="word-type"     id="wtype"></div>
+    <div class="word-cat"      id="wcat"></div>
+    <div class="word-title"    id="wword"></div>
+    <div class="word-phonetic" id="wphonetic"></div>
+    <div class="word-meaning"  id="wmeaning"></div>
+    <div class="word-meaning-th" id="wmeaning_th"></div>
+    <div class="word-example"  id="wexample"></div>
+
+    <div class="actions">
+      <button class="btn btn-tts"     onclick="speak()"              title="ฟังเสียง">🔊</button>
+      <button class="btn btn-unknown" onclick="markWord('unknown')">❌ ยังไม่รู้</button>
+      <button class="btn btn-known"   onclick="markWord('known')">✅ รู้แล้ว</button>
+    </div>
+  </div>
+
+  <div class="stats-row">
+    <div class="stat-box">
+      <div class="stat-num" id="s-known">0</div>
+      <div class="stat-label">รู้แล้ว</div>
+    </div>
+    <div class="stat-box">
+      <div class="stat-num" id="s-unknown">0</div>
+      <div class="stat-label">ต้องทบทวน</div>
+    </div>
+    <div class="stat-box">
+      <div class="stat-num" id="s-total">0</div>
+      <div class="stat-label">รวมทั้งหมด</div>
+    </div>
+  </div>
+
+  <div>
+    <div class="section-title">การแจ้งเตือนระบบ</div>
+    <button class="notif-btn" id="notif-btn" onclick="openNotification()">
+      🔔 เปิดใช้งานการแจ้งเตือน
+    </button>
+  </div>
+</main>
+
+<footer>SmartVocab · Micro-Learning Architecture · v1.1</footer>
+
+<!-- ES Module entry point -->
+<script type="module" src="js/app.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,137 @@
+[
+  {
+    "word": "Arbitrage",
+    "phonetic": "/ˈɑːr.bɪ.trɑːʒ/",
+    "type": "Noun",
+    "category": "Finance",
+    "meaning": "The practice of buying and selling assets simultaneously to profit from price differences.",
+    "meaning_th": "การซื้อขายสินทรัพย์พร้อมกันเพื่อทำกำไรจากส่วนต่างราคา",
+    "example": "The hedge fund used arbitrage strategies to exploit price discrepancies between markets."
+  },
+  {
+    "word": "Intrinsic Value",
+    "phonetic": "/ɪnˈtrɪn.sɪk ˈvæl.juː/",
+    "type": "Noun Phrase",
+    "category": "Finance",
+    "meaning": "The perceived or calculated real value of an asset, independent of its market price.",
+    "meaning_th": "มูลค่าที่แท้จริงของสินทรัพย์ ไม่ขึ้นกับราคาตลาด",
+    "example": "Warren Buffett focuses on buying stocks below their intrinsic value."
+  },
+  {
+    "word": "Volatility",
+    "phonetic": "/ˌvɒl.əˈtɪl.ɪ.ti/",
+    "type": "Noun",
+    "category": "Finance",
+    "meaning": "The degree of variation in the price of a financial instrument over time.",
+    "meaning_th": "ระดับความผันผวนของราคาสินทรัพย์ทางการเงินตามเวลา",
+    "example": "High volatility in the crypto market makes it risky for conservative investors."
+  },
+  {
+    "word": "Liquidity",
+    "phonetic": "/lɪˈkwɪd.ɪ.ti/",
+    "type": "Noun",
+    "category": "Finance",
+    "meaning": "The ease with which an asset can be converted into cash without affecting its price.",
+    "meaning_th": "ความสะดวกในการแปลงสินทรัพย์เป็นเงินสดโดยไม่กระทบราคา",
+    "example": "Real estate has lower liquidity compared to stocks or bonds."
+  },
+  {
+    "word": "Due Diligence",
+    "phonetic": "/djuː ˈdɪl.ɪ.dʒəns/",
+    "type": "Noun",
+    "category": "Finance",
+    "meaning": "The thorough investigation of a business or investment before entering an agreement.",
+    "meaning_th": "การตรวจสอบธุรกิจหรือการลงทุนอย่างละเอียดก่อนทำข้อตกลง",
+    "example": "Investors must conduct due diligence before committing capital to any startup."
+  },
+  {
+    "word": "ROI",
+    "phonetic": "/ɑːr.əʊˈaɪ/",
+    "type": "Abbreviation",
+    "category": "Finance",
+    "meaning": "Return on Investment — a measure of the profitability of an investment.",
+    "meaning_th": "ผลตอบแทนจากการลงทุน — ตัวชี้วัดความคุ้มค่าของการลงทุน",
+    "example": "The marketing campaign delivered a 300% ROI within the first quarter."
+  },
+  {
+    "word": "Neural Network",
+    "phonetic": "/ˈnjʊər.əl ˈnet.wɜːk/",
+    "type": "Noun",
+    "category": "AI & Tech",
+    "meaning": "A computing system modeled after the human brain, used in machine learning.",
+    "meaning_th": "ระบบคอมพิวเตอร์ที่จำลองการทำงานของสมองมนุษย์ ใช้ใน Machine Learning",
+    "example": "The neural network was trained on millions of images to recognize faces accurately."
+  },
+  {
+    "word": "Prompt Engineering",
+    "phonetic": "/prɒmpt ˌen.dʒɪˈnɪər.ɪŋ/",
+    "type": "Noun",
+    "category": "AI & Tech",
+    "meaning": "The art of designing effective inputs to guide AI models toward desired outputs.",
+    "meaning_th": "ศิลปะการออกแบบ input เพื่อนำทาง AI ให้ได้ผลลัพธ์ที่ต้องการ",
+    "example": "Prompt engineering skills are now highly valued in the AI industry."
+  },
+  {
+    "word": "Hallucination",
+    "phonetic": "/həˌluː.sɪˈneɪ.ʃən/",
+    "type": "Noun",
+    "category": "AI & Tech",
+    "meaning": "When an AI model generates factually incorrect or nonsensical information confidently.",
+    "meaning_th": "เมื่อ AI สร้างข้อมูลที่ผิดพลาดหรือไม่สมเหตุสมผลอย่างมั่นใจ",
+    "example": "The chatbot experienced hallucination and cited non-existent research papers."
+  },
+  {
+    "word": "Scalability",
+    "phonetic": "/ˌskeɪ.ləˈbɪl.ɪ.ti/",
+    "type": "Noun",
+    "category": "AI & Tech",
+    "meaning": "The ability of a system to handle increasing workloads by adding resources.",
+    "meaning_th": "ความสามารถของระบบในการรองรับปริมาณงานที่เพิ่มขึ้นโดยเพิ่มทรัพยากร",
+    "example": "The cloud-based architecture ensured scalability during peak traffic periods."
+  },
+  {
+    "word": "Leverage",
+    "phonetic": "/ˈlev.ər.ɪdʒ/",
+    "type": "Noun/Verb",
+    "category": "Business",
+    "meaning": "Using borrowed resources or influence to maximize potential returns or impact.",
+    "meaning_th": "การใช้ทรัพยากรที่ยืมมาหรืออิทธิพลเพื่อเพิ่มผลตอบแทนหรือผลกระทบ",
+    "example": "The startup leveraged its existing customer base to expand into new markets."
+  },
+  {
+    "word": "Synergy",
+    "phonetic": "/ˈsɪn.ər.dʒi/",
+    "type": "Noun",
+    "category": "Business",
+    "meaning": "The combined effect of elements working together, greater than the sum of their parts.",
+    "meaning_th": "ผลรวมที่ได้จากการทำงานร่วมกัน มากกว่าผลรวมของแต่ละส่วน",
+    "example": "The merger created synergy, reducing costs while increasing market reach."
+  },
+  {
+    "word": "Stakeholder",
+    "phonetic": "/ˈsteɪk.həʊl.dər/",
+    "type": "Noun",
+    "category": "Business",
+    "meaning": "Any person or group with an interest or concern in a business or organization.",
+    "meaning_th": "บุคคลหรือกลุ่มที่มีส่วนได้ส่วนเสียในธุรกิจหรือองค์กร",
+    "example": "The CEO presented the quarterly results to all key stakeholders."
+  },
+  {
+    "word": "Benchmark",
+    "phonetic": "/ˈbentʃ.mɑːrk/",
+    "type": "Noun/Verb",
+    "category": "Business",
+    "meaning": "A standard or reference point used for comparison or performance evaluation.",
+    "meaning_th": "มาตรฐานหรือจุดอ้างอิงที่ใช้ในการเปรียบเทียบหรือประเมินผลการปฏิบัติงาน",
+    "example": "Our sales team benchmarked performance against the industry's top competitors."
+  },
+  {
+    "word": "Pivot",
+    "phonetic": "/ˈpɪv.ət/",
+    "type": "Verb/Noun",
+    "category": "Business",
+    "meaning": "A fundamental change in a company's strategy or business model.",
+    "meaning_th": "การเปลี่ยนแปลงกลยุทธ์หรือรูปแบบธุรกิจอย่างพื้นฐาน",
+    "example": "After initial failures, the team decided to pivot to a B2B software model."
+  }
+]
